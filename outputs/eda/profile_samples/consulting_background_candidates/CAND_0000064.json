@@ -1,0 +1,157 @@
+{
+  "candidate_id": "CAND_0000064",
+  "profile": {
+    "anonymized_name": "Meera Pandey",
+    "headline": "Accountant | Helping teams scale",
+    "summary": "Professional with 4.5+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "London",
+    "country": "UK",
+    "years_of_experience": 4.5,
+    "current_title": "Accountant",
+    "current_company": "Acme Corp",
+    "current_company_size": "201-500",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Acme Corp",
+      "title": "Accountant",
+      "start_date": "2024-11-03",
+      "end_date": null,
+      "duration_months": 19,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Initech",
+      "title": "Customer Support",
+      "start_date": "2022-01-04",
+      "end_date": "2024-10-20",
+      "duration_months": 34,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Thapar University",
+      "degree": "B.Tech",
+      "field_of_study": "Electrical Engineering",
+      "start_year": 2017,
+      "end_year": 2020,
+      "grade": "91%",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 5
+    },
+    {
+      "name": "Agile",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 5
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "intermediate",
+      "endorsements": 10,
+      "duration_months": 28
+    },
+    {
+      "name": "Snowflake",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 12
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 18
+    },
+    {
+      "name": "SQL",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 31
+    },
+    {
+      "name": "Data Pipelines",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 16
+    },
+    {
+      "name": "GraphQL",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 9
+    },
+    {
+      "name": "Tailwind",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 9
+    },
+    {
+      "name": "Marketing",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 28
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2019
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 70.6,
+    "signup_date": "2025-05-08",
+    "last_active_date": "2025-11-20",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 67,
+    "applications_submitted_30d": 4,
+    "recruiter_response_rate": 0.26,
+    "avg_response_time_hours": 226.0,
+    "skill_assessment_scores": {},
+    "connection_count": 411,
+    "endorsements_received": 20,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 5.3,
+      "max": 23.0
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 125,
+    "saved_by_recruiters_30d": 12,
+    "interview_completion_rate": 0.77,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

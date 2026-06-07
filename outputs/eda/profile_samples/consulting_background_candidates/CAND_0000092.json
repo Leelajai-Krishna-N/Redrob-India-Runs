@@ -1,0 +1,142 @@
+{
+  "candidate_id": "CAND_0000092",
+  "profile": {
+    "anonymized_name": "Siya Pandey",
+    "headline": "Business Analyst | Driving business outcomes",
+    "summary": "Professional with 4.8+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Delhi, Delhi",
+    "country": "India",
+    "years_of_experience": 4.8,
+    "current_title": "Business Analyst",
+    "current_company": "Wipro",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Wipro",
+      "title": "Business Analyst",
+      "start_date": "2023-04-13",
+      "end_date": null,
+      "duration_months": 38,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Mechanical Engineer",
+      "start_date": "2021-08-21",
+      "end_date": "2023-03-14",
+      "duration_months": 19,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tier-3 Engineering College",
+      "degree": "B.E.",
+      "field_of_study": "Mathematics",
+      "start_year": 2017,
+      "end_year": 2022,
+      "grade": "9.33 CGPA",
+      "tier": "tier_4"
+    },
+    {
+      "institution": "Chandigarh University",
+      "degree": "B.Tech",
+      "field_of_study": "Civil Engineering",
+      "start_year": 2011,
+      "end_year": 2016,
+      "grade": "8.86 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Vue.js",
+      "proficiency": "beginner",
+      "endorsements": 11,
+      "duration_months": 10
+    },
+    {
+      "name": "Databricks",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 4
+    },
+    {
+      "name": "Snowflake",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 33
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 5
+    },
+    {
+      "name": "Django",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 35
+    },
+    {
+      "name": "Rust",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 27
+    },
+    {
+      "name": "Airflow",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 16
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 64.3,
+    "signup_date": "2025-03-23",
+    "last_active_date": "2025-11-01",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 29,
+    "applications_submitted_30d": 8,
+    "recruiter_response_rate": 0.05,
+    "avg_response_time_hours": 15.8,
+    "skill_assessment_scores": {},
+    "connection_count": 250,
+    "endorsements_received": 6,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 4.6,
+      "max": 27.5
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 53,
+    "saved_by_recruiters_30d": 12,
+    "interview_completion_rate": 0.34,
+    "offer_acceptance_rate": 0.42,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

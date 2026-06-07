@@ -1,0 +1,147 @@
+{
+  "candidate_id": "CAND_0000046",
+  "profile": {
+    "anonymized_name": "Dev Nair",
+    "headline": "Mechanical Engineer | 7.8+ yrs experience",
+    "summary": "Professional with 7.8+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "London",
+    "country": "UK",
+    "years_of_experience": 7.8,
+    "current_title": "Mechanical Engineer",
+    "current_company": "Hooli",
+    "current_company_size": "1001-5000",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Hooli",
+      "title": "Mechanical Engineer",
+      "start_date": "2023-12-09",
+      "end_date": null,
+      "duration_months": 30,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "HR Manager",
+      "start_date": "2021-02-22",
+      "end_date": "2023-11-09",
+      "duration_months": 33,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Hooli",
+      "title": "Marketing Manager",
+      "start_date": "2018-08-23",
+      "end_date": "2021-02-08",
+      "duration_months": 30,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Christ University",
+      "degree": "M.Tech",
+      "field_of_study": "Electrical Engineering",
+      "start_year": 2014,
+      "end_year": 2017,
+      "grade": "9.49 CGPA",
+      "tier": "tier_3"
+    },
+    {
+      "institution": "Chandigarh University",
+      "degree": "B.E.",
+      "field_of_study": "Statistics",
+      "start_year": 2004,
+      "end_year": 2009,
+      "grade": "7.94 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Agile",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 9
+    },
+    {
+      "name": "Scrum",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 28
+    },
+    {
+      "name": "SAP",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 35
+    },
+    {
+      "name": "React",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 7
+    },
+    {
+      "name": "Azure",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 36
+    },
+    {
+      "name": "ETL",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 8
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 74.8,
+    "signup_date": "2023-02-12",
+    "last_active_date": "2026-02-20",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 80,
+    "applications_submitted_30d": 6,
+    "recruiter_response_rate": 0.41,
+    "avg_response_time_hours": 209.8,
+    "skill_assessment_scores": {},
+    "connection_count": 301,
+    "endorsements_received": 29,
+    "notice_period_days": 30,
+    "expected_salary_range_inr_lpa": {
+      "min": 7.6,
+      "max": 28.0
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": true,
+    "github_activity_score": 20.9,
+    "search_appearance_30d": 166,
+    "saved_by_recruiters_30d": 7,
+    "interview_completion_rate": 0.4,
+    "offer_acceptance_rate": 0.34,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

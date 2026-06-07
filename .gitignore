@@ -1,0 +1,14 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Raw challenge data is large and should stay local.
+data/raw/
+
+# Local/editor noise
+.DS_Store
+Thumbs.db

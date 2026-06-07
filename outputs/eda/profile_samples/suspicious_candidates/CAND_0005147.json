@@ -1,0 +1,228 @@
+{
+  "candidate_id": "CAND_0005147",
+  "profile": {
+    "anonymized_name": "Arnav Chopra",
+    "headline": "Mechanical Engineer | Generative AI explorer",
+    "summary": "Mechanical Engineer with 8.5+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Seattle",
+    "country": "USA",
+    "years_of_experience": 8.5,
+    "current_title": "Mechanical Engineer",
+    "current_company": "Initech",
+    "current_company_size": "51-200",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Initech",
+      "title": "Mechanical Engineer",
+      "start_date": "2023-12-09",
+      "end_date": null,
+      "duration_months": 30,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "Sales Executive",
+      "start_date": "2021-10-06",
+      "end_date": "2023-11-25",
+      "duration_months": 26,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Wipro",
+      "title": "Business Analyst",
+      "start_date": "2018-01-25",
+      "end_date": "2021-10-06",
+      "duration_months": 45,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "degree": "M.Tech",
+      "field_of_study": "Computer Engineering",
+      "start_year": 2013,
+      "end_year": 2016,
+      "grade": "9.05 CGPA",
+      "tier": "tier_1"
+    }
+  ],
+  "skills": [
+    {
+      "name": "dbt",
+      "proficiency": "beginner",
+      "endorsements": 13,
+      "duration_months": 7
+    },
+    {
+      "name": "Photoshop",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 11
+    },
+    {
+      "name": "Angular",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 5
+    },
+    {
+      "name": "Project Management",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 12
+    },
+    {
+      "name": "Next.js",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 21
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 24
+    },
+    {
+      "name": "BigQuery",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 24
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 20
+    },
+    {
+      "name": "Airflow",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 9
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 17
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 4
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 4
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 9
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 11
+    },
+    {
+      "name": "RAG",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 11
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 8
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 9
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 5
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 14
+    },
+    {
+      "name": "Recommendation Systems",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 4
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 7
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 37.8,
+    "signup_date": "2024-05-31",
+    "last_active_date": "2025-10-13",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 29,
+    "applications_submitted_30d": 10,
+    "recruiter_response_rate": 0.76,
+    "avg_response_time_hours": 229.5,
+    "skill_assessment_scores": {},
+    "connection_count": 340,
+    "endorsements_received": 34,
+    "notice_period_days": 150,
+    "expected_salary_range_inr_lpa": {
+      "min": 13.0,
+      "max": 23.6
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 96,
+    "saved_by_recruiters_30d": 9,
+    "interview_completion_rate": 0.59,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

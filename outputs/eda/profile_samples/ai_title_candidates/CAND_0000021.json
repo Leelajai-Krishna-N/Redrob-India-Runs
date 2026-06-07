@@ -1,0 +1,231 @@
+{
+  "candidate_id": "CAND_0000021",
+  "profile": {
+    "anonymized_name": "Rahul Joshi",
+    "headline": "Project Manager | AI enthusiast | Building with LLMs",
+    "summary": "Project Manager with 14.5+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Bhubaneswar, Odisha",
+    "country": "India",
+    "years_of_experience": 14.5,
+    "current_title": "Project Manager",
+    "current_company": "Wipro",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Wipro",
+      "title": "Project Manager",
+      "start_date": "2023-12-09",
+      "end_date": null,
+      "duration_months": 30,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Infosys",
+      "title": "Marketing Manager",
+      "start_date": "2021-02-22",
+      "end_date": "2023-10-10",
+      "duration_months": 32,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Sales Executive",
+      "start_date": "2019-08-25",
+      "end_date": "2021-02-15",
+      "duration_months": 18,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Customer Support",
+      "start_date": "2015-06-17",
+      "end_date": "2019-08-25",
+      "duration_months": 51,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Wipro",
+      "title": "Project Manager",
+      "start_date": "2014-03-24",
+      "end_date": "2015-06-17",
+      "duration_months": 15,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "TCS",
+      "title": "Customer Support",
+      "start_date": "2011-12-05",
+      "end_date": "2014-01-23",
+      "duration_months": 26,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tier-3 Engineering College",
+      "degree": "B.Tech",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2008,
+      "end_year": 2011,
+      "grade": "9.30 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Hadoop",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 5
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 4
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 6
+    },
+    {
+      "name": "Microservices",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 14
+    },
+    {
+      "name": "AWS",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 26
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 6
+    },
+    {
+      "name": "ETL",
+      "proficiency": "beginner",
+      "endorsements": 11,
+      "duration_months": 3
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 12
+    },
+    {
+      "name": "Recommendation Systems",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 13
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 4
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 5
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 7
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 16
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 13
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 18
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 8
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 58.5,
+    "signup_date": "2026-02-10",
+    "last_active_date": "2025-11-21",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 1,
+    "applications_submitted_30d": 8,
+    "recruiter_response_rate": 0.49,
+    "avg_response_time_hours": 98.7,
+    "skill_assessment_scores": {},
+    "connection_count": 52,
+    "endorsements_received": 3,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 10.9,
+      "max": 24.4
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": true,
+    "github_activity_score": 6.4,
+    "search_appearance_30d": 8,
+    "saved_by_recruiters_30d": 3,
+    "interview_completion_rate": 0.53,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

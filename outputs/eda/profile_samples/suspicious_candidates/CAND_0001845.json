@@ -1,0 +1,217 @@
+{
+  "candidate_id": "CAND_0001845",
+  "profile": {
+    "anonymized_name": "Anika Sharma",
+    "headline": "Customer Support | AI enthusiast | Building with LLMs",
+    "summary": "Customer Support with 3.4+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Mumbai, Maharashtra",
+    "country": "India",
+    "years_of_experience": 3.4,
+    "current_title": "Customer Support",
+    "current_company": "Globex Inc",
+    "current_company_size": "501-1000",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Globex Inc",
+      "title": "Customer Support",
+      "start_date": "2023-08-11",
+      "end_date": null,
+      "duration_months": 34,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Hooli",
+      "title": "Accountant",
+      "start_date": "2023-01-29",
+      "end_date": "2023-07-28",
+      "duration_months": 6,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Regional Technical Institute",
+      "degree": "B.E.",
+      "field_of_study": "Physics",
+      "start_year": 2017,
+      "end_year": 2022,
+      "grade": "8.29 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Node.js",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 14
+    },
+    {
+      "name": "Statistical Modeling",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 23
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 5
+    },
+    {
+      "name": "HTML",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 33
+    },
+    {
+      "name": "Project Management",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 12
+    },
+    {
+      "name": "Data Pipelines",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 9
+    },
+    {
+      "name": "Agile",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 30
+    },
+    {
+      "name": "Content Writing",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 14
+    },
+    {
+      "name": "SAP",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 14
+    },
+    {
+      "name": "Sales",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 10
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 16
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 10
+    },
+    {
+      "name": "Recommendation Systems",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 14
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 8
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 6
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 17
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 9
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 18
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 12
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 14
+    },
+    {
+      "name": "RAG",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 17
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 64.2,
+    "signup_date": "2023-01-13",
+    "last_active_date": "2026-04-26",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 8,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.36,
+    "avg_response_time_hours": 181.3,
+    "skill_assessment_scores": {},
+    "connection_count": 36,
+    "endorsements_received": 11,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 7.4,
+      "max": 11.1
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 89,
+    "saved_by_recruiters_30d": 5,
+    "interview_completion_rate": 0.88,
+    "offer_acceptance_rate": 0.4,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

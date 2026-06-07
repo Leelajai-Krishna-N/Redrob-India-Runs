@@ -1,0 +1,195 @@
+{
+  "candidate_id": "CAND_0067622",
+  "profile": {
+    "anonymized_name": "Naina Khanna",
+    "headline": "Content Writer | Driving business outcomes",
+    "summary": "Professional with 15.0+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Berlin",
+    "country": "Germany",
+    "years_of_experience": 15.0,
+    "current_title": "Content Writer",
+    "current_company": "Dunder Mifflin",
+    "current_company_size": "201-500",
+    "current_industry": "Paper Products"
+  },
+  "career_history": [
+    {
+      "company": "Dunder Mifflin",
+      "title": "Content Writer",
+      "start_date": "2024-03-08",
+      "end_date": null,
+      "duration_months": 27,
+      "is_current": true,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Accountant",
+      "start_date": "2021-03-10",
+      "end_date": "2024-02-23",
+      "duration_months": 36,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "TCS",
+      "title": "Marketing Manager",
+      "start_date": "2017-03-31",
+      "end_date": "2021-03-10",
+      "duration_months": 48,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Sales Executive",
+      "start_date": "2015-03-12",
+      "end_date": "2017-03-31",
+      "duration_months": 25,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "HR Manager",
+      "start_date": "2013-06-20",
+      "end_date": "2015-03-12",
+      "duration_months": 21,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Accountant",
+      "start_date": "2011-09-29",
+      "end_date": "2013-06-20",
+      "duration_months": 21,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chandigarh University",
+      "degree": "Ph.D",
+      "field_of_study": "Computer Science",
+      "start_year": 2008,
+      "end_year": 2013,
+      "grade": "92%",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Apache Beam",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 17
+    },
+    {
+      "name": "Tailwind",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 14
+    },
+    {
+      "name": "Sales",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 16
+    },
+    {
+      "name": "Reinforcement Learning",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 28
+    },
+    {
+      "name": "Azure",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 5
+    },
+    {
+      "name": "Go",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 12
+    },
+    {
+      "name": "Next.js",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 2
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 2
+    },
+    {
+      "name": "Tally",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 33
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 33
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 40.8,
+    "signup_date": "2024-11-12",
+    "last_active_date": "2026-04-08",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 72,
+    "applications_submitted_30d": 5,
+    "recruiter_response_rate": 0.55,
+    "avg_response_time_hours": 38.2,
+    "skill_assessment_scores": {},
+    "connection_count": 116,
+    "endorsements_received": 4,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 9.3,
+      "max": 24.6
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 154,
+    "saved_by_recruiters_30d": 12,
+    "interview_completion_rate": 0.41,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

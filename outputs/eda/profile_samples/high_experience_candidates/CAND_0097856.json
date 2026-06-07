@@ -1,0 +1,168 @@
+{
+  "candidate_id": "CAND_0097856",
+  "profile": {
+    "anonymized_name": "Pooja Chopra",
+    "headline": "Civil Engineer | Helping teams scale",
+    "summary": "Professional with 15.0+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Jaipur, Rajasthan",
+    "country": "India",
+    "years_of_experience": 15.0,
+    "current_title": "Civil Engineer",
+    "current_company": "Hooli",
+    "current_company_size": "1001-5000",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Hooli",
+      "title": "Civil Engineer",
+      "start_date": "2022-06-17",
+      "end_date": null,
+      "duration_months": 48,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Initech",
+      "title": "Customer Support",
+      "start_date": "2020-06-20",
+      "end_date": "2022-06-10",
+      "duration_months": 24,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Infosys",
+      "title": "Sales Executive",
+      "start_date": "2017-09-04",
+      "end_date": "2020-06-20",
+      "duration_months": 34,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Wipro",
+      "title": "Sales Executive",
+      "start_date": "2015-09-15",
+      "end_date": "2017-07-06",
+      "duration_months": 22,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Wipro",
+      "title": "Accountant",
+      "start_date": "2011-08-07",
+      "end_date": "2015-09-15",
+      "duration_months": 50,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    }
+  ],
+  "education": [
+    {
+      "institution": "SRM University",
+      "degree": "B.Tech",
+      "field_of_study": "Data Science",
+      "start_year": 2012,
+      "end_year": 2017,
+      "grade": "66%",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Spring Boot",
+      "proficiency": "beginner",
+      "endorsements": 11,
+      "duration_months": 13
+    },
+    {
+      "name": "Next.js",
+      "proficiency": "beginner",
+      "endorsements": 11,
+      "duration_months": 6
+    },
+    {
+      "name": "dbt",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 7
+    },
+    {
+      "name": "Six Sigma",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 28
+    },
+    {
+      "name": "Microservices",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 11
+    },
+    {
+      "name": "Diffusion Models",
+      "proficiency": "advanced",
+      "endorsements": 24,
+      "duration_months": 27
+    },
+    {
+      "name": "Scrum",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 13
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 32.1,
+    "signup_date": "2025-08-09",
+    "last_active_date": "2026-04-13",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 44,
+    "applications_submitted_30d": 5,
+    "recruiter_response_rate": 0.33,
+    "avg_response_time_hours": 115.3,
+    "skill_assessment_scores": {
+      "Diffusion Models": 39.2
+    },
+    "connection_count": 386,
+    "endorsements_received": 36,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 10.8,
+      "max": 12.1
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 142,
+    "saved_by_recruiters_30d": 3,
+    "interview_completion_rate": 0.67,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

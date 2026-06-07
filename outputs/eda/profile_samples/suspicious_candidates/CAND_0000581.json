@@ -1,0 +1,257 @@
+{
+  "candidate_id": "CAND_0000581",
+  "profile": {
+    "anonymized_name": "Advik Pillai",
+    "headline": "Graphic Designer | Exploring AI & GenAI applications",
+    "summary": "Graphic Designer with 13.9+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Bangalore, Karnataka",
+    "country": "India",
+    "years_of_experience": 13.9,
+    "current_title": "Graphic Designer",
+    "current_company": "Dunder Mifflin",
+    "current_company_size": "201-500",
+    "current_industry": "Paper Products"
+  },
+  "career_history": [
+    {
+      "company": "Dunder Mifflin",
+      "title": "Graphic Designer",
+      "start_date": "2022-06-17",
+      "end_date": null,
+      "duration_months": 48,
+      "is_current": true,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Accountant",
+      "start_date": "2018-03-10",
+      "end_date": "2022-05-18",
+      "duration_months": 51,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Business Analyst",
+      "start_date": "2014-08-14",
+      "end_date": "2018-02-24",
+      "duration_months": 43,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "Civil Engineer",
+      "start_date": "2012-07-25",
+      "end_date": "2014-07-15",
+      "duration_months": 24,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Anna University",
+      "degree": "B.Tech",
+      "field_of_study": "Chemical Engineering",
+      "start_year": 2007,
+      "end_year": 2010,
+      "grade": "8.53 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Go",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 5
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 35
+    },
+    {
+      "name": "Illustrator",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 31
+    },
+    {
+      "name": "Sales",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 33
+    },
+    {
+      "name": "GraphQL",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 36
+    },
+    {
+      "name": "REST APIs",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 12
+    },
+    {
+      "name": "GCP",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 2
+    },
+    {
+      "name": "Databricks",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 12
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 23
+    },
+    {
+      "name": "CNN",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 13
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 32
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 13
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 14
+    },
+    {
+      "name": "Recommendation Systems",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 15
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 13
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 4
+    },
+    {
+      "name": "RAG",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 5
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 17
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 18
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 12
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 6
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 16
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 7
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2025
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 71.3,
+    "signup_date": "2025-12-10",
+    "last_active_date": "2025-11-07",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 79,
+    "applications_submitted_30d": 4,
+    "recruiter_response_rate": 0.54,
+    "avg_response_time_hours": 36.8,
+    "skill_assessment_scores": {},
+    "connection_count": 181,
+    "endorsements_received": 32,
+    "notice_period_days": 150,
+    "expected_salary_range_inr_lpa": {
+      "min": 5.6,
+      "max": 27.8
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 133,
+    "saved_by_recruiters_30d": 4,
+    "interview_completion_rate": 0.31,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": false,
+    "linkedin_connected": true
+  }
+}

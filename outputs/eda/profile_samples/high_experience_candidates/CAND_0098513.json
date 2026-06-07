@@ -1,0 +1,195 @@
+{
+  "candidate_id": "CAND_0098513",
+  "profile": {
+    "anonymized_name": "Karan Mukherjee",
+    "headline": "Accountant | 15.0+ yrs experience",
+    "summary": "Professional with 15.0+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "San Francisco",
+    "country": "USA",
+    "years_of_experience": 15.0,
+    "current_title": "Accountant",
+    "current_company": "TCS",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "TCS",
+      "title": "Accountant",
+      "start_date": "2024-11-03",
+      "end_date": null,
+      "duration_months": 19,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Customer Support",
+      "start_date": "2023-08-11",
+      "end_date": "2024-11-03",
+      "duration_months": 15,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Content Writer",
+      "start_date": "2019-11-30",
+      "end_date": "2023-06-12",
+      "duration_months": 43,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Mechanical Engineer",
+      "start_date": "2016-01-20",
+      "end_date": "2019-10-01",
+      "duration_months": 45,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Customer Support",
+      "start_date": "2012-04-10",
+      "end_date": "2016-01-20",
+      "duration_months": 46,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "HR Manager",
+      "start_date": "2011-07-08",
+      "end_date": "2012-04-03",
+      "duration_months": 9,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Regional Technical Institute",
+      "degree": "B.Sc",
+      "field_of_study": "Civil Engineering",
+      "start_year": 2009,
+      "end_year": 2012,
+      "grade": "79%",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Kafka",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 17
+    },
+    {
+      "name": "PowerPoint",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 15
+    },
+    {
+      "name": "HTML",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 10
+    },
+    {
+      "name": "Airflow",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 8
+    },
+    {
+      "name": "Spark",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 8
+    },
+    {
+      "name": "CSS",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 8
+    },
+    {
+      "name": "SQL",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 32
+    },
+    {
+      "name": "Agile",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 18
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 17
+    },
+    {
+      "name": "Marketing",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 16
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 40.8,
+    "signup_date": "2024-03-24",
+    "last_active_date": "2026-03-29",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 31,
+    "applications_submitted_30d": 0,
+    "recruiter_response_rate": 0.24,
+    "avg_response_time_hours": 266.0,
+    "skill_assessment_scores": {},
+    "connection_count": 261,
+    "endorsements_received": 44,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 14.1,
+      "max": 17.8
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 9,
+    "saved_by_recruiters_30d": 7,
+    "interview_completion_rate": 0.36,
+    "offer_acceptance_rate": 0.18,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

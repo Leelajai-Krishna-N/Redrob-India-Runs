@@ -1,0 +1,254 @@
+{
+  "candidate_id": "CAND_0000505",
+  "profile": {
+    "anonymized_name": "Avni Shetty",
+    "headline": "Accountant | AI enthusiast | Building with LLMs",
+    "summary": "Accountant with 9.2+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Indore, Madhya Pradesh",
+    "country": "India",
+    "years_of_experience": 9.2,
+    "current_title": "Accountant",
+    "current_company": "Initech",
+    "current_company_size": "51-200",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Initech",
+      "title": "Accountant",
+      "start_date": "2024-10-04",
+      "end_date": null,
+      "duration_months": 20,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Civil Engineer",
+      "start_date": "2020-04-28",
+      "end_date": "2024-08-05",
+      "duration_months": 52,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Graphic Designer",
+      "start_date": "2018-01-09",
+      "end_date": "2020-03-29",
+      "duration_months": 27,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Hooli",
+      "title": "Marketing Manager",
+      "start_date": "2017-04-14",
+      "end_date": "2018-01-09",
+      "duration_months": 9,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Regional Technical Institute",
+      "degree": "M.S.",
+      "field_of_study": "Statistics",
+      "start_year": 2003,
+      "end_year": 2008,
+      "grade": "7.49 CGPA",
+      "tier": "tier_4"
+    },
+    {
+      "institution": "Delhi College of Engineering",
+      "degree": "B.Tech",
+      "field_of_study": "Computer Science",
+      "start_year": 2016,
+      "end_year": 2021,
+      "grade": "9.11 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "REST APIs",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 32
+    },
+    {
+      "name": "SAP",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 8
+    },
+    {
+      "name": "Tally",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 27
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 13
+    },
+    {
+      "name": "ETL",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 9
+    },
+    {
+      "name": "Redux",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 19
+    },
+    {
+      "name": "AWS",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 11
+    },
+    {
+      "name": "Content Writing",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 11
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 5
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 26
+    },
+    {
+      "name": "Recommendation Systems",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 5
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 13
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 17
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 12
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 7
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 8
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 8
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 9
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 10
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 6
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 15
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 13
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 25.0,
+    "signup_date": "2022-09-12",
+    "last_active_date": "2025-12-27",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 64,
+    "applications_submitted_30d": 4,
+    "recruiter_response_rate": 0.19,
+    "avg_response_time_hours": 87.7,
+    "skill_assessment_scores": {},
+    "connection_count": 171,
+    "endorsements_received": 38,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 14.7,
+      "max": 19.8
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 174,
+    "saved_by_recruiters_30d": 3,
+    "interview_completion_rate": 0.41,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

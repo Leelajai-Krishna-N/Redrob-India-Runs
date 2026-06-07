@@ -1,0 +1,210 @@
+{
+  "candidate_id": "CAND_0058173",
+  "profile": {
+    "anonymized_name": "Advik Singh",
+    "headline": "Project Manager | Helping teams scale",
+    "summary": "Professional with 15.0+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Dubai",
+    "country": "UAE",
+    "years_of_experience": 15.0,
+    "current_title": "Project Manager",
+    "current_company": "Pied Piper",
+    "current_company_size": "11-50",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Pied Piper",
+      "title": "Project Manager",
+      "start_date": "2025-05-02",
+      "end_date": null,
+      "duration_months": 13,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Initech",
+      "title": "Operations Manager",
+      "start_date": "2021-02-22",
+      "end_date": "2025-04-02",
+      "duration_months": 50,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Hooli",
+      "title": "Business Analyst",
+      "start_date": "2017-01-14",
+      "end_date": "2021-02-22",
+      "duration_months": 50,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Graphic Designer",
+      "start_date": "2015-04-25",
+      "end_date": "2016-12-15",
+      "duration_months": 20,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "Marketing Manager",
+      "start_date": "2013-09-25",
+      "end_date": "2015-04-18",
+      "duration_months": 19,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Initech",
+      "title": "Operations Manager",
+      "start_date": "2011-08-07",
+      "end_date": "2013-09-25",
+      "duration_months": 26,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Manipal Institute of Technology",
+      "degree": "M.Tech",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2011,
+      "end_year": 2015,
+      "grade": "84%",
+      "tier": "tier_2"
+    },
+    {
+      "institution": "Lovely Professional University",
+      "degree": "M.Tech",
+      "field_of_study": "Information Technology",
+      "start_year": 2002,
+      "end_year": 2005,
+      "grade": "8.66 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 18
+    },
+    {
+      "name": "Sales",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 2
+    },
+    {
+      "name": "Six Sigma",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 13
+    },
+    {
+      "name": "Diffusion Models",
+      "proficiency": "advanced",
+      "endorsements": 5,
+      "duration_months": 19
+    },
+    {
+      "name": "Data Pipelines",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 13
+    },
+    {
+      "name": "Flask",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 34
+    },
+    {
+      "name": "Spark",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 6
+    },
+    {
+      "name": "Django",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 22
+    },
+    {
+      "name": "GraphQL",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 24
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 24
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 28
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 67.6,
+    "signup_date": "2022-05-10",
+    "last_active_date": "2026-03-02",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 25,
+    "applications_submitted_30d": 8,
+    "recruiter_response_rate": 0.34,
+    "avg_response_time_hours": 235.8,
+    "skill_assessment_scores": {},
+    "connection_count": 296,
+    "endorsements_received": 25,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 6.8,
+      "max": 9.7
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": true,
+    "github_activity_score": 47.9,
+    "search_appearance_30d": 156,
+    "saved_by_recruiters_30d": 2,
+    "interview_completion_rate": 0.32,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

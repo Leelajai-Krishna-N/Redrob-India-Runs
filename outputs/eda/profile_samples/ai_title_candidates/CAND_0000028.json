@@ -1,0 +1,146 @@
+{
+  "candidate_id": "CAND_0000028",
+  "profile": {
+    "anonymized_name": "Rohan Krishnan",
+    "headline": "Operations Manager | Driving business outcomes",
+    "summary": "Professional with 1.1+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Dubai",
+    "country": "UAE",
+    "years_of_experience": 1.1,
+    "current_title": "Operations Manager",
+    "current_company": "Wipro",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Wipro",
+      "title": "Operations Manager",
+      "start_date": "2025-05-02",
+      "end_date": null,
+      "duration_months": 13,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Symbiosis International",
+      "degree": "M.Tech",
+      "field_of_study": "Mathematics",
+      "start_year": 2014,
+      "end_year": 2017,
+      "grade": "7.85 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Snowflake",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 3
+    },
+    {
+      "name": "React",
+      "proficiency": "beginner",
+      "endorsements": 11,
+      "duration_months": 7
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 10
+    },
+    {
+      "name": "Tailwind",
+      "proficiency": "beginner",
+      "endorsements": 13,
+      "duration_months": 15
+    },
+    {
+      "name": "REST APIs",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 21
+    },
+    {
+      "name": "Photoshop",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 30
+    },
+    {
+      "name": "Data Pipelines",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 23
+    },
+    {
+      "name": "Terraform",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 18
+    },
+    {
+      "name": "CNN",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 29
+    },
+    {
+      "name": "Content Writing",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 18
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2020
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 51.2,
+    "signup_date": "2025-09-23",
+    "last_active_date": "2026-03-31",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 6,
+    "applications_submitted_30d": 7,
+    "recruiter_response_rate": 0.14,
+    "avg_response_time_hours": 13.2,
+    "skill_assessment_scores": {},
+    "connection_count": 524,
+    "endorsements_received": 1,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 12.9,
+      "max": 17.2
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 68,
+    "saved_by_recruiters_30d": 4,
+    "interview_completion_rate": 0.86,
+    "offer_acceptance_rate": 0.49,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

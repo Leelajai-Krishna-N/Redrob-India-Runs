@@ -1,0 +1,162 @@
+{
+  "candidate_id": "CAND_0000067",
+  "profile": {
+    "anonymized_name": "Shreya Bose",
+    "headline": "Frontend Engineer | Cloud & DevOps",
+    "summary": "Software engineer with 3.9 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. I've spent most of my career on web and API development — Python/Django and Node.js mostly. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "San Francisco",
+    "country": "USA",
+    "years_of_experience": 3.9,
+    "current_title": "Frontend Engineer",
+    "current_company": "Accenture",
+    "current_company_size": "10001+",
+    "current_industry": "Consulting"
+  },
+  "career_history": [
+    {
+      "company": "Accenture",
+      "title": "Frontend Engineer",
+      "start_date": "2024-04-07",
+      "end_date": null,
+      "duration_months": 26,
+      "is_current": true,
+      "industry": "Consulting",
+      "company_size": "10001+",
+      "description": "Full-stack web application development at a SaaS company. Built React-based admin interfaces and the Node.js REST API backing them. Worked across the stack: frontend components, REST endpoint design, PostgreSQL schema, deployment via Docker/Kubernetes. Comfortable in most parts of a typical web stack though my comfort zone is the backend and database side. Recent learning has been on the testing and CI/CD discipline."
+    },
+    {
+      "company": "Swiggy",
+      "title": "Mobile Developer",
+      "start_date": "2022-08-02",
+      "end_date": "2024-03-24",
+      "duration_months": 20,
+      "is_current": false,
+      "industry": "Food Delivery",
+      "company_size": "5001-10000",
+      "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+    }
+  ],
+  "education": [
+    {
+      "institution": "SRM University",
+      "degree": "B.Tech",
+      "field_of_study": "Computer Engineering",
+      "start_year": 2010,
+      "end_year": 2014,
+      "grade": "6.76 CGPA",
+      "tier": "tier_2"
+    },
+    {
+      "institution": "Anna University",
+      "degree": "M.S.",
+      "field_of_study": "Civil Engineering",
+      "start_year": 2012,
+      "end_year": 2015,
+      "grade": "7.21 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Tailwind",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 7
+    },
+    {
+      "name": "Java",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 30
+    },
+    {
+      "name": "ASR",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 13
+    },
+    {
+      "name": "Django",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 14
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 24
+    },
+    {
+      "name": "Spark",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 20
+    },
+    {
+      "name": "Weights & Biases",
+      "proficiency": "advanced",
+      "endorsements": 17,
+      "duration_months": 30
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 34
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 21
+    },
+    {
+      "name": "Rust",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 9
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 47.1,
+    "signup_date": "2024-09-24",
+    "last_active_date": "2026-05-07",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 63,
+    "applications_submitted_30d": 7,
+    "recruiter_response_rate": 0.45,
+    "avg_response_time_hours": 71.7,
+    "skill_assessment_scores": {
+      "Weights & Biases": 36.0
+    },
+    "connection_count": 409,
+    "endorsements_received": 40,
+    "notice_period_days": 150,
+    "expected_salary_range_inr_lpa": {
+      "min": 15.6,
+      "max": 32.0
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": true,
+    "github_activity_score": 2.2,
+    "search_appearance_30d": 244,
+    "saved_by_recruiters_30d": 3,
+    "interview_completion_rate": 0.77,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

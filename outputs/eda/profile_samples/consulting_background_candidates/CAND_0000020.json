@@ -1,0 +1,152 @@
+{
+  "candidate_id": "CAND_0000020",
+  "profile": {
+    "anonymized_name": "Aditya Iyengar",
+    "headline": "Mechanical Engineer | 6.3+ yrs experience",
+    "summary": "Professional with 6.3+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Ahmedabad, Gujarat",
+    "country": "India",
+    "years_of_experience": 6.3,
+    "current_title": "Mechanical Engineer",
+    "current_company": "Wipro",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Wipro",
+      "title": "Mechanical Engineer",
+      "start_date": "2023-06-12",
+      "end_date": null,
+      "duration_months": 36,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Graphic Designer",
+      "start_date": "2020-07-27",
+      "end_date": "2023-04-13",
+      "duration_months": 33,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Civil Engineer",
+      "start_date": "2020-01-29",
+      "end_date": "2020-07-27",
+      "duration_months": 6,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Kharagpur",
+      "degree": "B.E.",
+      "field_of_study": "Computer Science",
+      "start_year": 2018,
+      "end_year": 2022,
+      "grade": "6.67 CGPA",
+      "tier": "tier_1"
+    }
+  ],
+  "skills": [
+    {
+      "name": "GraphQL",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 18
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 8
+    },
+    {
+      "name": "Flask",
+      "proficiency": "beginner",
+      "endorsements": 11,
+      "duration_months": 16
+    },
+    {
+      "name": "Weights & Biases",
+      "proficiency": "advanced",
+      "endorsements": 50,
+      "duration_months": 30
+    },
+    {
+      "name": "GCP",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 34
+    },
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 16
+    },
+    {
+      "name": "HTML",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 35
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2021
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 73.0,
+    "signup_date": "2023-01-26",
+    "last_active_date": "2025-10-05",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 38,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.55,
+    "avg_response_time_hours": 207.8,
+    "skill_assessment_scores": {
+      "Weights & Biases": 53.7
+    },
+    "connection_count": 479,
+    "endorsements_received": 35,
+    "notice_period_days": 30,
+    "expected_salary_range_inr_lpa": {
+      "min": 17.2,
+      "max": 18.2
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 31,
+    "saved_by_recruiters_30d": 11,
+    "interview_completion_rate": 0.71,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": true
+  }
+}

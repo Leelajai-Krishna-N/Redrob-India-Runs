@@ -1,0 +1,153 @@
+{
+  "candidate_id": "CAND_0000080",
+  "profile": {
+    "anonymized_name": "Anjali Pandey",
+    "headline": "Graphic Designer | Helping teams scale",
+    "summary": "Professional with 8.3+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Chennai, Tamil Nadu",
+    "country": "India",
+    "years_of_experience": 8.3,
+    "current_title": "Graphic Designer",
+    "current_company": "Infosys",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Infosys",
+      "title": "Graphic Designer",
+      "start_date": "2025-03-03",
+      "end_date": null,
+      "duration_months": 15,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Project Manager",
+      "start_date": "2021-05-23",
+      "end_date": "2025-03-03",
+      "duration_months": 46,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Infosys",
+      "title": "Marketing Manager",
+      "start_date": "2018-05-09",
+      "end_date": "2021-05-23",
+      "duration_months": 37,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    }
+  ],
+  "education": [
+    {
+      "institution": "NIT Trichy",
+      "degree": "B.Sc",
+      "field_of_study": "Data Science",
+      "start_year": 2007,
+      "end_year": 2012,
+      "grade": "68%",
+      "tier": "tier_1"
+    },
+    {
+      "institution": "RV College of Engineering",
+      "degree": "M.E.",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2015,
+      "end_year": 2018,
+      "grade": "85%",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "PostgreSQL",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 13
+    },
+    {
+      "name": "Sales",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 35
+    },
+    {
+      "name": "Snowflake",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 18
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 33
+    },
+    {
+      "name": "Microservices",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 21
+    },
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 32
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 16
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 69.3,
+    "signup_date": "2024-11-22",
+    "last_active_date": "2026-03-16",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 55,
+    "applications_submitted_30d": 4,
+    "recruiter_response_rate": 0.17,
+    "avg_response_time_hours": 88.9,
+    "skill_assessment_scores": {},
+    "connection_count": 256,
+    "endorsements_received": 11,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 6.6,
+      "max": 11.7
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 14,
+    "saved_by_recruiters_30d": 10,
+    "interview_completion_rate": 0.83,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

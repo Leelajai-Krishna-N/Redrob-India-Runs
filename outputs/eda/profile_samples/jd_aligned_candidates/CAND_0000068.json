@@ -1,0 +1,175 @@
+{
+  "candidate_id": "CAND_0000068",
+  "profile": {
+    "anonymized_name": "Priya Hegde",
+    "headline": "Java Developer | Full-stack development",
+    "summary": "Software engineer with 1.5 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. I've spent most of my career on web and API development — Python/Django and Node.js mostly. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Noida, Uttar Pradesh",
+    "country": "India",
+    "years_of_experience": 1.5,
+    "current_title": "Java Developer",
+    "current_company": "HCL",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "HCL",
+      "title": "Java Developer",
+      "start_date": "2024-12-03",
+      "end_date": null,
+      "duration_months": 18,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Java backend development at a large enterprise — Spring Boot microservices, Kafka for inter-service messaging, Postgres + Redis for storage. Worked on the customer onboarding flow which involved orchestrating multiple downstream services. Solid on the Spring ecosystem, transaction handling, and the operational side of Java services. Looking to either go deeper on distributed systems or expand into modern application stacks."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chandigarh University",
+      "degree": "M.Sc",
+      "field_of_study": "MBA",
+      "start_year": 2007,
+      "end_year": 2012,
+      "grade": "9.25 CGPA",
+      "tier": "tier_3"
+    },
+    {
+      "institution": "Regional Technical Institute",
+      "degree": "B.E.",
+      "field_of_study": "Commerce",
+      "start_year": 2018,
+      "end_year": 2022,
+      "grade": "6.55 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Databricks",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 17
+    },
+    {
+      "name": "Flask",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 12
+    },
+    {
+      "name": "GCP",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 13
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 7
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 24
+    },
+    {
+      "name": "SQL",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 27
+    },
+    {
+      "name": "Agile",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 13
+    },
+    {
+      "name": "Kubeflow",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 10
+    },
+    {
+      "name": "Weights & Biases",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 33
+    },
+    {
+      "name": "Excel",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 33
+    },
+    {
+      "name": "Java",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 30
+    },
+    {
+      "name": "REST APIs",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 4
+    },
+    {
+      "name": "GraphQL",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 7
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2022
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 61.4,
+    "signup_date": "2024-09-24",
+    "last_active_date": "2026-03-21",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 28,
+    "applications_submitted_30d": 2,
+    "recruiter_response_rate": 0.55,
+    "avg_response_time_hours": 219.9,
+    "skill_assessment_scores": {
+      "Weights & Biases": 37.5
+    },
+    "connection_count": 55,
+    "endorsements_received": 50,
+    "notice_period_days": 30,
+    "expected_salary_range_inr_lpa": {
+      "min": 20.8,
+      "max": 28.2
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": false,
+    "github_activity_score": 20.2,
+    "search_appearance_30d": 166,
+    "saved_by_recruiters_30d": 5,
+    "interview_completion_rate": 0.89,
+    "offer_acceptance_rate": 0.49,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

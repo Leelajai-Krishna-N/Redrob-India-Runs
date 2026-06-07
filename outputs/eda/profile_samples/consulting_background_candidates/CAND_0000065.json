@@ -1,0 +1,175 @@
+{
+  "candidate_id": "CAND_0000065",
+  "profile": {
+    "anonymized_name": "Ayaan Joshi",
+    "headline": "Project Manager | Driving business outcomes",
+    "summary": "Professional with 9.7+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Chandigarh, Chandigarh",
+    "country": "India",
+    "years_of_experience": 9.7,
+    "current_title": "Project Manager",
+    "current_company": "Initech",
+    "current_company_size": "51-200",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Initech",
+      "title": "Project Manager",
+      "start_date": "2025-05-02",
+      "end_date": null,
+      "duration_months": 13,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Civil Engineer",
+      "start_date": "2021-02-22",
+      "end_date": "2025-05-02",
+      "duration_months": 51,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "Accountant",
+      "start_date": "2019-07-03",
+      "end_date": "2020-12-24",
+      "duration_months": 18,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Hooli",
+      "title": "HR Manager",
+      "start_date": "2016-10-02",
+      "end_date": "2019-06-19",
+      "duration_months": 33,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    }
+  ],
+  "education": [
+    {
+      "institution": "VIT Chennai",
+      "degree": "Ph.D",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2006,
+      "end_year": 2011,
+      "grade": "70%",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Go",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 14
+    },
+    {
+      "name": "Flask",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 27
+    },
+    {
+      "name": "Tally",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 34
+    },
+    {
+      "name": "Illustrator",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 25
+    },
+    {
+      "name": "Forecasting",
+      "proficiency": "advanced",
+      "endorsements": 55,
+      "duration_months": 59
+    },
+    {
+      "name": "Airflow",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 11
+    },
+    {
+      "name": "Next.js",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 2
+    },
+    {
+      "name": "Apache Beam",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 36
+    },
+    {
+      "name": "Six Sigma",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 7
+    },
+    {
+      "name": "Figma",
+      "proficiency": "beginner",
+      "endorsements": 13,
+      "duration_months": 5
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 31.8,
+    "signup_date": "2025-05-16",
+    "last_active_date": "2026-03-22",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 45,
+    "applications_submitted_30d": 4,
+    "recruiter_response_rate": 0.27,
+    "avg_response_time_hours": 251.5,
+    "skill_assessment_scores": {
+      "Forecasting": 64.3
+    },
+    "connection_count": 202,
+    "endorsements_received": 37,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 4.0,
+      "max": 19.0
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 80,
+    "saved_by_recruiters_30d": 2,
+    "interview_completion_rate": 0.44,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

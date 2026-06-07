@@ -1,0 +1,186 @@
+{
+  "candidate_id": "CAND_0046787",
+  "profile": {
+    "anonymized_name": "Siya Goyal",
+    "headline": "Mechanical Engineer | Driving business outcomes",
+    "summary": "Professional with 15.0+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Ahmedabad, Gujarat",
+    "country": "India",
+    "years_of_experience": 15.0,
+    "current_title": "Mechanical Engineer",
+    "current_company": "Hooli",
+    "current_company_size": "1001-5000",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Hooli",
+      "title": "Mechanical Engineer",
+      "start_date": "2025-06-01",
+      "end_date": null,
+      "duration_months": 12,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Graphic Designer",
+      "start_date": "2021-06-22",
+      "end_date": "2025-04-02",
+      "duration_months": 46,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Civil Engineer",
+      "start_date": "2017-11-10",
+      "end_date": "2021-06-22",
+      "duration_months": 44,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Mechanical Engineer",
+      "start_date": "2016-09-16",
+      "end_date": "2017-11-10",
+      "duration_months": 14,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Hooli",
+      "title": "Accountant",
+      "start_date": "2013-10-02",
+      "end_date": "2016-09-16",
+      "duration_months": 36,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Initech",
+      "title": "Accountant",
+      "start_date": "2011-08-14",
+      "end_date": "2013-10-02",
+      "duration_months": 26,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Regional Technical Institute",
+      "degree": "M.S.",
+      "field_of_study": "Information Technology",
+      "start_year": 2011,
+      "end_year": 2015,
+      "grade": "84%",
+      "tier": "tier_4"
+    },
+    {
+      "institution": "SRM Chennai",
+      "degree": "Ph.D",
+      "field_of_study": "Statistics",
+      "start_year": 2012,
+      "end_year": 2017,
+      "grade": "7.52 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Apache Beam",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 17
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 13
+    },
+    {
+      "name": "Tailwind",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 12
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 5
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 21
+    },
+    {
+      "name": "Flask",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 16
+    },
+    {
+      "name": "Azure",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 9
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 57.1,
+    "signup_date": "2026-01-07",
+    "last_active_date": "2026-04-26",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 15,
+    "applications_submitted_30d": 7,
+    "recruiter_response_rate": 0.55,
+    "avg_response_time_hours": 222.4,
+    "skill_assessment_scores": {},
+    "connection_count": 275,
+    "endorsements_received": 14,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 17.1,
+      "max": 10.0
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 49,
+    "saved_by_recruiters_30d": 10,
+    "interview_completion_rate": 0.42,
+    "offer_acceptance_rate": 0.64,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

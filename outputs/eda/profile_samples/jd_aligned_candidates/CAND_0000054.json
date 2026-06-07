@@ -1,0 +1,175 @@
+{
+  "candidate_id": "CAND_0000054",
+  "profile": {
+    "anonymized_name": "Ved Malhotra",
+    "headline": "QA Engineer | Cloud & DevOps",
+    "summary": "Software engineer with 4.9 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. Most of my work is conventional backend engineering — APIs, databases, queues, deployments. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Indore, Madhya Pradesh",
+    "country": "India",
+    "years_of_experience": 4.9,
+    "current_title": "QA Engineer",
+    "current_company": "Stark Industries",
+    "current_company_size": "1001-5000",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Stark Industries",
+      "title": "QA Engineer",
+      "start_date": "2022-09-15",
+      "end_date": null,
+      "duration_months": 45,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team — moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+    },
+    {
+      "company": "Zomato",
+      "title": ".NET Developer",
+      "start_date": "2021-08-21",
+      "end_date": "2022-09-15",
+      "duration_months": 13,
+      "is_current": false,
+      "industry": "Food Delivery",
+      "company_size": "5001-10000",
+      "description": "Frontend engineering at a media company. React, TypeScript, and the typical surrounding tooling (Webpack, Jest, Cypress). Built the company's design system from scratch and led the migration from a legacy AngularJS app. Strong on the frontend craft — accessibility, performance, animations — but limited backend exposure."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chandigarh University",
+      "degree": "B.Sc",
+      "field_of_study": "Statistics",
+      "start_year": 2004,
+      "end_year": 2007,
+      "grade": "8.50 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "YOLO",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 24
+    },
+    {
+      "name": "Illustrator",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 35
+    },
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 24
+    },
+    {
+      "name": "PowerPoint",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 3
+    },
+    {
+      "name": "Redis",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 13
+    },
+    {
+      "name": "BigQuery",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 11
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 6
+    },
+    {
+      "name": "AWS",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 17
+    },
+    {
+      "name": "dbt",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 6
+    },
+    {
+      "name": "Rust",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 21
+    },
+    {
+      "name": "Marketing",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 32
+    },
+    {
+      "name": "Spark",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 18
+    },
+    {
+      "name": "REST APIs",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 8
+    },
+    {
+      "name": "BentoML",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 20
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 68.0,
+    "signup_date": "2024-01-28",
+    "last_active_date": "2026-02-19",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 65,
+    "applications_submitted_30d": 2,
+    "recruiter_response_rate": 0.25,
+    "avg_response_time_hours": 99.2,
+    "skill_assessment_scores": {},
+    "connection_count": 244,
+    "endorsements_received": 57,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 7.4,
+      "max": 12.9
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 104,
+    "saved_by_recruiters_30d": 15,
+    "interview_completion_rate": 0.69,
+    "offer_acceptance_rate": 0.35,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

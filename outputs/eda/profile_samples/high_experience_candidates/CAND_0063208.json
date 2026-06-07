@@ -1,0 +1,192 @@
+{
+  "candidate_id": "CAND_0063208",
+  "profile": {
+    "anonymized_name": "Rahul Shah",
+    "headline": "Content Writer | 15.0+ yrs experience",
+    "summary": "Professional with 15.0+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Singapore",
+    "country": "Singapore",
+    "years_of_experience": 15.0,
+    "current_title": "Content Writer",
+    "current_company": "Hooli",
+    "current_company_size": "1001-5000",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Hooli",
+      "title": "Content Writer",
+      "start_date": "2024-12-03",
+      "end_date": null,
+      "duration_months": 18,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Marketing Manager",
+      "start_date": "2022-02-03",
+      "end_date": "2024-11-19",
+      "duration_months": 34,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Hooli",
+      "title": "Graphic Designer",
+      "start_date": "2019-05-20",
+      "end_date": "2022-02-03",
+      "duration_months": 33,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Business Analyst",
+      "start_date": "2015-07-26",
+      "end_date": "2019-05-06",
+      "duration_months": 46,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "TCS",
+      "title": "Business Analyst",
+      "start_date": "2012-05-12",
+      "end_date": "2015-06-26",
+      "duration_months": 38,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Project Manager",
+      "start_date": "2011-09-15",
+      "end_date": "2012-05-12",
+      "duration_months": 8,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Regional Technical Institute",
+      "degree": "B.Tech",
+      "field_of_study": "Data Science",
+      "start_year": 2008,
+      "end_year": 2012,
+      "grade": "68%",
+      "tier": "tier_4"
+    },
+    {
+      "institution": "Local Engineering College",
+      "degree": "M.Sc",
+      "field_of_study": "MBA",
+      "start_year": 2006,
+      "end_year": 2010,
+      "grade": "8.95 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Rust",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 7
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 4
+    },
+    {
+      "name": "Illustrator",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 8
+    },
+    {
+      "name": "Flask",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 6
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 18
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 33
+    },
+    {
+      "name": "Data Pipelines",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 34
+    },
+    {
+      "name": "Tailwind",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 4
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 41.3,
+    "signup_date": "2026-04-22",
+    "last_active_date": "2026-01-11",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 56,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.24,
+    "avg_response_time_hours": 136.2,
+    "skill_assessment_scores": {},
+    "connection_count": 557,
+    "endorsements_received": 45,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 5.1,
+      "max": 14.5
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 107,
+    "saved_by_recruiters_30d": 12,
+    "interview_completion_rate": 0.6,
+    "offer_acceptance_rate": 0.46,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

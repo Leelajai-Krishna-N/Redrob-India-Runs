@@ -1,0 +1,194 @@
+{
+  "candidate_id": "CAND_0003094",
+  "profile": {
+    "anonymized_name": "Reyansh Reddy",
+    "headline": "Civil Engineer | Driving business outcomes",
+    "summary": "Professional with 15.0+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Noida, Uttar Pradesh",
+    "country": "India",
+    "years_of_experience": 15.0,
+    "current_title": "Civil Engineer",
+    "current_company": "Initech",
+    "current_company_size": "51-200",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Initech",
+      "title": "Civil Engineer",
+      "start_date": "2024-09-04",
+      "end_date": null,
+      "duration_months": 21,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Hooli",
+      "title": "Operations Manager",
+      "start_date": "2020-12-10",
+      "end_date": "2024-08-21",
+      "duration_months": 45,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Infosys",
+      "title": "Accountant",
+      "start_date": "2019-05-20",
+      "end_date": "2020-12-10",
+      "duration_months": 19,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Operations Manager",
+      "start_date": "2017-06-29",
+      "end_date": "2019-04-20",
+      "duration_months": 22,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Initech",
+      "title": "Civil Engineer",
+      "start_date": "2015-11-07",
+      "end_date": "2017-06-29",
+      "duration_months": 20,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Wipro",
+      "title": "Sales Executive",
+      "start_date": "2013-07-20",
+      "end_date": "2015-11-07",
+      "duration_months": 28,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Content Writer",
+      "start_date": "2011-10-29",
+      "end_date": "2013-07-20",
+      "duration_months": 21,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Manipal Institute of Technology",
+      "degree": "B.Tech",
+      "field_of_study": "Statistics",
+      "start_year": 2005,
+      "end_year": 2009,
+      "grade": "6.95 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "OpenCV",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 23
+    },
+    {
+      "name": "Next.js",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 28
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 9
+    },
+    {
+      "name": "Go",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 10
+    },
+    {
+      "name": "AWS",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 18
+    },
+    {
+      "name": "REST APIs",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 10
+    },
+    {
+      "name": "Databricks",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 16
+    },
+    {
+      "name": "Rust",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 34
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 46.4,
+    "signup_date": "2022-05-10",
+    "last_active_date": "2026-01-25",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 68,
+    "applications_submitted_30d": 0,
+    "recruiter_response_rate": 0.25,
+    "avg_response_time_hours": 78.5,
+    "skill_assessment_scores": {},
+    "connection_count": 26,
+    "endorsements_received": 37,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 14.8,
+      "max": 6.5
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 55,
+    "saved_by_recruiters_30d": 11,
+    "interview_completion_rate": 0.74,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

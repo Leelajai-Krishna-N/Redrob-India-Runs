@@ -1,0 +1,189 @@
+{
+  "candidate_id": "CAND_0002967",
+  "profile": {
+    "anonymized_name": "Nikhil Arora",
+    "headline": "HR Manager | Helping teams scale",
+    "summary": "Professional with 15.0+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Bangalore, Karnataka",
+    "country": "India",
+    "years_of_experience": 15.0,
+    "current_title": "HR Manager",
+    "current_company": "Pied Piper",
+    "current_company_size": "11-50",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Pied Piper",
+      "title": "HR Manager",
+      "start_date": "2022-02-17",
+      "end_date": null,
+      "duration_months": 52,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "TCS",
+      "title": "Project Manager",
+      "start_date": "2020-11-24",
+      "end_date": "2021-12-19",
+      "duration_months": 13,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Civil Engineer",
+      "start_date": "2018-11-05",
+      "end_date": "2020-11-24",
+      "duration_months": 25,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Sales Executive",
+      "start_date": "2014-07-29",
+      "end_date": "2018-09-06",
+      "duration_months": 50,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Content Writer",
+      "start_date": "2012-10-07",
+      "end_date": "2014-07-29",
+      "duration_months": 22,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Hooli",
+      "title": "Mechanical Engineer",
+      "start_date": "2011-06-15",
+      "end_date": "2012-09-07",
+      "duration_months": 15,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    }
+  ],
+  "education": [
+    {
+      "institution": "VIT Vellore",
+      "degree": "M.S.",
+      "field_of_study": "Data Science",
+      "start_year": 2014,
+      "end_year": 2017,
+      "grade": "7.02 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "CI/CD",
+      "proficiency": "intermediate",
+      "endorsements": 10,
+      "duration_months": 32
+    },
+    {
+      "name": "YOLO",
+      "proficiency": "advanced",
+      "endorsements": 56,
+      "duration_months": 54
+    },
+    {
+      "name": "GraphQL",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 36
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 7
+    },
+    {
+      "name": "Django",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 32
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 9
+    },
+    {
+      "name": "Angular",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 36
+    },
+    {
+      "name": "SAP",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 4
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2019
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 38.1,
+    "signup_date": "2025-06-10",
+    "last_active_date": "2026-01-23",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 30,
+    "applications_submitted_30d": 10,
+    "recruiter_response_rate": 0.11,
+    "avg_response_time_hours": 212.5,
+    "skill_assessment_scores": {},
+    "connection_count": 50,
+    "endorsements_received": 37,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 10.2,
+      "max": 7.7
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": true,
+    "github_activity_score": 46.7,
+    "search_appearance_30d": 148,
+    "saved_by_recruiters_30d": 11,
+    "interview_completion_rate": 0.82,
+    "offer_acceptance_rate": 0.26,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

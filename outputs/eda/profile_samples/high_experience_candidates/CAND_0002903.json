@@ -1,0 +1,162 @@
+{
+  "candidate_id": "CAND_0002903",
+  "profile": {
+    "anonymized_name": "Mira Subramanian",
+    "headline": "Mechanical Engineer | 15.0+ yrs experience",
+    "summary": "Professional with 15.0+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Berlin",
+    "country": "Germany",
+    "years_of_experience": 15.0,
+    "current_title": "Mechanical Engineer",
+    "current_company": "Infosys",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Infosys",
+      "title": "Mechanical Engineer",
+      "start_date": "2022-03-19",
+      "end_date": null,
+      "duration_months": 51,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Mechanical Engineer",
+      "start_date": "2018-04-02",
+      "end_date": "2022-03-12",
+      "duration_months": 48,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Content Writer",
+      "start_date": "2014-01-23",
+      "end_date": "2018-04-02",
+      "duration_months": 51,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Graphic Designer",
+      "start_date": "2011-09-06",
+      "end_date": "2013-12-24",
+      "duration_months": 28,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Local Engineering College",
+      "degree": "B.Sc",
+      "field_of_study": "Civil Engineering",
+      "start_year": 2008,
+      "end_year": 2013,
+      "grade": "7.18 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Redis",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 10
+    },
+    {
+      "name": "Sales",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 7
+    },
+    {
+      "name": "Data Science",
+      "proficiency": "advanced",
+      "endorsements": 11,
+      "duration_months": 49
+    },
+    {
+      "name": "Java",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 11
+    },
+    {
+      "name": "SEO",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 11
+    },
+    {
+      "name": "GCP",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 13
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2022
+    },
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2021
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 64.2,
+    "signup_date": "2022-05-11",
+    "last_active_date": "2026-05-03",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 34,
+    "applications_submitted_30d": 4,
+    "recruiter_response_rate": 0.52,
+    "avg_response_time_hours": 31.6,
+    "skill_assessment_scores": {
+      "Data Science": 32.1
+    },
+    "connection_count": 134,
+    "endorsements_received": 5,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 10.4,
+      "max": 27.7
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 106,
+    "saved_by_recruiters_30d": 10,
+    "interview_completion_rate": 0.54,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

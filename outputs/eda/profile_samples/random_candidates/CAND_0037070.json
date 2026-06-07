@@ -1,0 +1,149 @@
+{
+  "candidate_id": "CAND_0037070",
+  "profile": {
+    "anonymized_name": "Jay Sen",
+    "headline": "Mechanical Engineer | Driving business outcomes",
+    "summary": "Professional with 9.0+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Berlin",
+    "country": "Germany",
+    "years_of_experience": 9.0,
+    "current_title": "Mechanical Engineer",
+    "current_company": "Wipro",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Wipro",
+      "title": "Mechanical Engineer",
+      "start_date": "2023-11-09",
+      "end_date": null,
+      "duration_months": 31,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Sales Executive",
+      "start_date": "2020-08-26",
+      "end_date": "2023-09-10",
+      "duration_months": 37,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Operations Manager",
+      "start_date": "2017-06-13",
+      "end_date": "2020-08-26",
+      "duration_months": 39,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Local Engineering College",
+      "degree": "M.E.",
+      "field_of_study": "Computer Science",
+      "start_year": 2010,
+      "end_year": 2013,
+      "grade": "8.07 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Spring Boot",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 31
+    },
+    {
+      "name": "GraphQL",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 35
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 8
+    },
+    {
+      "name": "Spark",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 18
+    },
+    {
+      "name": "Scrum",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 9
+    },
+    {
+      "name": "BigQuery",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 14
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Six Sigma Green Belt",
+      "issuer": "ASQ",
+      "year": 2019
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2023
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 56.1,
+    "signup_date": "2025-06-01",
+    "last_active_date": "2025-11-16",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 66,
+    "applications_submitted_30d": 6,
+    "recruiter_response_rate": 0.57,
+    "avg_response_time_hours": 143.8,
+    "skill_assessment_scores": {},
+    "connection_count": 187,
+    "endorsements_received": 50,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 7.5,
+      "max": 24.3
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": false,
+    "github_activity_score": 45.5,
+    "search_appearance_30d": 112,
+    "saved_by_recruiters_30d": 1,
+    "interview_completion_rate": 0.81,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": true
+  }
+}

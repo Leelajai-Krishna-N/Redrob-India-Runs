@@ -1,0 +1,121 @@
+{
+  "candidate_id": "CAND_0000052",
+  "profile": {
+    "anonymized_name": "Vivaan Khanna",
+    "headline": "Mechanical Engineer | Helping teams scale",
+    "summary": "Professional with 1.4+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Gurgaon, Haryana",
+    "country": "India",
+    "years_of_experience": 1.4,
+    "current_title": "Mechanical Engineer",
+    "current_company": "Dunder Mifflin",
+    "current_company_size": "201-500",
+    "current_industry": "Paper Products"
+  },
+  "career_history": [
+    {
+      "company": "Dunder Mifflin",
+      "title": "Mechanical Engineer",
+      "start_date": "2025-02-01",
+      "end_date": null,
+      "duration_months": 16,
+      "is_current": true,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Generic State University",
+      "degree": "M.Sc",
+      "field_of_study": "Data Science",
+      "start_year": 2008,
+      "end_year": 2012,
+      "grade": "6.62 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Webpack",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 35
+    },
+    {
+      "name": "Docker",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 30
+    },
+    {
+      "name": "Excel",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 16
+    },
+    {
+      "name": "BigQuery",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 24
+    },
+    {
+      "name": "Redis",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 13
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Six Sigma Green Belt",
+      "issuer": "ASQ",
+      "year": 2025
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2025
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 31.6,
+    "signup_date": "2022-08-15",
+    "last_active_date": "2026-01-29",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 49,
+    "applications_submitted_30d": 7,
+    "recruiter_response_rate": 0.48,
+    "avg_response_time_hours": 193.5,
+    "skill_assessment_scores": {},
+    "connection_count": 540,
+    "endorsements_received": 1,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 9.5,
+      "max": 12.5
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 147,
+    "saved_by_recruiters_30d": 9,
+    "interview_completion_rate": 0.53,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "candidate_id": "CAND_0045076",
+  "profile": {
+    "anonymized_name": "Rohan Iyengar",
+    "headline": "Project Manager | Helping teams scale",
+    "summary": "Professional with 15.0+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Chandigarh, Chandigarh",
+    "country": "India",
+    "years_of_experience": 15.0,
+    "current_title": "Project Manager",
+    "current_company": "Globex Inc",
+    "current_company_size": "501-1000",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Globex Inc",
+      "title": "Project Manager",
+      "start_date": "2024-10-04",
+      "end_date": null,
+      "duration_months": 20,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Graphic Designer",
+      "start_date": "2021-11-19",
+      "end_date": "2024-08-05",
+      "duration_months": 33,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "HR Manager",
+      "start_date": "2017-06-13",
+      "end_date": "2021-09-20",
+      "duration_months": 52,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Wipro",
+      "title": "Marketing Manager",
+      "start_date": "2014-03-01",
+      "end_date": "2017-05-14",
+      "duration_months": 39,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Wipro",
+      "title": "HR Manager",
+      "start_date": "2011-06-15",
+      "end_date": "2014-03-01",
+      "duration_months": 33,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bharati Vidyapeeth",
+      "degree": "M.Tech",
+      "field_of_study": "Machine Learning",
+      "start_year": 2002,
+      "end_year": 2005,
+      "grade": "65%",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Redux",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 6
+    },
+    {
+      "name": "Terraform",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 5
+    },
+    {
+      "name": "Accounting",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 26
+    },
+    {
+      "name": "Scrum",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 33
+    },
+    {
+      "name": "GCP",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 26
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 29.3,
+    "signup_date": "2024-06-13",
+    "last_active_date": "2026-04-14",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 61,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.35,
+    "avg_response_time_hours": 272.4,
+    "skill_assessment_scores": {},
+    "connection_count": 50,
+    "endorsements_received": 39,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 3.2,
+      "max": 23.4
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 154,
+    "saved_by_recruiters_30d": 1,
+    "interview_completion_rate": 0.49,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": false,
+    "linkedin_connected": true
+  }
+}

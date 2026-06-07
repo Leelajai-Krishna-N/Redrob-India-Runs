@@ -1,0 +1,259 @@
+{
+  "candidate_id": "CAND_0004320",
+  "profile": {
+    "anonymized_name": "Atharv Chopra",
+    "headline": "Sales Executive | Exploring AI & GenAI applications",
+    "summary": "Sales Executive with 12.5+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Gurgaon, Haryana",
+    "country": "India",
+    "years_of_experience": 12.5,
+    "current_title": "Sales Executive",
+    "current_company": "Pied Piper",
+    "current_company_size": "11-50",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Pied Piper",
+      "title": "Sales Executive",
+      "start_date": "2023-04-13",
+      "end_date": null,
+      "duration_months": 38,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "HR Manager",
+      "start_date": "2019-03-05",
+      "end_date": "2023-02-12",
+      "duration_months": 48,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "TCS",
+      "title": "Accountant",
+      "start_date": "2014-09-20",
+      "end_date": "2019-02-26",
+      "duration_months": 54,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "TCS",
+      "title": "Civil Engineer",
+      "start_date": "2013-12-17",
+      "end_date": "2014-09-13",
+      "duration_months": 9,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Anna University",
+      "degree": "Ph.D",
+      "field_of_study": "Information Technology",
+      "start_year": 2004,
+      "end_year": 2007,
+      "grade": "7.54 CGPA",
+      "tier": "tier_2"
+    },
+    {
+      "institution": "Lovely Professional University",
+      "degree": "B.E.",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2014,
+      "end_year": 2018,
+      "grade": "8.58 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Terraform",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 16
+    },
+    {
+      "name": "Go",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 3
+    },
+    {
+      "name": "SQL",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 17
+    },
+    {
+      "name": "AWS",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 13
+    },
+    {
+      "name": "ETL",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 28
+    },
+    {
+      "name": "SEO",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 5
+    },
+    {
+      "name": "Weights & Biases",
+      "proficiency": "intermediate",
+      "endorsements": 10,
+      "duration_months": 17
+    },
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 7
+    },
+    {
+      "name": "Databricks",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 29
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 9
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 18
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 6
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 9
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 9
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 16
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 8
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 6
+    },
+    {
+      "name": "Recommendation Systems",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 17
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 8
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 10
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 16
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Six Sigma Green Belt",
+      "issuer": "ASQ",
+      "year": 2025
+    },
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2020
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 48.2,
+    "signup_date": "2022-10-04",
+    "last_active_date": "2026-03-26",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 56,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.42,
+    "avg_response_time_hours": 85.4,
+    "skill_assessment_scores": {},
+    "connection_count": 358,
+    "endorsements_received": 15,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 11.7,
+      "max": 21.1
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": 7.5,
+    "search_appearance_30d": 87,
+    "saved_by_recruiters_30d": 8,
+    "interview_completion_rate": 0.86,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

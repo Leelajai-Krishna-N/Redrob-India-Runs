@@ -1,0 +1,203 @@
+{
+  "candidate_id": "CAND_0098751",
+  "profile": {
+    "anonymized_name": "Dev Rao",
+    "headline": "Operations Manager | 15.0+ yrs experience",
+    "summary": "Professional with 15.0+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Bhubaneswar, Odisha",
+    "country": "India",
+    "years_of_experience": 15.0,
+    "current_title": "Operations Manager",
+    "current_company": "Wipro",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Wipro",
+      "title": "Operations Manager",
+      "start_date": "2022-06-17",
+      "end_date": null,
+      "duration_months": 48,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Wipro",
+      "title": "Customer Support",
+      "start_date": "2020-10-25",
+      "end_date": "2022-06-17",
+      "duration_months": 20,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "Civil Engineer",
+      "start_date": "2019-10-31",
+      "end_date": "2020-10-25",
+      "duration_months": 12,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Sales Executive",
+      "start_date": "2017-03-31",
+      "end_date": "2019-10-17",
+      "duration_months": 31,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "HR Manager",
+      "start_date": "2015-12-07",
+      "end_date": "2017-03-31",
+      "duration_months": 16,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Infosys",
+      "title": "Civil Engineer",
+      "start_date": "2014-04-16",
+      "end_date": "2015-12-07",
+      "duration_months": 20,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Business Analyst",
+      "start_date": "2011-09-29",
+      "end_date": "2014-04-16",
+      "duration_months": 31,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Generic State University",
+      "degree": "M.S.",
+      "field_of_study": "Electrical Engineering",
+      "start_year": 2015,
+      "end_year": 2019,
+      "grade": "73%",
+      "tier": "tier_4"
+    },
+    {
+      "institution": "Regional Technical Institute",
+      "degree": "Ph.D",
+      "field_of_study": "Mechanical Engineering",
+      "start_year": 2006,
+      "end_year": 2009,
+      "grade": "89%",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "CI/CD",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 24
+    },
+    {
+      "name": "PowerPoint",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 8
+    },
+    {
+      "name": "FastAPI",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 8
+    },
+    {
+      "name": "Redis",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 8
+    },
+    {
+      "name": "MLOps",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 41
+    },
+    {
+      "name": "SAP",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 15
+    },
+    {
+      "name": "HTML",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 13
+    },
+    {
+      "name": "Six Sigma",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 27
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 47.7,
+    "signup_date": "2023-04-03",
+    "last_active_date": "2026-01-28",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 30,
+    "applications_submitted_30d": 8,
+    "recruiter_response_rate": 0.07,
+    "avg_response_time_hours": 209.8,
+    "skill_assessment_scores": {},
+    "connection_count": 222,
+    "endorsements_received": 40,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 8.7,
+      "max": 25.2
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 142,
+    "saved_by_recruiters_30d": 10,
+    "interview_completion_rate": 0.7,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

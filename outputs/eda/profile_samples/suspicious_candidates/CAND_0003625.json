@@ -1,0 +1,234 @@
+{
+  "candidate_id": "CAND_0003625",
+  "profile": {
+    "anonymized_name": "Nikhil Pandey",
+    "headline": "Civil Engineer | Exploring AI & GenAI applications",
+    "summary": "Civil Engineer with 7.0+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "London",
+    "country": "UK",
+    "years_of_experience": 7.0,
+    "current_title": "Civil Engineer",
+    "current_company": "Hooli",
+    "current_company_size": "1001-5000",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Hooli",
+      "title": "Civil Engineer",
+      "start_date": "2024-11-03",
+      "end_date": null,
+      "duration_months": 19,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Project Manager",
+      "start_date": "2021-10-13",
+      "end_date": "2024-10-27",
+      "duration_months": 37,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "TCS",
+      "title": "Graphic Designer",
+      "start_date": "2019-07-12",
+      "end_date": "2021-09-29",
+      "duration_months": 27,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tier-3 Engineering College",
+      "degree": "B.E.",
+      "field_of_study": "Civil Engineering",
+      "start_year": 2016,
+      "end_year": 2019,
+      "grade": "6.85 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 18
+    },
+    {
+      "name": "Terraform",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 35
+    },
+    {
+      "name": "Redis",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 14
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 17
+    },
+    {
+      "name": "Forecasting",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 34
+    },
+    {
+      "name": "Rust",
+      "proficiency": "beginner",
+      "endorsements": 11,
+      "duration_months": 10
+    },
+    {
+      "name": "PowerPoint",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 13
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 8
+    },
+    {
+      "name": "Go",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 35
+    },
+    {
+      "name": "Microservices",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 17
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 12
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 10
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 10
+    },
+    {
+      "name": "RAG",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 15
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 6
+    },
+    {
+      "name": "Recommendation Systems",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 4
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 14
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 16
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 5
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 6
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 5
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 6
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 62.0,
+    "signup_date": "2022-09-26",
+    "last_active_date": "2025-12-29",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 12,
+    "applications_submitted_30d": 4,
+    "recruiter_response_rate": 0.71,
+    "avg_response_time_hours": 222.6,
+    "skill_assessment_scores": {},
+    "connection_count": 153,
+    "endorsements_received": 18,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 10.0,
+      "max": 6.5
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 31,
+    "saved_by_recruiters_30d": 6,
+    "interview_completion_rate": 0.76,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

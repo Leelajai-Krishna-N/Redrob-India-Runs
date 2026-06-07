@@ -1,0 +1,149 @@
+{
+  "candidate_id": "CAND_0000012",
+  "profile": {
+    "anonymized_name": "Anjali Krishnan",
+    "headline": "Operations Manager | Driving business outcomes",
+    "summary": "Professional with 1.1+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Chandigarh, Chandigarh",
+    "country": "India",
+    "years_of_experience": 1.1,
+    "current_title": "Operations Manager",
+    "current_company": "Stark Industries",
+    "current_company_size": "1001-5000",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Stark Industries",
+      "title": "Operations Manager",
+      "start_date": "2025-05-02",
+      "end_date": null,
+      "duration_months": 13,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Symbiosis International",
+      "degree": "B.Sc",
+      "field_of_study": "Physics",
+      "start_year": 2018,
+      "end_year": 2022,
+      "grade": "68%",
+      "tier": "tier_3"
+    },
+    {
+      "institution": "Christ University",
+      "degree": "B.Sc",
+      "field_of_study": "Mechanical Engineering",
+      "start_year": 2011,
+      "end_year": 2015,
+      "grade": "7.28 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Azure",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 10
+    },
+    {
+      "name": "Airflow",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 15
+    },
+    {
+      "name": "AWS",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 30
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 2
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 15
+    },
+    {
+      "name": "dbt",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 22
+    },
+    {
+      "name": "Agile",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 14
+    },
+    {
+      "name": "PowerPoint",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 27
+    },
+    {
+      "name": "Content Writing",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 36
+    },
+    {
+      "name": "Project Management",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 3
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 53.4,
+    "signup_date": "2024-01-28",
+    "last_active_date": "2025-10-28",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 60,
+    "applications_submitted_30d": 1,
+    "recruiter_response_rate": 0.16,
+    "avg_response_time_hours": 38.4,
+    "skill_assessment_scores": {},
+    "connection_count": 165,
+    "endorsements_received": 31,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 14.8,
+      "max": 7.9
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 61,
+    "saved_by_recruiters_30d": 3,
+    "interview_completion_rate": 0.42,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

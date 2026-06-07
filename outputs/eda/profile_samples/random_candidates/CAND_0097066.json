@@ -1,0 +1,144 @@
+{
+  "candidate_id": "CAND_0097066",
+  "profile": {
+    "anonymized_name": "Jay Sethi",
+    "headline": "Software Engineer | SQL, Spark, Cloud",
+    "summary": "Software / data professional with 2.2 years of experience building data pipelines, backend systems, and analytics infrastructure. Started my career in backend engineering and gradually moved closer to data — first dashboards, then ETL, now some basic ML. My toolkit is solid on the data engineering side — Python, SQL, Spark, Airflow, warehouse design — and I've completed a couple of self-directed ML projects (Kaggle competitions, side projects fine-tuning small models). Interested in transitioning toward more AI/ML-focused work, ideally at a company where I can leverage my existing data-infra skills while learning modern ML practice.",
+    "location": "Delhi, Delhi",
+    "country": "India",
+    "years_of_experience": 2.2,
+    "current_title": "Software Engineer",
+    "current_company": "Freshworks",
+    "current_company_size": "5001-10000",
+    "current_industry": "SaaS"
+  },
+  "career_history": [
+    {
+      "company": "Freshworks",
+      "title": "Software Engineer",
+      "start_date": "2024-10-04",
+      "end_date": null,
+      "duration_months": 20,
+      "is_current": true,
+      "industry": "SaaS",
+      "company_size": "5001-10000",
+      "description": "Mixed data science and analytics-engineering role at a marketing-analytics startup. Spent maybe 30% of my time on lightweight ML (clustering, classification, churn prediction in sklearn/XGBoost) and 70% on data infrastructure and dashboards. Comfortable with the modeling work but I wouldn't call myself an ML specialist. Built our experimentation framework that supports the product team's A/B tests."
+    },
+    {
+      "company": "upGrad",
+      "title": "Software Engineer",
+      "start_date": "2024-04-07",
+      "end_date": "2024-10-04",
+      "duration_months": 6,
+      "is_current": false,
+      "industry": "EdTech",
+      "company_size": "1001-5000",
+      "description": "Backend + data hybrid role at a growth-stage startup. Built the company's first proper data warehouse (migrating from a tangled set of Postgres replicas to a clean Snowflake setup with dbt), the orchestration layer (Airflow), and the BI integration (Looker). Shipped a couple of small predictive features but the bulk of the role was data infrastructure."
+    }
+  ],
+  "education": [
+    {
+      "institution": "VJTI Mumbai",
+      "degree": "B.Sc",
+      "field_of_study": "Chemical Engineering",
+      "start_year": 2009,
+      "end_year": 2013,
+      "grade": "7.27 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "REST APIs",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 10
+    },
+    {
+      "name": "Tailwind",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 15
+    },
+    {
+      "name": "Redis",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 8
+    },
+    {
+      "name": "Weights & Biases",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 29
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "advanced",
+      "endorsements": 24,
+      "duration_months": 40
+    },
+    {
+      "name": "MLflow",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 26
+    },
+    {
+      "name": "Computer Vision",
+      "proficiency": "advanced",
+      "endorsements": 19,
+      "duration_months": 59
+    },
+    {
+      "name": "Data Science",
+      "proficiency": "advanced",
+      "endorsements": 54,
+      "duration_months": 43
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 77.2,
+    "signup_date": "2023-12-21",
+    "last_active_date": "2026-03-12",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 135,
+    "applications_submitted_30d": 8,
+    "recruiter_response_rate": 0.6,
+    "avg_response_time_hours": 84.9,
+    "skill_assessment_scores": {
+      "TensorFlow": 71.3,
+      "MLflow": 81.6,
+      "Computer Vision": 60.9,
+      "Data Science": 51.8
+    },
+    "connection_count": 458,
+    "endorsements_received": 62,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 31.8,
+      "max": 29.6
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": false,
+    "github_activity_score": 16.7,
+    "search_appearance_30d": 389,
+    "saved_by_recruiters_30d": 27,
+    "interview_completion_rate": 0.91,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "candidate_id": "CAND_0004524",
+  "profile": {
+    "anonymized_name": "Ayaan Saxena",
+    "headline": "Graphic Designer | AI enthusiast | Building with LLMs",
+    "summary": "Graphic Designer with 2.5+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Ahmedabad, Gujarat",
+    "country": "India",
+    "years_of_experience": 2.5,
+    "current_title": "Graphic Designer",
+    "current_company": "Infosys",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Infosys",
+      "title": "Graphic Designer",
+      "start_date": "2023-12-09",
+      "end_date": null,
+      "duration_months": 30,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lovely Professional University",
+      "degree": "B.E.",
+      "field_of_study": "Data Science",
+      "start_year": 2005,
+      "end_year": 2009,
+      "grade": "75%",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "PowerPoint",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 4
+    },
+    {
+      "name": "Angular",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 9
+    },
+    {
+      "name": "Weights & Biases",
+      "proficiency": "advanced",
+      "endorsements": 55,
+      "duration_months": 53
+    },
+    {
+      "name": "Redux",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 18
+    },
+    {
+      "name": "Rust",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 7
+    },
+    {
+      "name": "Terraform",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 13
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 24
+    },
+    {
+      "name": "Photoshop",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 5
+    },
+    {
+      "name": "SEO",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 3
+    },
+    {
+      "name": "Six Sigma",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 13
+    },
+    {
+      "name": "Flask",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 14
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 14
+    },
+    {
+      "name": "RAG",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 7
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 7
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 18
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 8
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 10
+    },
+    {
+      "name": "Recommendation Systems",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 8
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 16
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 11
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 16
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 84.8,
+    "signup_date": "2023-12-29",
+    "last_active_date": "2025-10-23",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 51,
+    "applications_submitted_30d": 5,
+    "recruiter_response_rate": 0.3,
+    "avg_response_time_hours": 239.0,
+    "skill_assessment_scores": {},
+    "connection_count": 252,
+    "endorsements_received": 6,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 11.3,
+      "max": 12.5
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 80,
+    "saved_by_recruiters_30d": 2,
+    "interview_completion_rate": 0.67,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

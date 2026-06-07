@@ -1,0 +1,143 @@
+{
+  "candidate_id": "CAND_0000008",
+  "profile": {
+    "anonymized_name": "Shaurya Chatterjee",
+    "headline": "Operations Manager | 3.6+ yrs experience",
+    "summary": "Professional with 3.6+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Noida, Uttar Pradesh",
+    "country": "India",
+    "years_of_experience": 3.6,
+    "current_title": "Operations Manager",
+    "current_company": "Wipro",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Wipro",
+      "title": "Operations Manager",
+      "start_date": "2022-11-14",
+      "end_date": null,
+      "duration_months": 43,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Anna University",
+      "degree": "B.Tech",
+      "field_of_study": "Data Science",
+      "start_year": 2008,
+      "end_year": 2012,
+      "grade": "8.60 CGPA",
+      "tier": "tier_2"
+    },
+    {
+      "institution": "SRM University",
+      "degree": "M.Sc",
+      "field_of_study": "Computer Engineering",
+      "start_year": 2009,
+      "end_year": 2013,
+      "grade": "67%",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 32
+    },
+    {
+      "name": "BigQuery",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 9
+    },
+    {
+      "name": "Spark",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 6
+    },
+    {
+      "name": "Accounting",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 3
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 9
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 11
+    },
+    {
+      "name": "Rust",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 16
+    },
+    {
+      "name": "HTML",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 11
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Six Sigma Green Belt",
+      "issuer": "ASQ",
+      "year": 2018
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 63.0,
+    "signup_date": "2022-06-26",
+    "last_active_date": "2025-12-13",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 28,
+    "applications_submitted_30d": 5,
+    "recruiter_response_rate": 0.42,
+    "avg_response_time_hours": 98.4,
+    "skill_assessment_scores": {},
+    "connection_count": 285,
+    "endorsements_received": 7,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 6.6,
+      "max": 17.2
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 91,
+    "saved_by_recruiters_30d": 0,
+    "interview_completion_rate": 0.74,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

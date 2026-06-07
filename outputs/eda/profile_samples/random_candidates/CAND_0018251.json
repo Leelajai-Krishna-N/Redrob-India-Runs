@@ -1,0 +1,179 @@
+{
+  "candidate_id": "CAND_0018251",
+  "profile": {
+    "anonymized_name": "Ananya Chatterjee",
+    "headline": "Mechanical Engineer | Helping teams scale",
+    "summary": "Professional with 9.5+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Delhi, Delhi",
+    "country": "India",
+    "years_of_experience": 9.5,
+    "current_title": "Mechanical Engineer",
+    "current_company": "Dunder Mifflin",
+    "current_company_size": "201-500",
+    "current_industry": "Paper Products"
+  },
+  "career_history": [
+    {
+      "company": "Dunder Mifflin",
+      "title": "Mechanical Engineer",
+      "start_date": "2022-09-15",
+      "end_date": null,
+      "duration_months": 45,
+      "is_current": true,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Infosys",
+      "title": "Content Writer",
+      "start_date": "2020-11-24",
+      "end_date": "2022-09-15",
+      "duration_months": 22,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Hooli",
+      "title": "Marketing Manager",
+      "start_date": "2019-05-04",
+      "end_date": "2020-11-24",
+      "duration_months": 19,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Mechanical Engineer",
+      "start_date": "2017-03-15",
+      "end_date": "2019-05-04",
+      "duration_months": 26,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Symbiosis International",
+      "degree": "M.Tech",
+      "field_of_study": "Computer Engineering",
+      "start_year": 2013,
+      "end_year": 2017,
+      "grade": "70%",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Angular",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 9
+    },
+    {
+      "name": "Spark",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 17
+    },
+    {
+      "name": "Rust",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 25
+    },
+    {
+      "name": "SAP",
+      "proficiency": "intermediate",
+      "endorsements": 10,
+      "duration_months": 13
+    },
+    {
+      "name": "Scrum",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 29
+    },
+    {
+      "name": "Databricks",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 8
+    },
+    {
+      "name": "Data Science",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 8
+    },
+    {
+      "name": "HTML",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 7
+    },
+    {
+      "name": "Snowflake",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 28
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 22
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 3
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 25.6,
+    "signup_date": "2023-04-14",
+    "last_active_date": "2026-04-24",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 41,
+    "applications_submitted_30d": 10,
+    "recruiter_response_rate": 0.15,
+    "avg_response_time_hours": 199.7,
+    "skill_assessment_scores": {},
+    "connection_count": 584,
+    "endorsements_received": 4,
+    "notice_period_days": 30,
+    "expected_salary_range_inr_lpa": {
+      "min": 4.5,
+      "max": 15.2
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 18,
+    "saved_by_recruiters_30d": 5,
+    "interview_completion_rate": 0.67,
+    "offer_acceptance_rate": 0.44,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

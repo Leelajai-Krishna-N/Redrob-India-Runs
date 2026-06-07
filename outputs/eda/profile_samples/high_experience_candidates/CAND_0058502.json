@@ -1,0 +1,183 @@
+{
+  "candidate_id": "CAND_0058502",
+  "profile": {
+    "anonymized_name": "Kavya Goyal",
+    "headline": "Operations Manager | Driving business outcomes",
+    "summary": "Professional with 15.0+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Mumbai, Maharashtra",
+    "country": "India",
+    "years_of_experience": 15.0,
+    "current_title": "Operations Manager",
+    "current_company": "Acme Corp",
+    "current_company_size": "201-500",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Acme Corp",
+      "title": "Operations Manager",
+      "start_date": "2022-08-16",
+      "end_date": null,
+      "duration_months": 46,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Wipro",
+      "title": "Project Manager",
+      "start_date": "2020-05-28",
+      "end_date": "2022-08-16",
+      "duration_months": 27,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Infosys",
+      "title": "Mechanical Engineer",
+      "start_date": "2017-10-11",
+      "end_date": "2020-05-28",
+      "duration_months": 32,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Initech",
+      "title": "Sales Executive",
+      "start_date": "2015-01-25",
+      "end_date": "2017-10-11",
+      "duration_months": 33,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Infosys",
+      "title": "Graphic Designer",
+      "start_date": "2012-06-09",
+      "end_date": "2014-11-26",
+      "duration_months": 30,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Graphic Designer",
+      "start_date": "2011-09-13",
+      "end_date": "2012-06-09",
+      "duration_months": 9,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lovely Professional University",
+      "degree": "B.Sc",
+      "field_of_study": "Mathematics",
+      "start_year": 2013,
+      "end_year": 2018,
+      "grade": "65%",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "CSS",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 21
+    },
+    {
+      "name": "Six Sigma",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 32
+    },
+    {
+      "name": "AWS",
+      "proficiency": "beginner",
+      "endorsements": 13,
+      "duration_months": 7
+    },
+    {
+      "name": "GCP",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 8
+    },
+    {
+      "name": "Databricks",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 26
+    },
+    {
+      "name": "Sales",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 12
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 19
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 24
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 67.0,
+    "signup_date": "2025-03-09",
+    "last_active_date": "2026-01-12",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 56,
+    "applications_submitted_30d": 10,
+    "recruiter_response_rate": 0.12,
+    "avg_response_time_hours": 215.4,
+    "skill_assessment_scores": {},
+    "connection_count": 408,
+    "endorsements_received": 7,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 10.7,
+      "max": 14.1
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 106,
+    "saved_by_recruiters_30d": 11,
+    "interview_completion_rate": 0.63,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

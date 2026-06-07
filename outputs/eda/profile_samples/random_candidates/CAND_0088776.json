@@ -1,0 +1,156 @@
+{
+  "candidate_id": "CAND_0088776",
+  "profile": {
+    "anonymized_name": "Deepak Verma",
+    "headline": "Mobile Developer | Cloud & DevOps",
+    "summary": "Software engineer with 6.2 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. Most of my work is conventional backend engineering — APIs, databases, queues, deployments. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Dubai",
+    "country": "UAE",
+    "years_of_experience": 6.2,
+    "current_title": "Mobile Developer",
+    "current_company": "Stark Industries",
+    "current_company_size": "1001-5000",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Stark Industries",
+      "title": "Mobile Developer",
+      "start_date": "2024-04-07",
+      "end_date": null,
+      "duration_months": 26,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Cloud infrastructure and DevOps work at an enterprise SaaS company. Owned the AWS account architecture (VPC, IAM, networking), the Terraform modules for our service deployments, and the Kubernetes cluster operations. Designed the CI/CD pipelines (GitLab CI + ArgoCD) and the monitoring stack (Prometheus, Grafana, Loki). Strong on the infra and ops side; haven't done much application development."
+    },
+    {
+      "company": "Razorpay",
+      "title": "Mobile Developer",
+      "start_date": "2021-09-06",
+      "end_date": "2024-03-24",
+      "duration_months": 31,
+      "is_current": false,
+      "industry": "Fintech",
+      "company_size": "1001-5000",
+      "description": "Java backend development at a large enterprise — Spring Boot microservices, Kafka for inter-service messaging, Postgres + Redis for storage. Worked on the customer onboarding flow which involved orchestrating multiple downstream services. Solid on the Spring ecosystem, transaction handling, and the operational side of Java services. Looking to either go deeper on distributed systems or expand into modern application stacks."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Software Engineer",
+      "start_date": "2020-05-14",
+      "end_date": "2021-09-06",
+      "duration_months": 16,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team — moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Regional Technical Institute",
+      "degree": "Ph.D",
+      "field_of_study": "Computer Engineering",
+      "start_year": 2009,
+      "end_year": 2014,
+      "grade": "73%",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Azure",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 5
+    },
+    {
+      "name": "GANs",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 30
+    },
+    {
+      "name": "Excel",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 10
+    },
+    {
+      "name": "Java",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 30
+    },
+    {
+      "name": "Go",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 6
+    },
+    {
+      "name": "Rust",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 14
+    },
+    {
+      "name": "TTS",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 24
+    },
+    {
+      "name": "Scrum",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 36
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2019
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 52.9,
+    "signup_date": "2024-09-15",
+    "last_active_date": "2025-12-06",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 53,
+    "applications_submitted_30d": 7,
+    "recruiter_response_rate": 0.44,
+    "avg_response_time_hours": 72.7,
+    "skill_assessment_scores": {},
+    "connection_count": 401,
+    "endorsements_received": 26,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 12.3,
+      "max": 26.8
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 227,
+    "saved_by_recruiters_30d": 2,
+    "interview_completion_rate": 0.86,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

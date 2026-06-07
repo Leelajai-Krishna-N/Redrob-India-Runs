@@ -1,0 +1,272 @@
+{
+  "candidate_id": "CAND_0005851",
+  "profile": {
+    "anonymized_name": "Kavya Mehta",
+    "headline": "Content Writer | Generative AI explorer",
+    "summary": "Content Writer with 12.8+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Delhi, Delhi",
+    "country": "India",
+    "years_of_experience": 12.8,
+    "current_title": "Content Writer",
+    "current_company": "Wayne Enterprises",
+    "current_company_size": "10001+",
+    "current_industry": "Conglomerate"
+  },
+  "career_history": [
+    {
+      "company": "Wayne Enterprises",
+      "title": "Content Writer",
+      "start_date": "2024-10-04",
+      "end_date": null,
+      "duration_months": 20,
+      "is_current": true,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Hooli",
+      "title": "Civil Engineer",
+      "start_date": "2021-03-24",
+      "end_date": "2024-10-04",
+      "duration_months": 43,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Hooli",
+      "title": "Project Manager",
+      "start_date": "2020-01-22",
+      "end_date": "2021-03-17",
+      "duration_months": 14,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Customer Support",
+      "start_date": "2018-01-02",
+      "end_date": "2019-12-23",
+      "duration_months": 24,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Civil Engineer",
+      "start_date": "2015-09-15",
+      "end_date": "2018-01-02",
+      "duration_months": 28,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Hooli",
+      "title": "HR Manager",
+      "start_date": "2013-09-25",
+      "end_date": "2015-07-17",
+      "duration_months": 22,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIIT Hyderabad",
+      "degree": "B.Tech",
+      "field_of_study": "Machine Learning",
+      "start_year": 2005,
+      "end_year": 2010,
+      "grade": "8.96 CGPA",
+      "tier": "tier_1"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Kafka",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 12
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 17
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 15
+    },
+    {
+      "name": "Marketing",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 17
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 14
+    },
+    {
+      "name": "Java",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 15
+    },
+    {
+      "name": "Figma",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 26
+    },
+    {
+      "name": "OpenCV",
+      "proficiency": "advanced",
+      "endorsements": 9,
+      "duration_months": 47
+    },
+    {
+      "name": "Azure",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 11
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 16
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 17
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 13
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 11
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 9
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 18
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 11
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 18
+    },
+    {
+      "name": "Recommendation Systems",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 9
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 8
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 10
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 13
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2020
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2018
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 39.2,
+    "signup_date": "2025-06-22",
+    "last_active_date": "2026-02-17",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 3,
+    "applications_submitted_30d": 7,
+    "recruiter_response_rate": 0.42,
+    "avg_response_time_hours": 150.3,
+    "skill_assessment_scores": {},
+    "connection_count": 272,
+    "endorsements_received": 13,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 15.5,
+      "max": 13.9
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 18,
+    "saved_by_recruiters_30d": 3,
+    "interview_completion_rate": 0.76,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

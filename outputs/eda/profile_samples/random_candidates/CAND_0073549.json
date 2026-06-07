@@ -1,0 +1,147 @@
+{
+  "candidate_id": "CAND_0073549",
+  "profile": {
+    "anonymized_name": "Krishna Reddy",
+    "headline": "Sales Executive | 5.2+ yrs experience",
+    "summary": "Professional with 5.2+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Mumbai, Maharashtra",
+    "country": "India",
+    "years_of_experience": 5.2,
+    "current_title": "Sales Executive",
+    "current_company": "Initech",
+    "current_company_size": "51-200",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Initech",
+      "title": "Sales Executive",
+      "start_date": "2024-08-05",
+      "end_date": null,
+      "duration_months": 22,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Hooli",
+      "title": "Accountant",
+      "start_date": "2022-08-16",
+      "end_date": "2024-08-05",
+      "duration_months": 24,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Initech",
+      "title": "Project Manager",
+      "start_date": "2021-03-24",
+      "end_date": "2022-06-17",
+      "duration_months": 15,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    }
+  ],
+  "education": [
+    {
+      "institution": "KIIT University",
+      "degree": "M.Tech",
+      "field_of_study": "Machine Learning",
+      "start_year": 2013,
+      "end_year": 2017,
+      "grade": "6.75 CGPA",
+      "tier": "tier_3"
+    },
+    {
+      "institution": "Regional Technical Institute",
+      "degree": "B.Tech",
+      "field_of_study": "Commerce",
+      "start_year": 2004,
+      "end_year": 2007,
+      "grade": "8.47 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Agile",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 13
+    },
+    {
+      "name": "Microservices",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 9
+    },
+    {
+      "name": "Feature Engineering",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 27
+    },
+    {
+      "name": "AWS",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 18
+    },
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 32
+    },
+    {
+      "name": "Redux",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 35
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 57.9,
+    "signup_date": "2026-03-18",
+    "last_active_date": "2026-01-08",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 46,
+    "applications_submitted_30d": 4,
+    "recruiter_response_rate": 0.1,
+    "avg_response_time_hours": 89.7,
+    "skill_assessment_scores": {},
+    "connection_count": 316,
+    "endorsements_received": 25,
+    "notice_period_days": 30,
+    "expected_salary_range_inr_lpa": {
+      "min": 15.1,
+      "max": 11.2
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 163,
+    "saved_by_recruiters_30d": 1,
+    "interview_completion_rate": 0.52,
+    "offer_acceptance_rate": 0.16,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "candidate_id": "CAND_0004946",
+  "profile": {
+    "anonymized_name": "Ela Khanna",
+    "headline": "Customer Support | Exploring AI & GenAI applications",
+    "summary": "Customer Support with 2.3+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Bhubaneswar, Odisha",
+    "country": "India",
+    "years_of_experience": 2.3,
+    "current_title": "Customer Support",
+    "current_company": "Hooli",
+    "current_company_size": "1001-5000",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Hooli",
+      "title": "Customer Support",
+      "start_date": "2024-03-08",
+      "end_date": null,
+      "duration_months": 27,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Amity University",
+      "degree": "B.Sc",
+      "field_of_study": "Machine Learning",
+      "start_year": 2007,
+      "end_year": 2012,
+      "grade": "88%",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Webpack",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 24
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 17
+    },
+    {
+      "name": "Content Writing",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 15
+    },
+    {
+      "name": "Project Management",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 29
+    },
+    {
+      "name": "Microservices",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 20
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 18
+    },
+    {
+      "name": "Data Pipelines",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 11
+    },
+    {
+      "name": "PowerPoint",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 17
+    },
+    {
+      "name": "Next.js",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 10
+    },
+    {
+      "name": "Accounting",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 7
+    },
+    {
+      "name": "Recommendation Systems",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 15
+    },
+    {
+      "name": "RAG",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 5
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 13
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 7
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 8
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 11
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 10
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 13
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 10
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 15
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 7
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 10
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Six Sigma Green Belt",
+      "issuer": "ASQ",
+      "year": 2019
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2025
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 84.4,
+    "signup_date": "2025-01-20",
+    "last_active_date": "2026-03-21",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 64,
+    "applications_submitted_30d": 2,
+    "recruiter_response_rate": 0.24,
+    "avg_response_time_hours": 223.8,
+    "skill_assessment_scores": {},
+    "connection_count": 119,
+    "endorsements_received": 15,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 9.9,
+      "max": 22.8
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": true,
+    "github_activity_score": 8.4,
+    "search_appearance_30d": 137,
+    "saved_by_recruiters_30d": 5,
+    "interview_completion_rate": 0.84,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

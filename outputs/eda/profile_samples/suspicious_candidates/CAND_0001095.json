@@ -1,0 +1,239 @@
+{
+  "candidate_id": "CAND_0001095",
+  "profile": {
+    "anonymized_name": "Shaurya Tiwari",
+    "headline": "Mechanical Engineer | Exploring AI & GenAI applications",
+    "summary": "Mechanical Engineer with 10.5+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Kolkata, West Bengal",
+    "country": "India",
+    "years_of_experience": 10.5,
+    "current_title": "Mechanical Engineer",
+    "current_company": "Wipro",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Wipro",
+      "title": "Mechanical Engineer",
+      "start_date": "2023-02-12",
+      "end_date": null,
+      "duration_months": 40,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "TCS",
+      "title": "Mechanical Engineer",
+      "start_date": "2020-09-25",
+      "end_date": "2023-01-13",
+      "duration_months": 28,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Project Manager",
+      "start_date": "2019-07-03",
+      "end_date": "2020-08-26",
+      "duration_months": 14,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Civil Engineer",
+      "start_date": "2016-02-12",
+      "end_date": "2019-06-26",
+      "duration_months": 41,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Symbiosis International",
+      "degree": "M.Sc",
+      "field_of_study": "Mathematics",
+      "start_year": 2001,
+      "end_year": 2006,
+      "grade": "6.78 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Kafka",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 10
+    },
+    {
+      "name": "Databricks",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 36
+    },
+    {
+      "name": "Tally",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 31
+    },
+    {
+      "name": "Apache Beam",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 24
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 24
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 18
+    },
+    {
+      "name": "REST APIs",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 6
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 27
+    },
+    {
+      "name": "Docker",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 14
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 7
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 12
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 18
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 15
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 13
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 6
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 15
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 13
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 7
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 15
+    },
+    {
+      "name": "RAG",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 15
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 17
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 58.1,
+    "signup_date": "2025-09-26",
+    "last_active_date": "2026-02-04",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 29,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.5,
+    "avg_response_time_hours": 133.8,
+    "skill_assessment_scores": {},
+    "connection_count": 520,
+    "endorsements_received": 1,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 4.4,
+      "max": 22.7
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 112,
+    "saved_by_recruiters_30d": 4,
+    "interview_completion_rate": 0.4,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

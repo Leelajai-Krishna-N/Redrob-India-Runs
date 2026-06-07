@@ -1,0 +1,202 @@
+{
+  "candidate_id": "CAND_0000045",
+  "profile": {
+    "anonymized_name": "Vikram Mittal",
+    "headline": "Project Manager | 12.2+ yrs experience",
+    "summary": "Professional with 12.2+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Indore, Madhya Pradesh",
+    "country": "India",
+    "years_of_experience": 12.2,
+    "current_title": "Project Manager",
+    "current_company": "Initech",
+    "current_company_size": "51-200",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Initech",
+      "title": "Project Manager",
+      "start_date": "2025-03-03",
+      "end_date": null,
+      "duration_months": 15,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "Civil Engineer",
+      "start_date": "2024-02-07",
+      "end_date": "2025-03-03",
+      "duration_months": 13,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Infosys",
+      "title": "Marketing Manager",
+      "start_date": "2023-01-29",
+      "end_date": "2024-01-24",
+      "duration_months": 12,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Content Writer",
+      "start_date": "2021-10-06",
+      "end_date": "2023-01-29",
+      "duration_months": 16,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "TCS",
+      "title": "Graphic Designer",
+      "start_date": "2018-08-09",
+      "end_date": "2021-09-22",
+      "duration_months": 38,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Graphic Designer",
+      "start_date": "2016-04-21",
+      "end_date": "2018-08-09",
+      "duration_months": 28,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Operations Manager",
+      "start_date": "2014-07-17",
+      "end_date": "2016-04-07",
+      "duration_months": 21,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Generic State University",
+      "degree": "M.E.",
+      "field_of_study": "Statistics",
+      "start_year": 2002,
+      "end_year": 2005,
+      "grade": "7.91 CGPA",
+      "tier": "tier_4"
+    },
+    {
+      "institution": "KIIT University",
+      "degree": "B.Tech",
+      "field_of_study": "Machine Learning",
+      "start_year": 2016,
+      "end_year": 2020,
+      "grade": "86%",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "GCP",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 3
+    },
+    {
+      "name": "Sales",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 12
+    },
+    {
+      "name": "Redux",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 25
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 36
+    },
+    {
+      "name": "Airflow",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 18
+    },
+    {
+      "name": "SAP",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 27
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2024
+    },
+    {
+      "name": "Six Sigma Green Belt",
+      "issuer": "ASQ",
+      "year": 2024
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 25.4,
+    "signup_date": "2023-04-15",
+    "last_active_date": "2026-04-24",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 37,
+    "applications_submitted_30d": 0,
+    "recruiter_response_rate": 0.62,
+    "avg_response_time_hours": 20.8,
+    "skill_assessment_scores": {},
+    "connection_count": 490,
+    "endorsements_received": 2,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 9.7,
+      "max": 12.3
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 23,
+    "saved_by_recruiters_30d": 6,
+    "interview_completion_rate": 0.33,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

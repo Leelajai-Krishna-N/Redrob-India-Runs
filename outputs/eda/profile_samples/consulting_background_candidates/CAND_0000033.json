@@ -1,0 +1,168 @@
+{
+  "candidate_id": "CAND_0000033",
+  "profile": {
+    "anonymized_name": "Shreya Nair",
+    "headline": "Graphic Designer | Helping teams scale",
+    "summary": "Professional with 8.6+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Pune, Maharashtra",
+    "country": "India",
+    "years_of_experience": 8.6,
+    "current_title": "Graphic Designer",
+    "current_company": "Wipro",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Wipro",
+      "title": "Graphic Designer",
+      "start_date": "2023-11-09",
+      "end_date": null,
+      "duration_months": 31,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Project Manager",
+      "start_date": "2020-07-20",
+      "end_date": "2023-11-02",
+      "duration_months": 40,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Content Writer",
+      "start_date": "2018-01-02",
+      "end_date": "2020-07-20",
+      "duration_months": 31,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tier-3 Engineering College",
+      "degree": "M.S.",
+      "field_of_study": "Computer Science",
+      "start_year": 2014,
+      "end_year": 2017,
+      "grade": "9.32 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Kubernetes",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 9
+    },
+    {
+      "name": "Data Pipelines",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 8
+    },
+    {
+      "name": "Snowflake",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 12
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 29
+    },
+    {
+      "name": "SEO",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 36
+    },
+    {
+      "name": "ETL",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 20
+    },
+    {
+      "name": "Airflow",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 16
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 15
+    },
+    {
+      "name": "Content Writing",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 11
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 26
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Six Sigma Green Belt",
+      "issuer": "ASQ",
+      "year": 2019
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 74.0,
+    "signup_date": "2026-03-13",
+    "last_active_date": "2026-03-27",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 42,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.08,
+    "avg_response_time_hours": 210.9,
+    "skill_assessment_scores": {},
+    "connection_count": 410,
+    "endorsements_received": 29,
+    "notice_period_days": 30,
+    "expected_salary_range_inr_lpa": {
+      "min": 8.3,
+      "max": 13.0
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": false,
+    "github_activity_score": 38.3,
+    "search_appearance_30d": 98,
+    "saved_by_recruiters_30d": 2,
+    "interview_completion_rate": 0.37,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "candidate_id": "CAND_0050027",
+  "profile": {
+    "anonymized_name": "Aarav Hegde",
+    "headline": "Mechanical Engineer | Helping teams scale",
+    "summary": "Professional with 15.0+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Chennai, Tamil Nadu",
+    "country": "India",
+    "years_of_experience": 15.0,
+    "current_title": "Mechanical Engineer",
+    "current_company": "Acme Corp",
+    "current_company_size": "201-500",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Acme Corp",
+      "title": "Mechanical Engineer",
+      "start_date": "2023-04-13",
+      "end_date": null,
+      "duration_months": 38,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Content Writer",
+      "start_date": "2021-03-17",
+      "end_date": "2023-04-06",
+      "duration_months": 25,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Infosys",
+      "title": "Business Analyst",
+      "start_date": "2018-01-02",
+      "end_date": "2021-03-17",
+      "duration_months": 39,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Marketing Manager",
+      "start_date": "2015-03-19",
+      "end_date": "2017-11-03",
+      "duration_months": 32,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Wipro",
+      "title": "Sales Executive",
+      "start_date": "2011-08-07",
+      "end_date": "2015-03-19",
+      "duration_months": 44,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    }
+  ],
+  "education": [
+    {
+      "institution": "VIT Chennai",
+      "degree": "M.Tech",
+      "field_of_study": "Computer Engineering",
+      "start_year": 2017,
+      "end_year": 2020,
+      "grade": "8.96 CGPA",
+      "tier": "tier_3"
+    },
+    {
+      "institution": "COEP Pune",
+      "degree": "B.Sc",
+      "field_of_study": "Data Science",
+      "start_year": 2017,
+      "end_year": 2022,
+      "grade": "7.22 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Illustrator",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 15
+    },
+    {
+      "name": "Azure",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 29
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 11
+    },
+    {
+      "name": "Data Pipelines",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 29
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 30
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "beginner",
+      "endorsements": 11,
+      "duration_months": 12
+    },
+    {
+      "name": "Airflow",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 34
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 37.7,
+    "signup_date": "2025-03-26",
+    "last_active_date": "2025-09-29",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 59,
+    "applications_submitted_30d": 4,
+    "recruiter_response_rate": 0.78,
+    "avg_response_time_hours": 198.7,
+    "skill_assessment_scores": {},
+    "connection_count": 111,
+    "endorsements_received": 14,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 17.2,
+      "max": 21.5
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": false,
+    "github_activity_score": 44.1,
+    "search_appearance_30d": 138,
+    "saved_by_recruiters_30d": 8,
+    "interview_completion_rate": 0.65,
+    "offer_acceptance_rate": 0.37,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "candidate_id": "CAND_0027673",
+  "profile": {
+    "anonymized_name": "Aanya Joshi",
+    "headline": "Project Manager | Helping teams scale",
+    "summary": "Professional with 6.8+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Pune, Maharashtra",
+    "country": "India",
+    "years_of_experience": 6.8,
+    "current_title": "Project Manager",
+    "current_company": "Infosys",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Infosys",
+      "title": "Project Manager",
+      "start_date": "2024-12-03",
+      "end_date": null,
+      "duration_months": 18,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Initech",
+      "title": "Civil Engineer",
+      "start_date": "2023-03-14",
+      "end_date": "2024-12-03",
+      "duration_months": 21,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Accountant",
+      "start_date": "2021-08-21",
+      "end_date": "2023-03-14",
+      "duration_months": 19,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Sales Executive",
+      "start_date": "2020-02-28",
+      "end_date": "2021-06-22",
+      "duration_months": 16,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Business Analyst",
+      "start_date": "2019-09-01",
+      "end_date": "2020-02-28",
+      "duration_months": 6,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    }
+  ],
+  "education": [
+    {
+      "institution": "SRM University",
+      "degree": "M.S.",
+      "field_of_study": "Data Science",
+      "start_year": 2003,
+      "end_year": 2007,
+      "grade": "7.03 CGPA",
+      "tier": "tier_2"
+    },
+    {
+      "institution": "COEP Pune",
+      "degree": "M.S.",
+      "field_of_study": "Computer Science",
+      "start_year": 2011,
+      "end_year": 2016,
+      "grade": "8.59 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Django",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 6
+    },
+    {
+      "name": "Content Writing",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 16
+    },
+    {
+      "name": "Redis",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 16
+    },
+    {
+      "name": "Scrum",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 8
+    },
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 3
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 33.1,
+    "signup_date": "2023-11-28",
+    "last_active_date": "2025-11-04",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 10,
+    "applications_submitted_30d": 0,
+    "recruiter_response_rate": 0.7,
+    "avg_response_time_hours": 26.2,
+    "skill_assessment_scores": {},
+    "connection_count": 204,
+    "endorsements_received": 20,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 12.5,
+      "max": 8.4
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 33,
+    "saved_by_recruiters_30d": 0,
+    "interview_completion_rate": 0.65,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

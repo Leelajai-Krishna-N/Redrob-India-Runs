@@ -1,0 +1,148 @@
+section,item,count,share
+current_title,business analyst,5833,0.05833
+current_title,hr manager,5830,0.0583
+current_title,mechanical engineer,5791,0.05791
+current_title,accountant,5764,0.05764
+current_title,project manager,5754,0.05754
+current_title,customer support,5750,0.0575
+current_title,operations manager,5744,0.05744
+current_title,content writer,5727,0.05727
+current_title,sales executive,5713,0.05713
+current_title,civil engineer,5702,0.05702
+current_title,graphic designer,5689,0.05689
+current_title,marketing manager,5524,0.05524
+current_title,software engineer,3450,0.0345
+current_title,full stack developer,2873,0.02873
+current_title,cloud engineer,2836,0.02836
+current_title,java developer,2809,0.02809
+current_title,.net developer,2788,0.02788
+current_title,devops engineer,2787,0.02787
+current_title,mobile developer,2757,0.02757
+current_title,frontend engineer,2738,0.02738
+current_title,qa engineer,2682,0.02682
+current_title,analytics engineer,764,0.00764
+current_title,data engineer,744,0.00744
+current_title,data analyst,728,0.00728
+current_title,backend engineer,704,0.00704
+current_title,senior data engineer,687,0.00687
+current_title,senior software engineer,653,0.00653
+current_title,ml engineer,167,0.00167
+current_title,ai research engineer,153,0.00153
+current_title,data scientist,145,0.00145
+current_title,senior software engineer ml,142,0.00142
+current_title,computer vision engineer,132,0.00132
+current_title,junior ml engineer,131,0.00131
+current_title,ai specialist,130,0.0013
+current_title,recommendation systems engineer,26,0.00026
+current_title,machine learning engineer,24,0.00024
+current_title,applied ml engineer,23,0.00023
+current_title,search engineer,23,0.00023
+current_title,ai engineer,21,0.00021
+current_title,senior data scientist,19,0.00019
+current_title,nlp engineer,14,0.00014
+current_title,senior machine learning engineer,6,6e-05
+current_title,senior nlp engineer,6,6e-05
+current_title,staff machine learning engineer,6,6e-05
+current_title,senior ai engineer,4,4e-05
+current_title,senior applied scientist,4,4e-05
+current_title,lead ai engineer,3,3e-05
+historical_title,graphic designer,13329,0.06658806720254183
+historical_title,marketing manager,13269,0.06628832348342167
+historical_title,project manager,13262,0.06625335338285766
+historical_title,business analyst,13209,0.06598857976430152
+historical_title,mechanical engineer,13201,0.0659486139350855
+historical_title,accountant,13191,0.06589865664856548
+historical_title,civil engineer,13180,0.06584370363339345
+historical_title,customer support,13092,0.06540407951201722
+historical_title,content writer,13059,0.06523922046650114
+historical_title,operations manager,13055,0.06521923755189313
+historical_title,hr manager,13045,0.06516928026537311
+historical_title,sales executive,12982,0.06485454936029694
+historical_title,software engineer,4631,0.02313521938742375
+historical_title,java developer,3967,0.019818055562494066
+historical_title,mobile developer,3965,0.019808064105190062
+historical_title,full stack developer,3959,0.019778089733278048
+historical_title,.net developer,3919,0.019578260587197947
+historical_title,cloud engineer,3896,0.01946335882820189
+historical_title,qa engineer,3887,0.019418397270333863
+historical_title,devops engineer,3762,0.018793931188833546
+historical_title,frontend engineer,3760,0.01878393973152954
+historical_title,data engineer,893,0.004461185686238266
+historical_title,analytics engineer,870,0.004346283927242208
+historical_title,senior data engineer,856,0.004276343726114172
+historical_title,data analyst,827,0.004131467595206099
+historical_title,senior software engineer,826,0.004126471866554096
+historical_title,backend engineer,822,0.004106488951946086
+historical_title,junior ml engineer,199,0.000994150001748505
+historical_title,ml engineer,173,0.000864261056796439
+historical_title,computer vision engineer,170,0.0008492738708404314
+historical_title,senior software engineer ml,168,0.0008392824135364264
+historical_title,ai research engineer,158,0.000789325127016401
+historical_title,ai specialist,156,0.0007793336697123959
+historical_title,data scientist,150,0.0007493592978003807
+historical_title,machine learning engineer,44,0.00021981206068811166
+historical_title,search engineer,35,0.00017485050282008884
+historical_title,nlp engineer,34,0.0001698547741680863
+historical_title,recommendation systems engineer,31,0.00015486758821207867
+historical_title,ai engineer,31,0.00015486758821207867
+historical_title,senior data scientist,29,0.0001448761309080736
+historical_title,applied ml engineer,28,0.00013988040225607106
+historical_title,senior machine learning engineer,11,5.4953015172027914e-05
+historical_title,lead ai engineer,8,3.9965829216020305e-05
+historical_title,senior applied scientist,8,3.9965829216020305e-05
+historical_title,senior nlp engineer,7,3.4970100564017765e-05
+historical_title,senior ml engineer search ranking,7,3.4970100564017765e-05
+historical_title,staff machine learning engineer,7,3.4970100564017765e-05
+historical_title,senior ai engineer,3,1.4987185956007614e-05
+title_word,engineer,82117,0.13844174848942598
+title_word,manager,75483,0.12725743148467847
+title_word,developer,27037,0.045581908178679326
+title_word,analyst,20597,0.03472465742339232
+title_word,business,19042,0.03210306970220112
+title_word,graphic,19018,0.03206260789814415
+title_word,designer,19018,0.03206260789814415
+title_word,project,19016,0.032059236081139406
+title_word,mechanical,18992,0.03201877427708243
+title_word,accountant,18955,0.031956395662494606
+title_word,civil,18882,0.03183332434182132
+title_word,hr,18875,0.03182152298230471
+title_word,customer,18842,0.03176588800172637
+title_word,support,18842,0.03176588800172637
+title_word,operations,18799,0.031693393936124296
+title_word,marketing,18793,0.03168327848511006
+title_word,content,18786,0.03167147712559344
+title_word,writer,18786,0.03167147712559344
+title_word,sales,18695,0.031518059451877425
+title_word,executive,18695,0.031518059451877425
+title_word,software,9870,0.016639916918429004
+title_word,full,6832,0.011518126888217522
+title_word,stack,6832,0.011518126888217522
+title_word,java,6776,0.011423716012084592
+title_word,cloud,6732,0.011349536037980147
+title_word,mobile,6722,0.01133267695295641
+title_word,.net,6707,0.011307388325420803
+title_word,qa,6569,0.011074732952093224
+title_word,devops,6549,0.01104101478204575
+title_word,frontend,6498,0.010955033448424687
+title_word,data,5078,0.008561043375053949
+title_word,senior,3436,0.005792781614156237
+title_word,analytics,1634,0.0027547744928787224
+title_word,backend,1526,0.0025726963746223563
+title_word,ml,1038,0.001749973025463962
+title_word,ai,667,0.0011245009710832974
+title_word,scientist,355,0.0005984975183426846
+title_word,junior,330,0.0005563498057833405
+title_word,research,311,0.0005243175442382391
+title_word,computer,302,0.0005091443677168753
+title_word,vision,302,0.0005091443677168753
+title_word,specialist,286,0.00048216983167889514
+title_word,machine,98,0.0001652190332326284
+title_word,learning,98,0.0001652190332326284
+title_word,search,65,0.00010958405265429435
+title_word,applied,63,0.00010621223564954682
+title_word,nlp,61,0.00010284041864479931
+title_word,recommendation,57,9.609678463530428e-05
+title_word,systems,57,9.609678463530428e-05
+title_word,staff,13,2.191681053085887e-05
+title_word,lead,11,1.854499352611135e-05
+title_word,ranking,7,1.1801359516616314e-05

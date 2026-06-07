@@ -1,0 +1,188 @@
+{
+  "candidate_id": "CAND_0000077",
+  "profile": {
+    "anonymized_name": "Ved Bhatia",
+    "headline": "Frontend Engineer | Backend systems & APIs",
+    "summary": "Software engineer with 8.7 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. Most of my work is conventional backend engineering — APIs, databases, queues, deployments. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Delhi, Delhi",
+    "country": "India",
+    "years_of_experience": 8.7,
+    "current_title": "Frontend Engineer",
+    "current_company": "TCS",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "TCS",
+      "title": "Frontend Engineer",
+      "start_date": "2022-06-17",
+      "end_date": null,
+      "duration_months": 48,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team — moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Full Stack Developer",
+      "start_date": "2018-12-05",
+      "end_date": "2022-06-17",
+      "duration_months": 43,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Full-stack web application development at a SaaS company. Built React-based admin interfaces and the Node.js REST API backing them. Worked across the stack: frontend components, REST endpoint design, PostgreSQL schema, deployment via Docker/Kubernetes. Comfortable in most parts of a typical web stack though my comfort zone is the backend and database side. Recent learning has been on the testing and CI/CD discipline."
+    },
+    {
+      "company": "Flipkart",
+      "title": "Software Engineer",
+      "start_date": "2017-09-11",
+      "end_date": "2018-10-06",
+      "duration_months": 13,
+      "is_current": false,
+      "industry": "E-commerce",
+      "company_size": "10001+",
+      "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tier-3 Engineering College",
+      "degree": "M.Sc",
+      "field_of_study": "MBA",
+      "start_year": 2000,
+      "end_year": 2005,
+      "grade": "8.49 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Excel",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 5
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 29
+    },
+    {
+      "name": "CSS",
+      "proficiency": "beginner",
+      "endorsements": 13,
+      "duration_months": 14
+    },
+    {
+      "name": "Rust",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 16
+    },
+    {
+      "name": "Reinforcement Learning",
+      "proficiency": "advanced",
+      "endorsements": 36,
+      "duration_months": 56
+    },
+    {
+      "name": "React",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 12
+    },
+    {
+      "name": "Marketing",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 15
+    },
+    {
+      "name": "Terraform",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 26
+    },
+    {
+      "name": "HTML",
+      "proficiency": "beginner",
+      "endorsements": 11,
+      "duration_months": 2
+    },
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 17
+    },
+    {
+      "name": "TTS",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 14
+    },
+    {
+      "name": "Flask",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 23
+    },
+    {
+      "name": "Illustrator",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 15
+    },
+    {
+      "name": "Scrum",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 23
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 55.2,
+    "signup_date": "2026-02-14",
+    "last_active_date": "2025-12-10",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 99,
+    "applications_submitted_30d": 12,
+    "recruiter_response_rate": 0.4,
+    "avg_response_time_hours": 15.6,
+    "skill_assessment_scores": {
+      "Reinforcement Learning": 69.8
+    },
+    "connection_count": 405,
+    "endorsements_received": 33,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 8.6,
+      "max": 24.1
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 2,
+    "saved_by_recruiters_30d": 6,
+    "interview_completion_rate": 0.51,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "candidate_id": "CAND_0000083",
+  "profile": {
+    "anonymized_name": "Pooja Malhotra",
+    "headline": "Graphic Designer | Generative AI explorer",
+    "summary": "Graphic Designer with 6.7+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Berlin",
+    "country": "Germany",
+    "years_of_experience": 6.7,
+    "current_title": "Graphic Designer",
+    "current_company": "TCS",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "TCS",
+      "title": "Graphic Designer",
+      "start_date": "2023-10-10",
+      "end_date": null,
+      "duration_months": 32,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Graphic Designer",
+      "start_date": "2021-08-14",
+      "end_date": "2023-10-03",
+      "duration_months": 26,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "TCS",
+      "title": "Customer Support",
+      "start_date": "2019-11-23",
+      "end_date": "2021-08-14",
+      "duration_months": 21,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    }
+  ],
+  "education": [
+    {
+      "institution": "VIT Chennai",
+      "degree": "Ph.D",
+      "field_of_study": "Computer Science",
+      "start_year": 2014,
+      "end_year": 2017,
+      "grade": "9.02 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "BigQuery",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 4
+    },
+    {
+      "name": "Flask",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 22
+    },
+    {
+      "name": "Figma",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 14
+    },
+    {
+      "name": "SAP",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 17
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 35
+    },
+    {
+      "name": "Marketing",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 3
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 12
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 13
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 18
+    },
+    {
+      "name": "RAG",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 11
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 17
+    },
+    {
+      "name": "Recommendation Systems",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 12
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 18
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 16
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 18
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 12
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 15
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Six Sigma Green Belt",
+      "issuer": "ASQ",
+      "year": 2023
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 56.6,
+    "signup_date": "2024-02-02",
+    "last_active_date": "2026-05-06",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 59,
+    "applications_submitted_30d": 10,
+    "recruiter_response_rate": 0.49,
+    "avg_response_time_hours": 209.6,
+    "skill_assessment_scores": {},
+    "connection_count": 247,
+    "endorsements_received": 2,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 13.0,
+      "max": 7.0
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": 39.0,
+    "search_appearance_30d": 163,
+    "saved_by_recruiters_30d": 7,
+    "interview_completion_rate": 0.48,
+    "offer_acceptance_rate": 0.22,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

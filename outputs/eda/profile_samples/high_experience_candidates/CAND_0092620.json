@@ -1,0 +1,165 @@
+{
+  "candidate_id": "CAND_0092620",
+  "profile": {
+    "anonymized_name": "Siya Shah",
+    "headline": "Civil Engineer | Driving business outcomes",
+    "summary": "Professional with 15.0+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Pune, Maharashtra",
+    "country": "India",
+    "years_of_experience": 15.0,
+    "current_title": "Civil Engineer",
+    "current_company": "Globex Inc",
+    "current_company_size": "501-1000",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Globex Inc",
+      "title": "Civil Engineer",
+      "start_date": "2025-04-02",
+      "end_date": null,
+      "duration_months": 14,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Infosys",
+      "title": "Mechanical Engineer",
+      "start_date": "2022-04-18",
+      "end_date": "2025-02-01",
+      "duration_months": 34,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "TCS",
+      "title": "Marketing Manager",
+      "start_date": "2018-02-08",
+      "end_date": "2022-02-17",
+      "duration_months": 49,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "TCS",
+      "title": "Content Writer",
+      "start_date": "2015-07-10",
+      "end_date": "2018-01-25",
+      "duration_months": 31,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Graphic Designer",
+      "start_date": "2012-01-13",
+      "end_date": "2015-06-26",
+      "duration_months": 42,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "TCS",
+      "title": "HR Manager",
+      "start_date": "2011-04-18",
+      "end_date": "2011-12-14",
+      "duration_months": 8,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Christ University",
+      "degree": "Ph.D",
+      "field_of_study": "Statistics",
+      "start_year": 2004,
+      "end_year": 2007,
+      "grade": "8.34 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Airflow",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 8
+    },
+    {
+      "name": "Terraform",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 27
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 2
+    },
+    {
+      "name": "Java",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 18
+    },
+    {
+      "name": "Content Writing",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 18
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 48.3,
+    "signup_date": "2024-12-19",
+    "last_active_date": "2026-01-17",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 20,
+    "applications_submitted_30d": 10,
+    "recruiter_response_rate": 0.47,
+    "avg_response_time_hours": 125.7,
+    "skill_assessment_scores": {},
+    "connection_count": 481,
+    "endorsements_received": 24,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 16.5,
+      "max": 7.4
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 153,
+    "saved_by_recruiters_30d": 6,
+    "interview_completion_rate": 0.76,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

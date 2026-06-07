@@ -1,0 +1,110 @@
+{
+  "candidate_id": "CAND_0044333",
+  "profile": {
+    "anonymized_name": "Ananya Chopra",
+    "headline": "Java Developer | Cloud & DevOps",
+    "summary": "Software engineer with 2.8 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. I've worked across web frontends, REST APIs, and cloud deployments; comfortable in most parts of a typical SaaS stack. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Chennai, Tamil Nadu",
+    "country": "India",
+    "years_of_experience": 2.8,
+    "current_title": "Java Developer",
+    "current_company": "Stark Industries",
+    "current_company_size": "1001-5000",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Stark Industries",
+      "title": "Java Developer",
+      "start_date": "2023-09-10",
+      "end_date": null,
+      "duration_months": 33,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Java backend development at a large enterprise — Spring Boot microservices, Kafka for inter-service messaging, Postgres + Redis for storage. Worked on the customer onboarding flow which involved orchestrating multiple downstream services. Solid on the Spring ecosystem, transaction handling, and the operational side of Java services. Looking to either go deeper on distributed systems or expand into modern application stacks."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Christ University",
+      "degree": "Ph.D",
+      "field_of_study": "Electronics",
+      "start_year": 2005,
+      "end_year": 2010,
+      "grade": "8.85 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 11
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 10
+    },
+    {
+      "name": "SAP",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 3
+    },
+    {
+      "name": "Apache Beam",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 9
+    },
+    {
+      "name": "GraphQL",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 29
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 66.8,
+    "signup_date": "2023-09-22",
+    "last_active_date": "2026-01-16",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 71,
+    "applications_submitted_30d": 1,
+    "recruiter_response_rate": 0.79,
+    "avg_response_time_hours": 121.5,
+    "skill_assessment_scores": {},
+    "connection_count": 680,
+    "endorsements_received": 18,
+    "notice_period_days": 30,
+    "expected_salary_range_inr_lpa": {
+      "min": 6.3,
+      "max": 31.5
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 250,
+    "saved_by_recruiters_30d": 7,
+    "interview_completion_rate": 0.83,
+    "offer_acceptance_rate": 0.73,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

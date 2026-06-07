@@ -1,0 +1,183 @@
+{
+  "candidate_id": "CAND_0077359",
+  "profile": {
+    "anonymized_name": "Jay Chowdary",
+    "headline": "Frontend Engineer | Full-stack development",
+    "summary": "Software engineer with 9.4 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. I've spent most of my career on web and API development — Python/Django and Node.js mostly. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Indore, Madhya Pradesh",
+    "country": "India",
+    "years_of_experience": 9.4,
+    "current_title": "Frontend Engineer",
+    "current_company": "Mphasis",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Mphasis",
+      "title": "Frontend Engineer",
+      "start_date": "2022-10-15",
+      "end_date": null,
+      "duration_months": 44,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Frontend engineering at a media company. React, TypeScript, and the typical surrounding tooling (Webpack, Jest, Cypress). Built the company's design system from scratch and led the migration from a legacy AngularJS app. Strong on the frontend craft — accessibility, performance, animations — but limited backend exposure."
+    },
+    {
+      "company": "Zomato",
+      "title": "DevOps Engineer",
+      "start_date": "2020-10-11",
+      "end_date": "2022-10-01",
+      "duration_months": 24,
+      "is_current": false,
+      "industry": "Food Delivery",
+      "company_size": "5001-10000",
+      "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team — moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+    },
+    {
+      "company": "Hooli",
+      "title": "Cloud Engineer",
+      "start_date": "2019-04-20",
+      "end_date": "2020-10-11",
+      "duration_months": 18,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Cloud infrastructure and DevOps work at an enterprise SaaS company. Owned the AWS account architecture (VPC, IAM, networking), the Terraform modules for our service deployments, and the Kubernetes cluster operations. Designed the CI/CD pipelines (GitLab CI + ArgoCD) and the monitoring stack (Prometheus, Grafana, Loki). Strong on the infra and ops side; haven't done much application development."
+    },
+    {
+      "company": "Flipkart",
+      "title": ".NET Developer",
+      "start_date": "2017-03-01",
+      "end_date": "2019-04-20",
+      "duration_months": 26,
+      "is_current": false,
+      "industry": "E-commerce",
+      "company_size": "10001+",
+      "description": "Java backend development at a large enterprise — Spring Boot microservices, Kafka for inter-service messaging, Postgres + Redis for storage. Worked on the customer onboarding flow which involved orchestrating multiple downstream services. Solid on the Spring ecosystem, transaction handling, and the operational side of Java services. Looking to either go deeper on distributed systems or expand into modern application stacks."
+    }
+  ],
+  "education": [
+    {
+      "institution": "SRM University",
+      "degree": "M.Sc",
+      "field_of_study": "MBA",
+      "start_year": 2007,
+      "end_year": 2011,
+      "grade": "9.28 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Tally",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 5
+    },
+    {
+      "name": "SEO",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 20
+    },
+    {
+      "name": "Snowflake",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 15
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 16
+    },
+    {
+      "name": "YOLO",
+      "proficiency": "advanced",
+      "endorsements": 60,
+      "duration_months": 26
+    },
+    {
+      "name": "Time Series",
+      "proficiency": "advanced",
+      "endorsements": 55,
+      "duration_months": 60
+    },
+    {
+      "name": "QLoRA",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 30
+    },
+    {
+      "name": "Figma",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 16
+    },
+    {
+      "name": "Docker",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 18
+    },
+    {
+      "name": "CNN",
+      "proficiency": "advanced",
+      "endorsements": 30,
+      "duration_months": 49
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2022
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 61.2,
+    "signup_date": "2023-05-21",
+    "last_active_date": "2026-04-27",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 27,
+    "applications_submitted_30d": 11,
+    "recruiter_response_rate": 0.57,
+    "avg_response_time_hours": 151.6,
+    "skill_assessment_scores": {
+      "YOLO": 35.8,
+      "Time Series": 69.9,
+      "CNN": 31.4
+    },
+    "connection_count": 107,
+    "endorsements_received": 15,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 7.6,
+      "max": 22.7
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": true,
+    "github_activity_score": 51.5,
+    "search_appearance_30d": 85,
+    "saved_by_recruiters_30d": 3,
+    "interview_completion_rate": 0.66,
+    "offer_acceptance_rate": 0.56,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

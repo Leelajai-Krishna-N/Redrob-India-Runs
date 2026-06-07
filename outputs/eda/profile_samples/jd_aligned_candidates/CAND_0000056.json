@@ -1,0 +1,167 @@
+{
+  "candidate_id": "CAND_0000056",
+  "profile": {
+    "anonymized_name": "Anjali Sen",
+    "headline": "Frontend Engineer | Cloud & DevOps",
+    "summary": "Software engineer with 1.3 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. My background is full-stack, but my comfort zone is the backend and the database. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Singapore",
+    "country": "Singapore",
+    "years_of_experience": 1.3,
+    "current_title": "Frontend Engineer",
+    "current_company": "TCS",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "TCS",
+      "title": "Frontend Engineer",
+      "start_date": "2025-03-03",
+      "end_date": null,
+      "duration_months": 15,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Full-stack web application development at a SaaS company. Built React-based admin interfaces and the Node.js REST API backing them. Worked across the stack: frontend components, REST endpoint design, PostgreSQL schema, deployment via Docker/Kubernetes. Comfortable in most parts of a typical web stack though my comfort zone is the backend and database side. Recent learning has been on the testing and CI/CD discipline."
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "degree": "M.E.",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2018,
+      "end_year": 2021,
+      "grade": "87%",
+      "tier": "tier_1"
+    }
+  ],
+  "skills": [
+    {
+      "name": "BentoML",
+      "proficiency": "advanced",
+      "endorsements": 39,
+      "duration_months": 48
+    },
+    {
+      "name": "GCP",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 8
+    },
+    {
+      "name": "CSS",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 21
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 2
+    },
+    {
+      "name": "Accounting",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 30
+    },
+    {
+      "name": "React",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 12
+    },
+    {
+      "name": "Image Classification",
+      "proficiency": "advanced",
+      "endorsements": 52,
+      "duration_months": 53
+    },
+    {
+      "name": "FastAPI",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 26
+    },
+    {
+      "name": "REST APIs",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 12
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 24
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "advanced",
+      "endorsements": 43,
+      "duration_months": 38
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 24
+    },
+    {
+      "name": "SEO",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 3
+    },
+    {
+      "name": "Data Pipelines",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 7
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 37.7,
+    "signup_date": "2024-02-15",
+    "last_active_date": "2025-11-30",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 4,
+    "applications_submitted_30d": 1,
+    "recruiter_response_rate": 0.59,
+    "avg_response_time_hours": 155.0,
+    "skill_assessment_scores": {
+      "BentoML": 74.5,
+      "Image Classification": 30.2
+    },
+    "connection_count": 302,
+    "endorsements_received": 0,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 8.3,
+      "max": 25.7
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 213,
+    "saved_by_recruiters_30d": 8,
+    "interview_completion_rate": 0.47,
+    "offer_acceptance_rate": 0.64,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

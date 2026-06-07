@@ -1,0 +1,206 @@
+{
+  "candidate_id": "CAND_0000034",
+  "profile": {
+    "anonymized_name": "Yash Chatterjee",
+    "headline": "Business Analyst | Driving business outcomes",
+    "summary": "Professional with 14.5+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Ahmedabad, Gujarat",
+    "country": "India",
+    "years_of_experience": 14.5,
+    "current_title": "Business Analyst",
+    "current_company": "Wipro",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Wipro",
+      "title": "Business Analyst",
+      "start_date": "2025-04-02",
+      "end_date": null,
+      "duration_months": 14,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Hooli",
+      "title": "Mechanical Engineer",
+      "start_date": "2023-05-13",
+      "end_date": "2025-02-01",
+      "duration_months": 21,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Infosys",
+      "title": "Business Analyst",
+      "start_date": "2021-02-22",
+      "end_date": "2023-04-13",
+      "duration_months": 26,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "TCS",
+      "title": "Accountant",
+      "start_date": "2017-11-10",
+      "end_date": "2021-02-22",
+      "duration_months": 40,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Hooli",
+      "title": "Accountant",
+      "start_date": "2016-01-20",
+      "end_date": "2017-11-10",
+      "duration_months": 22,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "Content Writer",
+      "start_date": "2012-12-06",
+      "end_date": "2016-01-20",
+      "duration_months": 38,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Content Writer",
+      "start_date": "2012-01-11",
+      "end_date": "2012-10-07",
+      "duration_months": 9,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tier-3 Engineering College",
+      "degree": "B.E.",
+      "field_of_study": "Computer Engineering",
+      "start_year": 2005,
+      "end_year": 2010,
+      "grade": "8.97 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "GraphQL",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 3
+    },
+    {
+      "name": "Excel",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 19
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 6
+    },
+    {
+      "name": "Terraform",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 13
+    },
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 27
+    },
+    {
+      "name": "Flask",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 28
+    },
+    {
+      "name": "React",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 2
+    },
+    {
+      "name": "Azure",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 5
+    },
+    {
+      "name": "Redux",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 3
+    },
+    {
+      "name": "Next.js",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 21
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 41.2,
+    "signup_date": "2024-01-15",
+    "last_active_date": "2026-01-03",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 25,
+    "applications_submitted_30d": 7,
+    "recruiter_response_rate": 0.15,
+    "avg_response_time_hours": 253.5,
+    "skill_assessment_scores": {},
+    "connection_count": 226,
+    "endorsements_received": 27,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 14.4,
+      "max": 28.0
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 143,
+    "saved_by_recruiters_30d": 2,
+    "interview_completion_rate": 0.41,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

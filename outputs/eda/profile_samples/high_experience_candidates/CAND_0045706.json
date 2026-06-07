@@ -1,0 +1,176 @@
+{
+  "candidate_id": "CAND_0045706",
+  "profile": {
+    "anonymized_name": "Pranav Iyengar",
+    "headline": "Mechanical Engineer | 15.0+ yrs experience",
+    "summary": "Professional with 15.0+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Coimbatore, Tamil Nadu",
+    "country": "India",
+    "years_of_experience": 15.0,
+    "current_title": "Mechanical Engineer",
+    "current_company": "Acme Corp",
+    "current_company_size": "201-500",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Acme Corp",
+      "title": "Mechanical Engineer",
+      "start_date": "2024-06-06",
+      "end_date": null,
+      "duration_months": 24,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "Mechanical Engineer",
+      "start_date": "2021-06-22",
+      "end_date": "2024-06-06",
+      "duration_months": 36,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Hooli",
+      "title": "Mechanical Engineer",
+      "start_date": "2020-03-29",
+      "end_date": "2021-05-23",
+      "duration_months": 14,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Infosys",
+      "title": "Sales Executive",
+      "start_date": "2017-03-15",
+      "end_date": "2020-02-28",
+      "duration_months": 36,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Content Writer",
+      "start_date": "2013-10-02",
+      "end_date": "2017-03-15",
+      "duration_months": 42,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Wipro",
+      "title": "Accountant",
+      "start_date": "2011-07-15",
+      "end_date": "2013-10-02",
+      "duration_months": 27,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lovely Professional University",
+      "degree": "M.Sc",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2010,
+      "end_year": 2015,
+      "grade": "82%",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Apache Flink",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 16
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 6
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 3
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 21
+    },
+    {
+      "name": "Excel",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 11
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2020
+    },
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2020
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 68.8,
+    "signup_date": "2025-12-03",
+    "last_active_date": "2025-10-30",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 30,
+    "applications_submitted_30d": 7,
+    "recruiter_response_rate": 0.28,
+    "avg_response_time_hours": 145.7,
+    "skill_assessment_scores": {},
+    "connection_count": 249,
+    "endorsements_received": 41,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 10.6,
+      "max": 10.5
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 100,
+    "saved_by_recruiters_30d": 8,
+    "interview_completion_rate": 0.84,
+    "offer_acceptance_rate": 0.36,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

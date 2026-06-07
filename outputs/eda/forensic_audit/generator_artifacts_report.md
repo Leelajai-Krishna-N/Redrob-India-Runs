@@ -1,0 +1,165 @@
+# Generator Artifact Investigation
+
+The evidence points to synthetic generation when exact text, paths, or bundles repeat across many profiles.
+
+## Repeated Summary
+- Count 190: `professional with 7.5+ years of experience. i ve spent my career in marketing manager roles mostly focused on driving outcomes through process people and customer relationships. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a`
+- Count 189: `professional with 12.5+ years of experience. i ve spent my career in marketing manager roles mostly focused on driving outcomes through process people and customer relationships. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and `
+- Count 183: `professional with 4.8+ years of experience. i ve spent my career in marketing manager roles mostly focused on driving outcomes through process people and customer relationships. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a`
+- Count 182: `professional with 2.5+ years of experience. i ve spent my career in marketing manager roles mostly focused on driving outcomes through process people and customer relationships. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a`
+- Count 179: `professional with 1.2+ years of experience. i ve spent my career in marketing manager roles mostly focused on driving outcomes through process people and customer relationships. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a`
+- Count 179: `professional with 7.1+ years of experience. my professional background is in marketing manager i ve built and led teams owned kpis and driven business outcomes in this domain. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a f`
+- Count 179: `professional with 13.0+ years of experience. my professional background is in marketing manager i ve built and led teams owned kpis and driven business outcomes in this domain. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a `
+- Count 177: `professional with 6.2+ years of experience. i m a marketing manager with substantial experience in cross-functional collaboration stakeholder management and execution. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a few other`
+- Count 176: `professional with 14.3+ years of experience. i m a marketing manager with substantial experience in cross-functional collaboration stakeholder management and execution. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a few othe`
+- Count 175: `professional with 13.3+ years of experience. i ve spent my career in marketing manager roles mostly focused on driving outcomes through process people and customer relationships. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and `
+- Count 175: `professional with 14.2+ years of experience. i m a marketing manager with substantial experience in cross-functional collaboration stakeholder management and execution. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a few othe`
+- Count 175: `professional with 6.9+ years of experience. i ve spent my career in marketing manager roles mostly focused on driving outcomes through process people and customer relationships. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a`
+- Count 174: `professional with 12.2+ years of experience. my professional background is in marketing manager i ve built and led teams owned kpis and driven business outcomes in this domain. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a `
+- Count 173: `professional with 10.4+ years of experience. my professional background is in marketing manager i ve built and led teams owned kpis and driven business outcomes in this domain. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a `
+- Count 172: `professional with 7.4+ years of experience. i ve spent my career in marketing manager roles mostly focused on driving outcomes through process people and customer relationships. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a`
+- Count 172: `professional with 14.1+ years of experience. i ve spent my career in marketing manager roles mostly focused on driving outcomes through process people and customer relationships. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and `
+- Count 171: `professional with 6.5+ years of experience. i ve spent my career in marketing manager roles mostly focused on driving outcomes through process people and customer relationships. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a`
+- Count 171: `professional with 2.5+ years of experience. my professional background is in marketing manager i ve built and led teams owned kpis and driven business outcomes in this domain. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a f`
+- Count 170: `professional with 3.5+ years of experience. i ve spent my career in marketing manager roles mostly focused on driving outcomes through process people and customer relationships. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a`
+- Count 170: `professional with 3.5+ years of experience. my professional background is in marketing manager i ve built and led teams owned kpis and driven business outcomes in this domain. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a f`
+- Count 170: `professional with 8.5+ years of experience. i m a marketing manager with substantial experience in cross-functional collaboration stakeholder management and execution. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a few other`
+- Count 170: `professional with 11.2+ years of experience. my professional background is in marketing manager i ve built and led teams owned kpis and driven business outcomes in this domain. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a `
+- Count 169: `professional with 4.6+ years of experience. my professional background is in marketing manager i ve built and led teams owned kpis and driven business outcomes in this domain. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a f`
+- Count 169: `professional with 1.8+ years of experience. i ve spent my career in marketing manager roles mostly focused on driving outcomes through process people and customer relationships. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a`
+- Count 169: `professional with 11.7+ years of experience. i m a marketing manager with substantial experience in cross-functional collaboration stakeholder management and execution. lately i ve been curious about how ai tools could augment my work i ve experimented with chatgpt and a few othe`
+
+## Repeated Headline
+- Count 1853: `hr manager helping teams scale`
+- Count 1841: `business analyst driving business outcomes`
+- Count 1801: `customer support helping teams scale`
+- Count 1800: `accountant helping teams scale`
+- Count 1789: `project manager driving business outcomes`
+- Count 1784: `mechanical engineer driving business outcomes`
+- Count 1773: `mechanical engineer helping teams scale`
+- Count 1766: `sales executive driving business outcomes`
+- Count 1763: `business analyst helping teams scale`
+- Count 1763: `graphic designer helping teams scale`
+- Count 1761: `customer support driving business outcomes`
+- Count 1758: `project manager helping teams scale`
+- Count 1757: `content writer driving business outcomes`
+- Count 1756: `operations manager helping teams scale`
+- Count 1755: `content writer helping teams scale`
+- Count 1752: `sales executive helping teams scale`
+- Count 1752: `hr manager driving business outcomes`
+- Count 1740: `operations manager driving business outcomes`
+- Count 1738: `accountant driving business outcomes`
+- Count 1734: `graphic designer driving business outcomes`
+- Count 1720: `marketing manager driving business outcomes`
+- Count 1704: `marketing manager helping teams scale`
+- Count 1698: `civil engineer driving business outcomes`
+- Count 1691: `civil engineer helping teams scale`
+- Count 979: `cloud engineer cloud devops`
+
+## Repeated Role Description
+- Count 25515: `enterprise sales of cloud software solutions into the mid-market segment. carried a 1.8m arr quota and consistently delivered against it across the last three years. owned the full sales cycle prospecting discovery technical evaluation with se support commercial negotiation and c`
+- Count 25290: `customer support team lead at a saas product. managed a team of 8 support agents handling tier-1 and tier-2 tickets owned the escalation process to engineering and the customer-feedback loop to product. built out the support knowledge base and the agent training program. strong o`
+- Count 25237: `marketing leadership role at a b2b saas company. owned the demand-generation function content marketing paid acquisition seo email nurture. built and managed a team of 5 across content performance marketing and marketing operations. worked closely with sales on lead-quality defin`
+- Count 25207: `business analyst at a consulting firm working primarily with retail and cpg clients. conducted business diagnostics process re-engineering work and digital transformation strategy projects. strong on stakeholder management structured problem-solving and the typical consulting too`
+- Count 25164: `brand design and creative direction at a consumer-products company. owned brand identity logo visual system typography packaging design and digital creative across web and social. led the recent rebrand and managed a small external agency for production work. comfortable across t`
+- Count 25104: `mechanical engineering design role at a hardware-product company. led the design of two product subsystems through full lifecycle concept dfm/dfma review prototype production tooling. comfortable with cad solidworks creo fea ansys and the typical hardware-development cadence. wor`
+- Count 25078: `senior accounting role at a mid-sized company month-end close financial reporting statutory compliance gaap / ind-as and tax filings. owned the gl fixed-asset register and the audit-readiness function. managed a team of 3 staff accountants. built strong process discipline around `
+- Count 25071: `content writing and seo strategy for a tech-focused publication. wrote longform articles on developer tools cloud platforms and ai/ml topics including some that ranked on the first page of search for high-competition keywords. managed a freelance writer pool and the editorial cal`
+- Count 25029: `operations management role at a logistics company. owned daily fulfillment operations across 3 warehouses managing a team of 80 across receiving picking packing and outbound. built and tracked the operational kpis on-time fulfillment accuracy cost per order and led the continuous`
+- Count 10125: `cloud infrastructure and devops work at an enterprise saas company. owned the aws account architecture vpc iam networking the terraform modules for our service deployments and the kubernetes cluster operations. designed the ci/cd pipelines gitlab ci + argocd and the monitoring st`
+- Count 10055: `android mobile development using java and more recently kotlin at a consumer-app company. built and maintained multiple production features including the main shopping flow push notification system and the offline-first sync layer. comfortable with the android framework jetpack c`
+- Count 10025: `frontend engineering at a media company. react typescript and the typical surrounding tooling webpack jest cypress . built the company s design system from scratch and led the migration from a legacy angularjs app. strong on the frontend craft accessibility performance animations`
+- Count 10015: `java backend development at a large enterprise spring boot microservices kafka for inter-service messaging postgres + redis for storage. worked on the customer onboarding flow which involved orchestrating multiple downstream services. solid on the spring ecosystem transaction han`
+- Count 9911: `full-stack web application development at a saas company. built react-based admin interfaces and the node.js rest api backing them. worked across the stack frontend components rest endpoint design postgresql schema deployment via docker/kubernetes. comfortable in most parts of a `
+- Count 9785: `test automation and qa engineering for a fintech product. built and maintained the end-to-end test suite using selenium and pytest plus the load-testing setup using locust. worked closely with developers on testability patterns and with product on acceptance criteria. recent work`
+- Count 1854: `designed and maintained the analytical data warehouse on snowflake supporting the bi team s 50 dashboards. wrote complex sql heavy on window functions ctes and incremental modeling patterns via dbt. worked on the data modeling side dimensional modeling slowly changing dimensions `
+- Count 1836: `built and maintained data pipelines on apache airflow processing 500gb of daily transactional data across 12 source systems. worked extensively with spark pyspark for batch processing and dbt for the transformation/modeling layer in our snowflake warehouse. owned the on-call rota`
+- Count 1823: `backend + data hybrid role at a growth-stage startup. built the company s first proper data warehouse migrating from a tangled set of postgres replicas to a clean snowflake setup with dbt the orchestration layer airflow and the bi integration looker . shipped a couple of small pr`
+- Count 1814: `implemented streaming data pipelines on kafka and spark streaming for a real-time user-activity processing platform. designed the schema-registry integration the watermark/state management approach and the deduplication logic for late-arriving events. worked closely with the data`
+- Count 1807: `mixed data science and analytics-engineering role at a marketing-analytics startup. spent maybe 30 of my time on lightweight ml clustering classification churn prediction in sklearn/xgboost and 70 on data infrastructure and dashboards. comfortable with the modeling work but i wou`
+- Count 1790: `backend development with python fastapi postgresql and redis at a b2b saas product. owned the analytics-and-reporting service which serves dashboards to 3k paying customers. recent work includes integrating a model-serving service built by another team into our api layer my work `
+- Count 389: `contributed to ml feature engineering and model deployment for a fraud-detection product. my main role was engineering building the flask-based prediction api integrating with the feature store and writing the model-serving observability layer. i worked closely with senior data s`
+- Count 369: `built recommendation-style features at a mid-stage startup lighter weight than ranking systems at faang but production. used a combination of collaborative filtering matrix factorization in implicit-feedback library and gradient-boosted re-ranking over engagement signals. pure ml`
+- Count 366: `built computer vision models for our product s image moderation feature using pytorch fine-tuned resnet variants on a labeled dataset of 200k images. set up the training pipeline data loading augmentation evaluation and the inference service. most of my project work has been in c`
+- Count 363: `worked on time-series forecasting models for supply-chain demand prediction at a logistics company. built models in prophet lightgbm and for one project a small lstm the lightgbm model ended up shipping. also ran some reinforcement learning experiments for dynamic pricing but tho`
+
+## Repeated Career Paths
+- Count 960: `accountant`
+- Count 949: `business analyst`
+- Count 941: `operations manager`
+- Count 940: `civil engineer`
+- Count 933: `mechanical engineer`
+- Count 931: `customer support`
+- Count 920: `project manager`
+- Count 914: `content writer`
+- Count 911: `graphic designer`
+- Count 900: `sales executive`
+- Count 884: `hr manager`
+- Count 856: `marketing manager`
+- Count 843: `software engineer`
+- Count 732: `full stack developer`
+- Count 715: `devops engineer`
+- Count 704: `.net developer`
+- Count 701: `java developer`
+- Count 696: `qa engineer`
+- Count 692: `frontend engineer`
+- Count 687: `cloud engineer`
+- Count 615: `mobile developer`
+- Count 169: `data analyst`
+- Count 167: `analytics engineer`
+- Count 157: `senior data engineer`
+- Count 152: `data engineer`
+
+## Repeated Skill Bundles
+- Count 2: `elasticsearch | feature engineering | gans | information retrieval | opensearch | qdrant | spark | speech recognition | tts`
+- Count 2: `computer vision | data pipelines | forecasting | gans | langchain | machine learning | marketing | mongodb | object detection | opencv | sap | scikit-learn | tensorflow`
+- Count 2: `asr | aws | data science | deep learning | diffusion models | gans | haystack | hugging face transformers | illustrator | kafka | mongodb | opencv | pytorch | semantic search | speech recognition | yolo`
+- Count 2: `bm25 | databricks | elasticsearch | feature engineering | grpc | information retrieval | kubeflow | lora | mlops | nlp | opencv | peft | pgvector | prompt engineering | tailwind`
+- Count 2: `asr | azure | bentoml | cnn | deep learning | hugging face transformers | information retrieval | java | llms | opencv | pgvector | reinforcement learning | vector search`
+- Count 2: `bentoml | databricks | deep learning | excel | flask | java | langchain | prompt engineering | reinforcement learning | scikit-learn | speech recognition | yolo`
+- Count 2: `bentoml | ci/cd | data science | databricks | flask | kubeflow | machine learning | node.js | object detection | opencv | opensearch | qdrant | scikit-learn`
+- Count 2: `data pipelines | diffusion models | hadoop | haystack | javascript | object detection | pgvector | pinecone | semantic search | spark | speech recognition | time series`
+- Count 2: `bm25 | data science | elasticsearch | embeddings | excel | javascript | milvus | mlflow | opencv | sentence transformers | speech recognition`
+- Count 2: `bigquery | computer vision | dbt | diffusion models | fastapi | forecasting | haystack | llamaindex | llms | marketing | milvus | opencv | pytorch | scikit-learn | statistical modeling | time series | weights biases | yolo`
+- Count 2: `airflow | bigquery | computer vision | data science | dbt | diffusion models | kubeflow | lora | peft | recommendation systems | reinforcement learning | statistical modeling | vector search`
+- Count 2: `computer vision | forecasting | lora | opensearch | python | qlora | rust | scikit-learn | semantic search | six sigma | speech recognition | statistical modeling | tally | vue.js | weaviate`
+- Count 2: `bentoml | content writing | databricks | fastapi | image classification | kubeflow | learning to rank | lora | opencv | pinecone | qdrant | semantic search | tensorflow`
+- Count 2: `data science | deep learning | elasticsearch | fine-tuning llms | gans | html | llamaindex | milvus | sentence transformers | speech recognition | statistical modeling | time series | weights biases`
+- Count 2: `data pipelines | deep learning | etl | image classification | milvus | qlora | sentence transformers | speech recognition | time series | tts | webpack | yolo`
+- Count 2: `angular | django | feature engineering | gans | image classification | langchain | nlp | opencv | pytorch | qdrant | qlora | reinforcement learning | scikit-learn | spring boot | statistical modeling | vector search | yolo`
+- Count 2: `diffusion models | django | learning to rank | object detection | peft | python | qdrant | speech recognition | statistical modeling | tailwind | time series | weaviate | weights biases`
+- Count 2: `feature engineering | fine-tuning llms | gans | gcp | information retrieval | milvus | prompt engineering | sales | weights biases | yolo`
+- Count 2: `bentoml | cnn | diffusion models | fine-tuning llms | graphql | mlops | object detection | pytorch | recommendation systems | sentence transformers | tensorflow | yolo`
+- Count 2: `css | databricks | embeddings | forecasting | gans | haystack | llamaindex | lora | next.js | object detection | peft | pgvector | prompt engineering | python | reinforcement learning | yolo`
+- Count 2: `diffusion models | embeddings | hugging face transformers | marketing | mlflow | mlops | opensearch | qdrant | react | recommendation systems | reinforcement learning | speech recognition | statistical modeling | yolo`
+- Count 2: `airflow | cnn | diffusion models | forecasting | information retrieval | marketing | mlflow | node.js | pinecone | powerpoint | rag | reinforcement learning | statistical modeling | time series | weaviate | weights biases`
+- Count 2: `cnn | data science | embeddings | figma | fine-tuning llms | flask | hugging face transformers | kubernetes | llamaindex | mlflow | nlp | opencv | pytorch | reinforcement learning | salesforce crm | semantic search | statistical modeling | tts`
+- Count 2: `asr | bm25 | dbt | feature engineering | forecasting | go | hadoop | information retrieval | kubeflow | machine learning | mlflow | qdrant | speech recognition | time series | yolo`
+- Count 2: `elasticsearch | forecasting | hugging face transformers | kubeflow | kubernetes | llamaindex | microservices | nlp | node.js | qdrant | reinforcement learning | rust | tts`
+
+## Repeated Education Patterns
+- Count 26: `b.e.:computer science:2000-2005`
+- Count 26: `b.e.:data science:2009-2014`
+- Count 25: `m.s.:information technology:2017-2022`
+- Count 24: `b.e.:data science:2009-2012`
+- Count 24: `ph.d:computer engineering:2016-2021`
+- Count 24: `b.e.:computer science:2015-2018`
+- Count 23: `b.tech:computer engineering:2012-2017`
+- Count 23: `m.s.:information technology:2009-2012`
+- Count 22: `b.e.:information technology:2003-2006`
+- Count 22: `ph.d:computer engineering:2011-2016`
+- Count 22: `m.e.:data science:2016-2021`
+- Count 22: `b.sc:computer science:2004-2008`
+- Count 22: `ph.d:computer engineering:2002-2006`
+- Count 22: `m.sc:computer engineering:2004-2008`
+- Count 22: `b.e.:computer science:2008-2012`
+- Count 22: `b.e.:computer science:2008-2011`
+- Count 22: `ph.d:machine learning:2001-2006`
+- Count 22: `m.sc:computer science:2005-2009`
+- Count 22: `m.e.:data science:2009-2014`
+- Count 21: `m.e.:computer engineering:2018-2022`
+- Count 21: `m.e.:computer science:2016-2021`
+- Count 21: `m.s.:data science:2004-2007`
+- Count 21: `m.tech:computer engineering:2016-2021`
+- Count 21: `m.tech:computer engineering:2016-2020`
+- Count 21: `m.s.:information technology:2013-2016`

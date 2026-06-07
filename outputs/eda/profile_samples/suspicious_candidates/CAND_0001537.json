@@ -1,0 +1,232 @@
+{
+  "candidate_id": "CAND_0001537",
+  "profile": {
+    "anonymized_name": "Aarav Tiwari",
+    "headline": "Project Manager | Exploring AI & GenAI applications",
+    "summary": "Project Manager with 6.3+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "London",
+    "country": "UK",
+    "years_of_experience": 6.3,
+    "current_title": "Project Manager",
+    "current_company": "Stark Industries",
+    "current_company_size": "1001-5000",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Stark Industries",
+      "title": "Project Manager",
+      "start_date": "2022-05-18",
+      "end_date": null,
+      "duration_months": 49,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Hooli",
+      "title": "Civil Engineer",
+      "start_date": "2020-03-15",
+      "end_date": "2022-05-04",
+      "duration_months": 26,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    }
+  ],
+  "education": [
+    {
+      "institution": "SRM Chennai",
+      "degree": "B.E.",
+      "field_of_study": "Computer Science",
+      "start_year": 2013,
+      "end_year": 2018,
+      "grade": "81%",
+      "tier": "tier_3"
+    },
+    {
+      "institution": "Bharati Vidyapeeth",
+      "degree": "M.S.",
+      "field_of_study": "Electronics",
+      "start_year": 2003,
+      "end_year": 2007,
+      "grade": "8.75 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Flask",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 6
+    },
+    {
+      "name": "Docker",
+      "proficiency": "intermediate",
+      "endorsements": 10,
+      "duration_months": 32
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 11
+    },
+    {
+      "name": "Sales",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 29
+    },
+    {
+      "name": "dbt",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 13
+    },
+    {
+      "name": "REST APIs",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 9
+    },
+    {
+      "name": "Illustrator",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 21
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 8
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 15
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 4
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 17
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 13
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 13
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 15
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 13
+    },
+    {
+      "name": "RAG",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 11
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 14
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 9
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 9
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 5
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 16
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2019
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 33.5,
+    "signup_date": "2025-06-10",
+    "last_active_date": "2025-10-07",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 3,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.67,
+    "avg_response_time_hours": 112.5,
+    "skill_assessment_scores": {},
+    "connection_count": 431,
+    "endorsements_received": 13,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 10.7,
+      "max": 16.5
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 152,
+    "saved_by_recruiters_30d": 11,
+    "interview_completion_rate": 0.46,
+    "offer_acceptance_rate": 0.67,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

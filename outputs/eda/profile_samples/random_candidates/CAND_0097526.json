@@ -1,0 +1,190 @@
+{
+  "candidate_id": "CAND_0097526",
+  "profile": {
+    "anonymized_name": "Karan Nair",
+    "headline": "Accountant | Helping teams scale",
+    "summary": "Professional with 12.5+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Toronto",
+    "country": "Canada",
+    "years_of_experience": 12.5,
+    "current_title": "Accountant",
+    "current_company": "Infosys",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Infosys",
+      "title": "Accountant",
+      "start_date": "2023-08-11",
+      "end_date": null,
+      "duration_months": 34,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Accountant",
+      "start_date": "2019-10-31",
+      "end_date": "2023-06-12",
+      "duration_months": 44,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Hooli",
+      "title": "Sales Executive",
+      "start_date": "2016-10-16",
+      "end_date": "2019-10-31",
+      "duration_months": 37,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Hooli",
+      "title": "Content Writer",
+      "start_date": "2014-10-13",
+      "end_date": "2016-10-02",
+      "duration_months": 24,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Graphic Designer",
+      "start_date": "2014-01-02",
+      "end_date": "2014-09-29",
+      "duration_months": 9,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Regional Technical Institute",
+      "degree": "B.Tech",
+      "field_of_study": "Physics",
+      "start_year": 2004,
+      "end_year": 2009,
+      "grade": "67%",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Kubernetes",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 8
+    },
+    {
+      "name": "Weights & Biases",
+      "proficiency": "advanced",
+      "endorsements": 20,
+      "duration_months": 38
+    },
+    {
+      "name": "Redis",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 2
+    },
+    {
+      "name": "Azure",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 8
+    },
+    {
+      "name": "SQL",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 9
+    },
+    {
+      "name": "Excel",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 10
+    },
+    {
+      "name": "Rust",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 21
+    },
+    {
+      "name": "Tailwind",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 15
+    },
+    {
+      "name": "Marketing",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 3
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 36
+    },
+    {
+      "name": "Sales",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 8
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 75.7,
+    "signup_date": "2025-10-18",
+    "last_active_date": "2025-12-10",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 3,
+    "applications_submitted_30d": 7,
+    "recruiter_response_rate": 0.11,
+    "avg_response_time_hours": 174.3,
+    "skill_assessment_scores": {},
+    "connection_count": 392,
+    "endorsements_received": 34,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 5.1,
+      "max": 9.2
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 175,
+    "saved_by_recruiters_30d": 3,
+    "interview_completion_rate": 0.73,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

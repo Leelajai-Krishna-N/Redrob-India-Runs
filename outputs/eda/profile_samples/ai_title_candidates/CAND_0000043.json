@@ -1,0 +1,224 @@
+{
+  "candidate_id": "CAND_0000043",
+  "profile": {
+    "anonymized_name": "Aarav Sen",
+    "headline": "Cloud Engineer | Full-stack development",
+    "summary": "Software engineer with 8.3 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. I've worked across web frontends, REST APIs, and cloud deployments; comfortable in most parts of a typical SaaS stack. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Chandigarh, Chandigarh",
+    "country": "India",
+    "years_of_experience": 8.3,
+    "current_title": "Cloud Engineer",
+    "current_company": "Swiggy",
+    "current_company_size": "5001-10000",
+    "current_industry": "Food Delivery"
+  },
+  "career_history": [
+    {
+      "company": "Swiggy",
+      "title": "Cloud Engineer",
+      "start_date": "2023-12-09",
+      "end_date": null,
+      "duration_months": 30,
+      "is_current": true,
+      "industry": "Food Delivery",
+      "company_size": "5001-10000",
+      "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team — moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+    },
+    {
+      "company": "HCL",
+      "title": ".NET Developer",
+      "start_date": "2021-12-19",
+      "end_date": "2023-12-09",
+      "duration_months": 24,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Cloud infrastructure and DevOps work at an enterprise SaaS company. Owned the AWS account architecture (VPC, IAM, networking), the Terraform modules for our service deployments, and the Kubernetes cluster operations. Designed the CI/CD pipelines (GitLab CI + ArgoCD) and the monitoring stack (Prometheus, Grafana, Loki). Strong on the infra and ops side; haven't done much application development."
+    },
+    {
+      "company": "Mindtree",
+      "title": "Frontend Engineer",
+      "start_date": "2019-11-30",
+      "end_date": "2021-12-19",
+      "duration_months": 25,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+    },
+    {
+      "company": "Initech",
+      "title": "DevOps Engineer",
+      "start_date": "2018-04-09",
+      "end_date": "2019-11-30",
+      "duration_months": 20,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Regional Technical Institute",
+      "degree": "M.E.",
+      "field_of_study": "Electronics",
+      "start_year": 2012,
+      "end_year": 2017,
+      "grade": "8.77 CGPA",
+      "tier": "tier_4"
+    },
+    {
+      "institution": "Regional Technical Institute",
+      "degree": "B.Sc",
+      "field_of_study": "Physics",
+      "start_year": 2001,
+      "end_year": 2005,
+      "grade": "9.29 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Elasticsearch",
+      "proficiency": "advanced",
+      "endorsements": 54,
+      "duration_months": 44
+    },
+    {
+      "name": "OpenSearch",
+      "proficiency": "intermediate",
+      "endorsements": 21,
+      "duration_months": 34
+    },
+    {
+      "name": "Airflow",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 2
+    },
+    {
+      "name": "Kubeflow",
+      "proficiency": "advanced",
+      "endorsements": 12,
+      "duration_months": 55
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 14
+    },
+    {
+      "name": "Haystack",
+      "proficiency": "advanced",
+      "endorsements": 11,
+      "duration_months": 27
+    },
+    {
+      "name": "OpenCV",
+      "proficiency": "advanced",
+      "endorsements": 54,
+      "duration_months": 33
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 19
+    },
+    {
+      "name": "PEFT",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 21
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "intermediate",
+      "endorsements": 37,
+      "duration_months": 25
+    },
+    {
+      "name": "Weights & Biases",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 26
+    },
+    {
+      "name": "Reinforcement Learning",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 30
+    },
+    {
+      "name": "Deep Learning",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 16
+    },
+    {
+      "name": "Image Classification",
+      "proficiency": "advanced",
+      "endorsements": 24,
+      "duration_months": 50
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 24
+    },
+    {
+      "name": "Project Management",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 36
+    },
+    {
+      "name": "Feature Engineering",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 20
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 57.0,
+    "signup_date": "2024-09-30",
+    "last_active_date": "2026-01-01",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 38,
+    "applications_submitted_30d": 8,
+    "recruiter_response_rate": 0.04,
+    "avg_response_time_hours": 223.5,
+    "skill_assessment_scores": {},
+    "connection_count": 102,
+    "endorsements_received": 39,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 6.3,
+      "max": 21.2
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 167,
+    "saved_by_recruiters_30d": 2,
+    "interview_completion_rate": 0.72,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

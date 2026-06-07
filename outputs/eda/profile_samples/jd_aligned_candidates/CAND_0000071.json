@@ -1,0 +1,179 @@
+{
+  "candidate_id": "CAND_0000071",
+  "profile": {
+    "anonymized_name": "Vikram Shetty",
+    "headline": "DevOps Engineer | Full-stack development",
+    "summary": "Software engineer with 1.8 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. Most of my work is conventional backend engineering — APIs, databases, queues, deployments. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Singapore",
+    "country": "Singapore",
+    "years_of_experience": 1.8,
+    "current_title": "DevOps Engineer",
+    "current_company": "Wayne Enterprises",
+    "current_company_size": "10001+",
+    "current_industry": "Conglomerate"
+  },
+  "career_history": [
+    {
+      "company": "Wayne Enterprises",
+      "title": "DevOps Engineer",
+      "start_date": "2024-09-04",
+      "end_date": null,
+      "duration_months": 21,
+      "is_current": true,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Java backend development at a large enterprise — Spring Boot microservices, Kafka for inter-service messaging, Postgres + Redis for storage. Worked on the customer onboarding flow which involved orchestrating multiple downstream services. Solid on the Spring ecosystem, transaction handling, and the operational side of Java services. Looking to either go deeper on distributed systems or expand into modern application stacks."
+    }
+  ],
+  "education": [
+    {
+      "institution": "KIIT University",
+      "degree": "B.E.",
+      "field_of_study": "Machine Learning",
+      "start_year": 2004,
+      "end_year": 2008,
+      "grade": "8.81 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 20
+    },
+    {
+      "name": "Qdrant",
+      "proficiency": "advanced",
+      "endorsements": 12,
+      "duration_months": 27
+    },
+    {
+      "name": "Excel",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 3
+    },
+    {
+      "name": "AWS",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 16
+    },
+    {
+      "name": "Photoshop",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 2
+    },
+    {
+      "name": "BentoML",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 16
+    },
+    {
+      "name": "CNN",
+      "proficiency": "advanced",
+      "endorsements": 26,
+      "duration_months": 36
+    },
+    {
+      "name": "Redis",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 9
+    },
+    {
+      "name": "Figma",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 34
+    },
+    {
+      "name": "Java",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 3
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 23
+    },
+    {
+      "name": "Python",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 26
+    },
+    {
+      "name": "ETL",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 5
+    },
+    {
+      "name": "Marketing",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 18
+    },
+    {
+      "name": "OpenCV",
+      "proficiency": "advanced",
+      "endorsements": 52,
+      "duration_months": 38
+    },
+    {
+      "name": "Tally",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 34
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 67.8,
+    "signup_date": "2023-12-22",
+    "last_active_date": "2026-01-14",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 66,
+    "applications_submitted_30d": 11,
+    "recruiter_response_rate": 0.17,
+    "avg_response_time_hours": 49.3,
+    "skill_assessment_scores": {
+      "Qdrant": 54.4,
+      "CNN": 54.8
+    },
+    "connection_count": 163,
+    "endorsements_received": 32,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 8.9,
+      "max": 18.3
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": true,
+    "github_activity_score": 53.3,
+    "search_appearance_30d": 229,
+    "saved_by_recruiters_30d": 1,
+    "interview_completion_rate": 0.47,
+    "offer_acceptance_rate": 0.32,
+    "verified_email": false,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

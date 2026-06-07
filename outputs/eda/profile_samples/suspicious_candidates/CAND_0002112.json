@@ -1,0 +1,219 @@
+{
+  "candidate_id": "CAND_0002112",
+  "profile": {
+    "anonymized_name": "Vihaan Reddy",
+    "headline": "Customer Support | Exploring AI & GenAI applications",
+    "summary": "Customer Support with 5.7+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Chandigarh, Chandigarh",
+    "country": "India",
+    "years_of_experience": 5.7,
+    "current_title": "Customer Support",
+    "current_company": "Globex Inc",
+    "current_company_size": "501-1000",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Globex Inc",
+      "title": "Customer Support",
+      "start_date": "2022-03-19",
+      "end_date": null,
+      "duration_months": 51,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "HR Manager",
+      "start_date": "2020-09-25",
+      "end_date": "2022-01-18",
+      "duration_months": 16,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIIT Hyderabad",
+      "degree": "B.Sc",
+      "field_of_study": "Data Science",
+      "start_year": 2005,
+      "end_year": 2010,
+      "grade": "6.88 CGPA",
+      "tier": "tier_1"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Six Sigma",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 15
+    },
+    {
+      "name": "GCP",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 18
+    },
+    {
+      "name": "Rust",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 11
+    },
+    {
+      "name": "Angular",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 16
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 7
+    },
+    {
+      "name": "Computer Vision",
+      "proficiency": "advanced",
+      "endorsements": 26,
+      "duration_months": 26
+    },
+    {
+      "name": "Flask",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 16
+    },
+    {
+      "name": "Redux",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 17
+    },
+    {
+      "name": "Scrum",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 3
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 16
+    },
+    {
+      "name": "BigQuery",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 5
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 12
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 16
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 9
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 18
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 6
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 17
+    },
+    {
+      "name": "RAG",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 5
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 6
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 17
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 17
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 51.5,
+    "signup_date": "2024-07-20",
+    "last_active_date": "2025-11-07",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 45,
+    "applications_submitted_30d": 1,
+    "recruiter_response_rate": 0.34,
+    "avg_response_time_hours": 193.4,
+    "skill_assessment_scores": {
+      "Computer Vision": 26.5
+    },
+    "connection_count": 413,
+    "endorsements_received": 1,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 9.4,
+      "max": 12.5
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 33,
+    "saved_by_recruiters_30d": 11,
+    "interview_completion_rate": 0.58,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

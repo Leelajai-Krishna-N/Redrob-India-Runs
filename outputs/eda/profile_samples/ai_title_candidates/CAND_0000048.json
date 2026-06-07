@@ -1,0 +1,163 @@
+{
+  "candidate_id": "CAND_0000048",
+  "profile": {
+    "anonymized_name": "Vihaan Saxena",
+    "headline": "Mobile Developer | Full-stack development",
+    "summary": "Software engineer with 9.7 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. I've worked across web frontends, REST APIs, and cloud deployments; comfortable in most parts of a typical SaaS stack. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Hyderabad, Telangana",
+    "country": "India",
+    "years_of_experience": 9.7,
+    "current_title": "Mobile Developer",
+    "current_company": "CRED",
+    "current_company_size": "1001-5000",
+    "current_industry": "Fintech"
+  },
+  "career_history": [
+    {
+      "company": "CRED",
+      "title": "Mobile Developer",
+      "start_date": "2024-02-07",
+      "end_date": null,
+      "duration_months": 28,
+      "is_current": true,
+      "industry": "Fintech",
+      "company_size": "1001-5000",
+      "description": "Frontend engineering at a media company. React, TypeScript, and the typical surrounding tooling (Webpack, Jest, Cypress). Built the company's design system from scratch and led the migration from a legacy AngularJS app. Strong on the frontend craft — accessibility, performance, animations — but limited backend exposure."
+    },
+    {
+      "company": "Cognizant",
+      "title": "Full Stack Developer",
+      "start_date": "2022-06-17",
+      "end_date": "2024-02-07",
+      "duration_months": 20,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Mobile Developer",
+      "start_date": "2018-02-08",
+      "end_date": "2022-04-18",
+      "duration_months": 51,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Java backend development at a large enterprise — Spring Boot microservices, Kafka for inter-service messaging, Postgres + Redis for storage. Worked on the customer onboarding flow which involved orchestrating multiple downstream services. Solid on the Spring ecosystem, transaction handling, and the operational side of Java services. Looking to either go deeper on distributed systems or expand into modern application stacks."
+    },
+    {
+      "company": "Initech",
+      "title": "Full Stack Developer",
+      "start_date": "2016-11-15",
+      "end_date": "2018-02-08",
+      "duration_months": 15,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+    }
+  ],
+  "education": [
+    {
+      "institution": "VIT Chennai",
+      "degree": "B.E.",
+      "field_of_study": "Data Science",
+      "start_year": 2005,
+      "end_year": 2009,
+      "grade": "84%",
+      "tier": "tier_3"
+    },
+    {
+      "institution": "Anna University",
+      "degree": "B.Tech",
+      "field_of_study": "Statistics",
+      "start_year": 2011,
+      "end_year": 2016,
+      "grade": "6.96 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Hadoop",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 15
+    },
+    {
+      "name": "Terraform",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 26
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 24
+    },
+    {
+      "name": "Content Writing",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 26
+    },
+    {
+      "name": "AWS",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 31
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2023
+    },
+    {
+      "name": "Six Sigma Green Belt",
+      "issuer": "ASQ",
+      "year": 2024
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 62.2,
+    "signup_date": "2026-03-28",
+    "last_active_date": "2026-04-06",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 58,
+    "applications_submitted_30d": 3,
+    "recruiter_response_rate": 0.65,
+    "avg_response_time_hours": 97.9,
+    "skill_assessment_scores": {},
+    "connection_count": 225,
+    "endorsements_received": 48,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 12.6,
+      "max": 26.6
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 131,
+    "saved_by_recruiters_30d": 5,
+    "interview_completion_rate": 0.42,
+    "offer_acceptance_rate": 0.4,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "candidate_id": "CAND_0000030",
+  "profile": {
+    "anonymized_name": "Ritu Pillai",
+    "headline": "Marketing Manager | Driving business outcomes",
+    "summary": "Professional with 10.0+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Kochi, Kerala",
+    "country": "India",
+    "years_of_experience": 10.0,
+    "current_title": "Marketing Manager",
+    "current_company": "Dunder Mifflin",
+    "current_company_size": "201-500",
+    "current_industry": "Paper Products"
+  },
+  "career_history": [
+    {
+      "company": "Dunder Mifflin",
+      "title": "Marketing Manager",
+      "start_date": "2022-03-19",
+      "end_date": null,
+      "duration_months": 51,
+      "is_current": true,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Hooli",
+      "title": "Sales Executive",
+      "start_date": "2018-07-08",
+      "end_date": "2022-03-19",
+      "duration_months": 45,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Hooli",
+      "title": "Content Writer",
+      "start_date": "2016-08-17",
+      "end_date": "2018-06-08",
+      "duration_months": 22,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Generic State University",
+      "degree": "B.E.",
+      "field_of_study": "Computer Engineering",
+      "start_year": 2010,
+      "end_year": 2014,
+      "grade": "81%",
+      "tier": "tier_4"
+    },
+    {
+      "institution": "Generic State University",
+      "degree": "Ph.D",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2017,
+      "end_year": 2020,
+      "grade": "7.98 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "gRPC",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 36
+    },
+    {
+      "name": "Apache Beam",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 6
+    },
+    {
+      "name": "GraphQL",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 22
+    },
+    {
+      "name": "Java",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 11
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 22
+    },
+    {
+      "name": "Microservices",
+      "proficiency": "beginner",
+      "endorsements": 11,
+      "duration_months": 5
+    },
+    {
+      "name": "Six Sigma",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 8
+    },
+    {
+      "name": "Accounting",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 30
+    },
+    {
+      "name": "HTML",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 9
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 59.7,
+    "signup_date": "2025-09-25",
+    "last_active_date": "2025-10-27",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 58,
+    "applications_submitted_30d": 0,
+    "recruiter_response_rate": 0.66,
+    "avg_response_time_hours": 131.1,
+    "skill_assessment_scores": {},
+    "connection_count": 552,
+    "endorsements_received": 45,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 14.7,
+      "max": 14.2
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": 21.7,
+    "search_appearance_30d": 54,
+    "saved_by_recruiters_30d": 1,
+    "interview_completion_rate": 0.73,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

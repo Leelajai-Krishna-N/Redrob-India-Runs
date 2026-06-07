@@ -1,0 +1,175 @@
+{
+  "candidate_id": "CAND_0067792",
+  "profile": {
+    "anonymized_name": "Rohan Mittal",
+    "headline": "HR Manager | Helping teams scale",
+    "summary": "Professional with 12.6+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "London",
+    "country": "UK",
+    "years_of_experience": 12.6,
+    "current_title": "HR Manager",
+    "current_company": "Hooli",
+    "current_company_size": "1001-5000",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Hooli",
+      "title": "HR Manager",
+      "start_date": "2023-12-09",
+      "end_date": null,
+      "duration_months": 30,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "Business Analyst",
+      "start_date": "2021-02-22",
+      "end_date": "2023-12-09",
+      "duration_months": 34,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Initech",
+      "title": "Project Manager",
+      "start_date": "2019-12-30",
+      "end_date": "2021-02-22",
+      "duration_months": 14,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Hooli",
+      "title": "Business Analyst",
+      "start_date": "2016-07-18",
+      "end_date": "2019-12-30",
+      "duration_months": 42,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Graphic Designer",
+      "start_date": "2013-12-31",
+      "end_date": "2016-05-19",
+      "duration_months": 29,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIIT Bangalore",
+      "degree": "B.Sc",
+      "field_of_study": "Computer Science",
+      "start_year": 2014,
+      "end_year": 2018,
+      "grade": "66%",
+      "tier": "tier_1"
+    },
+    {
+      "institution": "Jadavpur University",
+      "degree": "M.Sc",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2008,
+      "end_year": 2011,
+      "grade": "7.61 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Redis",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 29
+    },
+    {
+      "name": "Tailwind",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 14
+    },
+    {
+      "name": "Data Science",
+      "proficiency": "advanced",
+      "endorsements": 15,
+      "duration_months": 23
+    },
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 15
+    },
+    {
+      "name": "Illustrator",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 10
+    },
+    {
+      "name": "Go",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 27
+    },
+    {
+      "name": "Spark",
+      "proficiency": "intermediate",
+      "endorsements": 10,
+      "duration_months": 19
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 32.6,
+    "signup_date": "2025-11-16",
+    "last_active_date": "2026-01-30",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 20,
+    "applications_submitted_30d": 1,
+    "recruiter_response_rate": 0.35,
+    "avg_response_time_hours": 10.7,
+    "skill_assessment_scores": {},
+    "connection_count": 464,
+    "endorsements_received": 4,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 3.6,
+      "max": 11.8
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 174,
+    "saved_by_recruiters_30d": 10,
+    "interview_completion_rate": 0.32,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

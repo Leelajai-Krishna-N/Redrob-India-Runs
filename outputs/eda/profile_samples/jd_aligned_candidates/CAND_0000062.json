@@ -1,0 +1,152 @@
+{
+  "candidate_id": "CAND_0000062",
+  "profile": {
+    "anonymized_name": "Nikhil Arora",
+    "headline": "DevOps Engineer | Cloud & DevOps",
+    "summary": "Software engineer with 4.3 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. I've worked across web frontends, REST APIs, and cloud deployments; comfortable in most parts of a typical SaaS stack. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Seattle",
+    "country": "USA",
+    "years_of_experience": 4.3,
+    "current_title": "DevOps Engineer",
+    "current_company": "Tech Mahindra",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Tech Mahindra",
+      "title": "DevOps Engineer",
+      "start_date": "2022-03-19",
+      "end_date": null,
+      "duration_months": 51,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team — moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Generic State University",
+      "degree": "B.E.",
+      "field_of_study": "Physics",
+      "start_year": 2017,
+      "end_year": 2020,
+      "grade": "8.34 CGPA",
+      "tier": "tier_4"
+    },
+    {
+      "institution": "Tier-3 Engineering College",
+      "degree": "B.Sc",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2013,
+      "end_year": 2017,
+      "grade": "6.74 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Angular",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 3
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 17
+    },
+    {
+      "name": "GANs",
+      "proficiency": "advanced",
+      "endorsements": 29,
+      "duration_months": 27
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 8
+    },
+    {
+      "name": "MLOps",
+      "proficiency": "advanced",
+      "endorsements": 36,
+      "duration_months": 30
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 16
+    },
+    {
+      "name": "BentoML",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 31
+    },
+    {
+      "name": "Flask",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 10
+    },
+    {
+      "name": "NLP",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 27
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 16
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 85.8,
+    "signup_date": "2023-02-19",
+    "last_active_date": "2026-04-28",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 26,
+    "applications_submitted_30d": 5,
+    "recruiter_response_rate": 0.69,
+    "avg_response_time_hours": 61.5,
+    "skill_assessment_scores": {
+      "GANs": 73.0,
+      "MLOps": 73.4
+    },
+    "connection_count": 466,
+    "endorsements_received": 74,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 10.5,
+      "max": 33.5
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": false,
+    "github_activity_score": 45.9,
+    "search_appearance_30d": 80,
+    "saved_by_recruiters_30d": 7,
+    "interview_completion_rate": 0.89,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

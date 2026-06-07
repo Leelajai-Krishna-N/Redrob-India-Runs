@@ -1,0 +1,178 @@
+{
+  "candidate_id": "CAND_0078138",
+  "profile": {
+    "anonymized_name": "Anil Banerjee",
+    "headline": "Senior Data Engineer | 2.5+ yrs in data engineering",
+    "summary": "Software / data professional with 2.5 years of experience building data pipelines, backend systems, and analytics infrastructure. I've been the engineer who makes ML possible by getting the data pipelines right; now I want to do more of the ML itself. My toolkit is solid on the data engineering side — Python, SQL, Spark, Airflow, warehouse design — and I've completed a couple of self-directed ML projects (Kaggle competitions, side projects fine-tuning small models). Interested in transitioning toward more AI/ML-focused work, ideally at a company where I can leverage my existing data-infra skills while learning modern ML practice.",
+    "location": "Coimbatore, Tamil Nadu",
+    "country": "India",
+    "years_of_experience": 2.5,
+    "current_title": "Senior Data Engineer",
+    "current_company": "Acme Corp",
+    "current_company_size": "201-500",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Acme Corp",
+      "title": "Senior Data Engineer",
+      "start_date": "2023-12-09",
+      "end_date": null,
+      "duration_months": 30,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Implemented streaming data pipelines on Kafka and Spark Streaming for a real-time user-activity processing platform. Designed the schema-registry integration, the watermark/state management approach, and the deduplication logic for late-arriving events. Worked closely with the data science team to make sure feature pipelines aligned with what their models needed. Most of my career has been data engineering, with some adjacent ML exposure."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Christ University",
+      "degree": "M.Sc",
+      "field_of_study": "Computer Science",
+      "start_year": 2001,
+      "end_year": 2005,
+      "grade": "7.21 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Feature Engineering",
+      "proficiency": "advanced",
+      "endorsements": 45,
+      "duration_months": 40
+    },
+    {
+      "name": "ETL",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 22
+    },
+    {
+      "name": "Speech Recognition",
+      "proficiency": "advanced",
+      "endorsements": 11,
+      "duration_months": 22
+    },
+    {
+      "name": "Weaviate",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 36
+    },
+    {
+      "name": "SQL",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 12
+    },
+    {
+      "name": "Deep Learning",
+      "proficiency": "advanced",
+      "endorsements": 47,
+      "duration_months": 57
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 21
+    },
+    {
+      "name": "NLP",
+      "proficiency": "advanced",
+      "endorsements": 59,
+      "duration_months": 45
+    },
+    {
+      "name": "GANs",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 11
+    },
+    {
+      "name": "Rust",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 8
+    },
+    {
+      "name": "Time Series",
+      "proficiency": "advanced",
+      "endorsements": 57,
+      "duration_months": 48
+    },
+    {
+      "name": "ASR",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 23
+    },
+    {
+      "name": "Image Classification",
+      "proficiency": "advanced",
+      "endorsements": 25,
+      "duration_months": 29
+    },
+    {
+      "name": "REST APIs",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 16
+    },
+    {
+      "name": "Agile",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 14
+    },
+    {
+      "name": "Data Science",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 9
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 53.9,
+    "signup_date": "2024-04-21",
+    "last_active_date": "2026-05-25",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 160,
+    "applications_submitted_30d": 2,
+    "recruiter_response_rate": 0.36,
+    "avg_response_time_hours": 152.2,
+    "skill_assessment_scores": {
+      "Feature Engineering": 43.3
+    },
+    "connection_count": 432,
+    "endorsements_received": 35,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 24.8,
+      "max": 39.4
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 481,
+    "saved_by_recruiters_30d": 1,
+    "interview_completion_rate": 0.53,
+    "offer_acceptance_rate": 0.78,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

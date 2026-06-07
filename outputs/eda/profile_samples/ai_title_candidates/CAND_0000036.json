@@ -1,0 +1,178 @@
+{
+  "candidate_id": "CAND_0000036",
+  "profile": {
+    "anonymized_name": "Ananya Bose",
+    "headline": "Project Manager | 11.3+ yrs experience",
+    "summary": "Professional with 11.3+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Trivandrum, Kerala",
+    "country": "India",
+    "years_of_experience": 11.3,
+    "current_title": "Project Manager",
+    "current_company": "Initech",
+    "current_company_size": "51-200",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Initech",
+      "title": "Project Manager",
+      "start_date": "2025-02-01",
+      "end_date": null,
+      "duration_months": 16,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Hooli",
+      "title": "Content Writer",
+      "start_date": "2023-08-11",
+      "end_date": "2025-02-01",
+      "duration_months": 18,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "HR Manager",
+      "start_date": "2019-11-30",
+      "end_date": "2023-08-11",
+      "duration_months": 45,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "TCS",
+      "title": "Civil Engineer",
+      "start_date": "2017-12-10",
+      "end_date": "2019-11-30",
+      "duration_months": 24,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Marketing Manager",
+      "start_date": "2015-05-18",
+      "end_date": "2017-12-03",
+      "duration_months": 31,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    }
+  ],
+  "education": [
+    {
+      "institution": "KIIT University",
+      "degree": "M.S.",
+      "field_of_study": "Commerce",
+      "start_year": 2002,
+      "end_year": 2006,
+      "grade": "8.89 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Figma",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 13
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 8
+    },
+    {
+      "name": "PowerPoint",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 3
+    },
+    {
+      "name": "CSS",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 14
+    },
+    {
+      "name": "Excel",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 28
+    },
+    {
+      "name": "GraphQL",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 18
+    },
+    {
+      "name": "Object Detection",
+      "proficiency": "advanced",
+      "endorsements": 39,
+      "duration_months": 37
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "beginner",
+      "endorsements": 13,
+      "duration_months": 4
+    },
+    {
+      "name": "Sales",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 9
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 81.8,
+    "signup_date": "2025-09-05",
+    "last_active_date": "2025-12-12",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 70,
+    "applications_submitted_30d": 4,
+    "recruiter_response_rate": 0.4,
+    "avg_response_time_hours": 236.6,
+    "skill_assessment_scores": {},
+    "connection_count": 324,
+    "endorsements_received": 3,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 15.3,
+      "max": 9.7
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 175,
+    "saved_by_recruiters_30d": 0,
+    "interview_completion_rate": 0.78,
+    "offer_acceptance_rate": 0.46,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

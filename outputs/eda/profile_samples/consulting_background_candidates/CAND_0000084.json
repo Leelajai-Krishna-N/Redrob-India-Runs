@@ -1,0 +1,192 @@
+{
+  "candidate_id": "CAND_0000084",
+  "profile": {
+    "anonymized_name": "Priya Banerjee",
+    "headline": "Marketing Manager | 10.6+ yrs experience",
+    "summary": "Professional with 10.6+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Jaipur, Rajasthan",
+    "country": "India",
+    "years_of_experience": 10.6,
+    "current_title": "Marketing Manager",
+    "current_company": "Infosys",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Infosys",
+      "title": "Marketing Manager",
+      "start_date": "2025-02-01",
+      "end_date": null,
+      "duration_months": 16,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "TCS",
+      "title": "Operations Manager",
+      "start_date": "2022-05-18",
+      "end_date": "2024-12-03",
+      "duration_months": 31,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Hooli",
+      "title": "Project Manager",
+      "start_date": "2021-05-23",
+      "end_date": "2022-05-18",
+      "duration_months": 12,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Mechanical Engineer",
+      "start_date": "2019-03-05",
+      "end_date": "2021-05-23",
+      "duration_months": 27,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Hooli",
+      "title": "Sales Executive",
+      "start_date": "2017-12-03",
+      "end_date": "2019-02-26",
+      "duration_months": 15,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Customer Support",
+      "start_date": "2016-01-06",
+      "end_date": "2017-11-26",
+      "duration_months": 23,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chandigarh University",
+      "degree": "M.Sc",
+      "field_of_study": "Civil Engineering",
+      "start_year": 2004,
+      "end_year": 2007,
+      "grade": "8.73 CGPA",
+      "tier": "tier_3"
+    },
+    {
+      "institution": "Generic State University",
+      "degree": "B.Sc",
+      "field_of_study": "Computer Science",
+      "start_year": 2018,
+      "end_year": 2021,
+      "grade": "7.70 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "SEO",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 10
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 15
+    },
+    {
+      "name": "Databricks",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 35
+    },
+    {
+      "name": "HTML",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 12
+    },
+    {
+      "name": "Feature Engineering",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 22
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 22
+    },
+    {
+      "name": "React",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 29
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2019
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 25.1,
+    "signup_date": "2025-05-22",
+    "last_active_date": "2026-01-02",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 68,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.57,
+    "avg_response_time_hours": 220.2,
+    "skill_assessment_scores": {},
+    "connection_count": 191,
+    "endorsements_received": 1,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 16.2,
+      "max": 17.1
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 179,
+    "saved_by_recruiters_30d": 3,
+    "interview_completion_rate": 0.4,
+    "offer_acceptance_rate": 0.35,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

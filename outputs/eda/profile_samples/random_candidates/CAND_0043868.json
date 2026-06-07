@@ -1,0 +1,134 @@
+{
+  "candidate_id": "CAND_0043868",
+  "profile": {
+    "anonymized_name": "Mira Iyengar",
+    "headline": "Civil Engineer | Driving business outcomes",
+    "summary": "Professional with 1.3+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Jaipur, Rajasthan",
+    "country": "India",
+    "years_of_experience": 1.3,
+    "current_title": "Civil Engineer",
+    "current_company": "Globex Inc",
+    "current_company_size": "501-1000",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Globex Inc",
+      "title": "Civil Engineer",
+      "start_date": "2025-03-03",
+      "end_date": null,
+      "duration_months": 15,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Generic State University",
+      "degree": "B.E.",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2016,
+      "end_year": 2019,
+      "grade": "73%",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Sales",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 28
+    },
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "beginner",
+      "endorsements": 13,
+      "duration_months": 7
+    },
+    {
+      "name": "Tally",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 19
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 17
+    },
+    {
+      "name": "Marketing",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 17
+    },
+    {
+      "name": "Image Classification",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 20
+    },
+    {
+      "name": "Illustrator",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 10
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 11
+    },
+    {
+      "name": "Agile",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 33
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 45.4,
+    "signup_date": "2023-02-28",
+    "last_active_date": "2026-04-07",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 52,
+    "applications_submitted_30d": 7,
+    "recruiter_response_rate": 0.25,
+    "avg_response_time_hours": 118.9,
+    "skill_assessment_scores": {},
+    "connection_count": 196,
+    "endorsements_received": 13,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 9.1,
+      "max": 20.0
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": true,
+    "github_activity_score": 43.7,
+    "search_appearance_30d": 168,
+    "saved_by_recruiters_30d": 11,
+    "interview_completion_rate": 0.61,
+    "offer_acceptance_rate": 0.27,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

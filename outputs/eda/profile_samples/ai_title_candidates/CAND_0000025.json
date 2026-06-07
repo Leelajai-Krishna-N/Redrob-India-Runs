@@ -1,0 +1,169 @@
+{
+  "candidate_id": "CAND_0000025",
+  "profile": {
+    "anonymized_name": "Anika Kumar",
+    "headline": "Frontend Engineer | Cloud & DevOps",
+    "summary": "Software engineer with 7.3 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. I've worked across web frontends, REST APIs, and cloud deployments; comfortable in most parts of a typical SaaS stack. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Vizag, Andhra Pradesh",
+    "country": "India",
+    "years_of_experience": 7.3,
+    "current_title": "Frontend Engineer",
+    "current_company": "Tech Mahindra",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Tech Mahindra",
+      "title": "Frontend Engineer",
+      "start_date": "2023-09-10",
+      "end_date": null,
+      "duration_months": 33,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+    },
+    {
+      "company": "Mindtree",
+      "title": "Frontend Engineer",
+      "start_date": "2019-09-17",
+      "end_date": "2023-08-27",
+      "duration_months": 48,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+    },
+    {
+      "company": "Zomato",
+      "title": "Frontend Engineer",
+      "start_date": "2019-03-21",
+      "end_date": "2019-09-17",
+      "duration_months": 6,
+      "is_current": false,
+      "industry": "Food Delivery",
+      "company_size": "5001-10000",
+      "description": "Frontend engineering at a media company. React, TypeScript, and the typical surrounding tooling (Webpack, Jest, Cypress). Built the company's design system from scratch and led the migration from a legacy AngularJS app. Strong on the frontend craft — accessibility, performance, animations — but limited backend exposure."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Regional Technical Institute",
+      "degree": "Ph.D",
+      "field_of_study": "Mechanical Engineering",
+      "start_year": 2006,
+      "end_year": 2010,
+      "grade": "8.18 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "proficiency": "intermediate",
+      "endorsements": 10,
+      "duration_months": 26
+    },
+    {
+      "name": "Spark",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 22
+    },
+    {
+      "name": "GCP",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 13
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 17
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 15,
+      "duration_months": 34
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 19
+    },
+    {
+      "name": "ETL",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 18
+    },
+    {
+      "name": "Redis",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 10
+    },
+    {
+      "name": "Data Pipelines",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 32
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Six Sigma Green Belt",
+      "issuer": "ASQ",
+      "year": 2018
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2025
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 70.7,
+    "signup_date": "2023-12-18",
+    "last_active_date": "2026-03-30",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 107,
+    "applications_submitted_30d": 11,
+    "recruiter_response_rate": 0.74,
+    "avg_response_time_hours": 128.0,
+    "skill_assessment_scores": {
+      "LangChain": 40.0
+    },
+    "connection_count": 276,
+    "endorsements_received": 52,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 18.8,
+      "max": 30.7
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 74,
+    "saved_by_recruiters_30d": 9,
+    "interview_completion_rate": 0.7,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

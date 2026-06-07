@@ -1,0 +1,133 @@
+{
+  "candidate_id": "CAND_0000007",
+  "profile": {
+    "anonymized_name": "Vihaan Bose",
+    "headline": "Civil Engineer | 5.5+ yrs experience",
+    "summary": "Professional with 5.5+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Gurgaon, Haryana",
+    "country": "India",
+    "years_of_experience": 5.5,
+    "current_title": "Civil Engineer",
+    "current_company": "Wipro",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Wipro",
+      "title": "Civil Engineer",
+      "start_date": "2023-04-13",
+      "end_date": null,
+      "duration_months": 38,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Initech",
+      "title": "Mechanical Engineer",
+      "start_date": "2021-01-16",
+      "end_date": "2023-04-06",
+      "duration_months": 27,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    }
+  ],
+  "education": [
+    {
+      "institution": "SRM University",
+      "degree": "M.E.",
+      "field_of_study": "Data Science",
+      "start_year": 2009,
+      "end_year": 2013,
+      "grade": "8.28 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Content Writing",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 14
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 9
+    },
+    {
+      "name": "Sales",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 27
+    },
+    {
+      "name": "Spark",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 14
+    },
+    {
+      "name": "Scrum",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 18
+    },
+    {
+      "name": "Apache Beam",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 3
+    },
+    {
+      "name": "Illustrator",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 2
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 74.6,
+    "signup_date": "2025-09-29",
+    "last_active_date": "2026-05-25",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 2,
+    "applications_submitted_30d": 1,
+    "recruiter_response_rate": 0.62,
+    "avg_response_time_hours": 61.3,
+    "skill_assessment_scores": {},
+    "connection_count": 122,
+    "endorsements_received": 50,
+    "notice_period_days": 30,
+    "expected_salary_range_inr_lpa": {
+      "min": 6.7,
+      "max": 14.6
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 104,
+    "saved_by_recruiters_30d": 8,
+    "interview_completion_rate": 0.47,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

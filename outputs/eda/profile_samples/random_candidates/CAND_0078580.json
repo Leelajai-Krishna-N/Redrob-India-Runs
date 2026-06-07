@@ -1,0 +1,139 @@
+{
+  "candidate_id": "CAND_0078580",
+  "profile": {
+    "anonymized_name": "Kiara Iyer",
+    "headline": "Mechanical Engineer | Helping teams scale",
+    "summary": "Professional with 6.6+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Austin",
+    "country": "USA",
+    "years_of_experience": 6.6,
+    "current_title": "Mechanical Engineer",
+    "current_company": "Pied Piper",
+    "current_company_size": "11-50",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Pied Piper",
+      "title": "Mechanical Engineer",
+      "start_date": "2023-04-13",
+      "end_date": null,
+      "duration_months": 38,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "Sales Executive",
+      "start_date": "2019-12-16",
+      "end_date": "2023-03-30",
+      "duration_months": 40,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    }
+  ],
+  "education": [
+    {
+      "institution": "KIIT University",
+      "degree": "B.E.",
+      "field_of_study": "Computer Engineering",
+      "start_year": 2010,
+      "end_year": 2014,
+      "grade": "9.07 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Content Writing",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 33
+    },
+    {
+      "name": "Redux",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 16
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 8
+    },
+    {
+      "name": "Django",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 14
+    },
+    {
+      "name": "GraphQL",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 8
+    },
+    {
+      "name": "Airflow",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 3
+    },
+    {
+      "name": "Snowflake",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 18
+    },
+    {
+      "name": "Marketing",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 14
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 48.8,
+    "signup_date": "2025-06-29",
+    "last_active_date": "2026-02-17",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 61,
+    "applications_submitted_30d": 5,
+    "recruiter_response_rate": 0.12,
+    "avg_response_time_hours": 118.0,
+    "skill_assessment_scores": {},
+    "connection_count": 526,
+    "endorsements_received": 46,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 4.7,
+      "max": 7.8
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 173,
+    "saved_by_recruiters_30d": 9,
+    "interview_completion_rate": 0.52,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": true
+  }
+}

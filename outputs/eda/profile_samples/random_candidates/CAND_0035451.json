@@ -1,0 +1,193 @@
+{
+  "candidate_id": "CAND_0035451",
+  "profile": {
+    "anonymized_name": "Arnav Mehta",
+    "headline": "Analytics Engineer | Data pipelines & analytics",
+    "summary": "Software / data professional with 3.7 years of experience building data pipelines, backend systems, and analytics infrastructure. Most of my work has been data pipelines and analytics infrastructure; I've shipped a couple of small ML features but it's not the core of my day. My toolkit is solid on the data engineering side — Python, SQL, Spark, Airflow, warehouse design — and I've completed a couple of self-directed ML projects (Kaggle competitions, side projects fine-tuning small models). Interested in transitioning toward more AI/ML-focused work, ideally at a company where I can leverage my existing data-infra skills while learning modern ML practice.",
+    "location": "Mumbai, Maharashtra",
+    "country": "India",
+    "years_of_experience": 3.7,
+    "current_title": "Analytics Engineer",
+    "current_company": "Dream11",
+    "current_company_size": "1001-5000",
+    "current_industry": "Gaming"
+  },
+  "career_history": [
+    {
+      "company": "Dream11",
+      "title": "Analytics Engineer",
+      "start_date": "2023-09-10",
+      "end_date": null,
+      "duration_months": 33,
+      "is_current": true,
+      "industry": "Gaming",
+      "company_size": "1001-5000",
+      "description": "Designed and maintained the analytical data warehouse on Snowflake supporting the BI team's ~50 dashboards. Wrote complex SQL — heavy on window functions, CTEs, and incremental modeling patterns via dbt. Worked on the data modeling side (dimensional modeling, slowly changing dimensions) as well as performance optimization (query tuning, cluster sizing, materialized views). Also built the lineage and documentation framework now in use across the data org."
+    },
+    {
+      "company": "Zomato",
+      "title": "Software Engineer",
+      "start_date": "2022-11-07",
+      "end_date": "2023-09-03",
+      "duration_months": 10,
+      "is_current": false,
+      "industry": "Food Delivery",
+      "company_size": "5001-10000",
+      "description": "Mixed data science and analytics-engineering role at a marketing-analytics startup. Spent maybe 30% of my time on lightweight ML (clustering, classification, churn prediction in sklearn/XGBoost) and 70% on data infrastructure and dashboards. Comfortable with the modeling work but I wouldn't call myself an ML specialist. Built our experimentation framework that supports the product team's A/B tests."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Thapar University",
+      "degree": "M.S.",
+      "field_of_study": "MBA",
+      "start_year": 2009,
+      "end_year": 2014,
+      "grade": "8.95 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Docker",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 21
+    },
+    {
+      "name": "Six Sigma",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 8
+    },
+    {
+      "name": "GANs",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 19
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 17
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 14
+    },
+    {
+      "name": "Data Science",
+      "proficiency": "advanced",
+      "endorsements": 5,
+      "duration_months": 42
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 34
+    },
+    {
+      "name": "CNN",
+      "proficiency": "advanced",
+      "endorsements": 38,
+      "duration_months": 57
+    },
+    {
+      "name": "CSS",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 26
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "advanced",
+      "endorsements": 60,
+      "duration_months": 56
+    },
+    {
+      "name": "ASR",
+      "proficiency": "advanced",
+      "endorsements": 42,
+      "duration_months": 53
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 16
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 27
+    },
+    {
+      "name": "OpenCV",
+      "proficiency": "advanced",
+      "endorsements": 30,
+      "duration_months": 38
+    },
+    {
+      "name": "SQL",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 11
+    },
+    {
+      "name": "YOLO",
+      "proficiency": "advanced",
+      "endorsements": 58,
+      "duration_months": 60
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 52.7,
+    "signup_date": "2023-09-16",
+    "last_active_date": "2026-03-07",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 108,
+    "applications_submitted_30d": 4,
+    "recruiter_response_rate": 0.7,
+    "avg_response_time_hours": 55.7,
+    "skill_assessment_scores": {
+      "Data Science": 71.0,
+      "CNN": 77.6,
+      "LLMs": 74.4,
+      "ASR": 41.2,
+      "OpenCV": 78.6
+    },
+    "connection_count": 941,
+    "endorsements_received": 63,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 14.5,
+      "max": 35.4
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 286,
+    "saved_by_recruiters_30d": 8,
+    "interview_completion_rate": 0.58,
+    "offer_acceptance_rate": 0.47,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": true
+  }
+}

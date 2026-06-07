@@ -1,0 +1,248 @@
+{
+  "candidate_id": "CAND_0000330",
+  "profile": {
+    "anonymized_name": "Riya Joshi",
+    "headline": "Civil Engineer | Exploring AI & GenAI applications",
+    "summary": "Civil Engineer with 12.0+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Kolkata, West Bengal",
+    "country": "India",
+    "years_of_experience": 12.0,
+    "current_title": "Civil Engineer",
+    "current_company": "Acme Corp",
+    "current_company_size": "201-500",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Acme Corp",
+      "title": "Civil Engineer",
+      "start_date": "2022-03-19",
+      "end_date": null,
+      "duration_months": 51,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Hooli",
+      "title": "Operations Manager",
+      "start_date": "2019-07-03",
+      "end_date": "2022-03-19",
+      "duration_months": 33,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Graphic Designer",
+      "start_date": "2017-01-14",
+      "end_date": "2019-07-03",
+      "duration_months": 30,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Customer Support",
+      "start_date": "2014-09-13",
+      "end_date": "2016-12-31",
+      "duration_months": 28,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Manipal Institute of Technology",
+      "degree": "M.Tech",
+      "field_of_study": "Computer Science",
+      "start_year": 2006,
+      "end_year": 2009,
+      "grade": "9.25 CGPA",
+      "tier": "tier_2"
+    },
+    {
+      "institution": "SRM Chennai",
+      "degree": "Ph.D",
+      "field_of_study": "Information Technology",
+      "start_year": 2011,
+      "end_year": 2015,
+      "grade": "70%",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 6
+    },
+    {
+      "name": "GraphQL",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 18
+    },
+    {
+      "name": "Six Sigma",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 20
+    },
+    {
+      "name": "Microservices",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 2
+    },
+    {
+      "name": "FastAPI",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 9
+    },
+    {
+      "name": "Excel",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 14
+    },
+    {
+      "name": "SAP",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 12
+    },
+    {
+      "name": "Databricks",
+      "proficiency": "intermediate",
+      "endorsements": 10,
+      "duration_months": 33
+    },
+    {
+      "name": "Rust",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 16
+    },
+    {
+      "name": "Photoshop",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 15
+    },
+    {
+      "name": "MLOps",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 9
+    },
+    {
+      "name": "RAG",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 16
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 15
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 15
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 6
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 17
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 4
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 10
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 11
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 13
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 4
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 57.4,
+    "signup_date": "2023-07-09",
+    "last_active_date": "2026-01-09",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 61,
+    "applications_submitted_30d": 3,
+    "recruiter_response_rate": 0.6,
+    "avg_response_time_hours": 26.0,
+    "skill_assessment_scores": {},
+    "connection_count": 440,
+    "endorsements_received": 6,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 13.8,
+      "max": 23.5
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 154,
+    "saved_by_recruiters_30d": 3,
+    "interview_completion_rate": 0.52,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

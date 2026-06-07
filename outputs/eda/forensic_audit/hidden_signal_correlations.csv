@@ -1,0 +1,67 @@
+target,feature,correlation
+AI-title,search_appearance_30d,0.35897221367393106
+AI-title,salary_mid_lpa,0.3438167058112179
+AI-title,saved_by_recruiters_30d,0.31159609100759467
+AI-title,expected_salary_min_lpa,0.2906729443378896
+AI-title,expected_salary_max_lpa,0.28343630646115714
+AI-title,skill_assessment_count,0.25695985698841134
+AI-title,skill_count,0.15630842333504308
+AI-title,github_activity_score,0.13435818936091018
+AI-title,profile_completeness_score,0.09340982924538048
+AI-title,salary_range_lpa,0.09068573561854051
+AI-title,recruiter_response_rate,0.07784812763886012
+AI-title,interview_completion_rate,0.07629454450833877
+AI-title,offer_acceptance_rate,0.06276940203291063
+AI-title,consistency_suspicion_score_10,0.02133359838655098
+AI-title,consistency_reason_count,0.01742146487054474
+AI-title,education_count,0.0013978756711137573
+AI-title,is_random_bucket,0.0011236996181123132
+AI-title,is_high_experience,-0.02040433688462008
+AI-title,career_role_count,-0.049948468375479185
+AI-title,years_of_experience,-0.051814886578319744
+AI-title,is_consulting,-0.061319629185742616
+AI-title,days_since_last_active,-0.09722701567289053
+JD alignment,skill_count,0.31514476651896534
+JD alignment,salary_mid_lpa,0.24736055080949856
+JD alignment,expected_salary_max_lpa,0.21518847783691455
+JD alignment,skill_assessment_count,0.19838998448404066
+JD alignment,search_appearance_30d,0.19305467716381405
+JD alignment,expected_salary_min_lpa,0.19227996053916538
+JD alignment,saved_by_recruiters_30d,0.18415424338054712
+JD alignment,career_role_count,0.13566898154242288
+JD alignment,interview_completion_rate,0.115567240590188
+JD alignment,github_activity_score,0.1053806486382697
+JD alignment,years_of_experience,0.1043661146252621
+JD alignment,salary_range_lpa,0.08821010515543737
+JD alignment,offer_acceptance_rate,0.07501291549796497
+JD alignment,recruiter_response_rate,0.06520438334023368
+JD alignment,profile_completeness_score,0.06400639286217065
+JD alignment,consistency_reason_count,0.061180826127940714
+JD alignment,consistency_suspicion_score_10,0.05646020485160919
+JD alignment,is_high_experience,0.03575738453661435
+JD alignment,education_count,0.003916535551679279
+JD alignment,is_random_bucket,-0.0009274447142175315
+JD alignment,is_consulting,-0.05072232526018543
+JD alignment,days_since_last_active,-0.10504701098822561
+Suspicion proxy,skill_count,0.29339856334936093
+Suspicion proxy,consistency_reason_count,0.16213871270370586
+Suspicion proxy,consistency_suspicion_score_10,0.16131459651044397
+Suspicion proxy,is_consulting,0.016649659895213657
+Suspicion proxy,years_of_experience,0.014951476823134927
+Suspicion proxy,days_since_last_active,0.014031492661455107
+Suspicion proxy,career_role_count,0.012396292935884814
+Suspicion proxy,is_high_experience,0.0059604690571615415
+Suspicion proxy,profile_completeness_score,0.0025153232267261815
+Suspicion proxy,education_count,-0.00022209262351437635
+Suspicion proxy,is_random_bucket,-0.003964615855573499
+Suspicion proxy,recruiter_response_rate,-0.005559467591208073
+Suspicion proxy,salary_range_lpa,-0.005631235325475353
+Suspicion proxy,offer_acceptance_rate,-0.006630231356900939
+Suspicion proxy,search_appearance_30d,-0.007081110436266998
+Suspicion proxy,saved_by_recruiters_30d,-0.009193453374928873
+Suspicion proxy,github_activity_score,-0.00947251768614411
+Suspicion proxy,interview_completion_rate,-0.010665022129728785
+Suspicion proxy,skill_assessment_count,-0.013188148801169548
+Suspicion proxy,expected_salary_min_lpa,-0.01600647491801599
+Suspicion proxy,expected_salary_max_lpa,-0.01623354202193698
+Suspicion proxy,salary_mid_lpa,-0.019383014708226395

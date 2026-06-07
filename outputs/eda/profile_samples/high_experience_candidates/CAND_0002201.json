@@ -1,0 +1,175 @@
+{
+  "candidate_id": "CAND_0002201",
+  "profile": {
+    "anonymized_name": "Anjali Naidu",
+    "headline": "Content Writer | Driving business outcomes",
+    "summary": "Professional with 15.0+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Bhubaneswar, Odisha",
+    "country": "India",
+    "years_of_experience": 15.0,
+    "current_title": "Content Writer",
+    "current_company": "TCS",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "TCS",
+      "title": "Content Writer",
+      "start_date": "2022-03-19",
+      "end_date": null,
+      "duration_months": 51,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "Operations Manager",
+      "start_date": "2018-11-05",
+      "end_date": "2022-02-17",
+      "duration_months": 40,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Hooli",
+      "title": "Operations Manager",
+      "start_date": "2016-07-18",
+      "end_date": "2018-11-05",
+      "duration_months": 28,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "HR Manager",
+      "start_date": "2013-11-01",
+      "end_date": "2016-05-19",
+      "duration_months": 31,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Initech",
+      "title": "Content Writer",
+      "start_date": "2011-08-14",
+      "end_date": "2013-11-01",
+      "duration_months": 27,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Christ University",
+      "degree": "M.E.",
+      "field_of_study": "Chemical Engineering",
+      "start_year": 2013,
+      "end_year": 2018,
+      "grade": "86%",
+      "tier": "tier_3"
+    },
+    {
+      "institution": "PES University",
+      "degree": "M.Tech",
+      "field_of_study": "Electronics",
+      "start_year": 2013,
+      "end_year": 2017,
+      "grade": "86%",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "CI/CD",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 13
+    },
+    {
+      "name": "React",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 8
+    },
+    {
+      "name": "Docker",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 24
+    },
+    {
+      "name": "Azure",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 5
+    },
+    {
+      "name": "Angular",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 29
+    },
+    {
+      "name": "Project Management",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 16
+    },
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 20
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 66.1,
+    "signup_date": "2023-01-05",
+    "last_active_date": "2025-11-08",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 40,
+    "applications_submitted_30d": 0,
+    "recruiter_response_rate": 0.44,
+    "avg_response_time_hours": 202.6,
+    "skill_assessment_scores": {},
+    "connection_count": 519,
+    "endorsements_received": 33,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 13.3,
+      "max": 8.2
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 107,
+    "saved_by_recruiters_30d": 3,
+    "interview_completion_rate": 0.36,
+    "offer_acceptance_rate": 0.29,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

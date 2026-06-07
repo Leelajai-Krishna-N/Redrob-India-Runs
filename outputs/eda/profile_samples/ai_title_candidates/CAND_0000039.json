@@ -1,0 +1,154 @@
+{
+  "candidate_id": "CAND_0000039",
+  "profile": {
+    "anonymized_name": "Sai Saxena",
+    "headline": "Marketing Manager | Helping teams scale",
+    "summary": "Professional with 3.9+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Bhubaneswar, Odisha",
+    "country": "India",
+    "years_of_experience": 3.9,
+    "current_title": "Marketing Manager",
+    "current_company": "Acme Corp",
+    "current_company_size": "201-500",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Acme Corp",
+      "title": "Marketing Manager",
+      "start_date": "2024-08-05",
+      "end_date": null,
+      "duration_months": 22,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Mechanical Engineer",
+      "start_date": "2022-08-16",
+      "end_date": "2024-08-05",
+      "duration_months": 24,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chandigarh University",
+      "degree": "B.Tech",
+      "field_of_study": "Electrical Engineering",
+      "start_year": 2009,
+      "end_year": 2014,
+      "grade": "66%",
+      "tier": "tier_3"
+    },
+    {
+      "institution": "Chandigarh University",
+      "degree": "M.E.",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2007,
+      "end_year": 2011,
+      "grade": "82%",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Spark",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 15
+    },
+    {
+      "name": "Tailwind",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 8
+    },
+    {
+      "name": "Sales",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 8
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 35
+    },
+    {
+      "name": "Illustrator",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 21
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 26
+    },
+    {
+      "name": "Microservices",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 19
+    },
+    {
+      "name": "REST APIs",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 12
+    },
+    {
+      "name": "AWS",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 18
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 28.3,
+    "signup_date": "2025-04-14",
+    "last_active_date": "2026-04-18",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 22,
+    "applications_submitted_30d": 0,
+    "recruiter_response_rate": 0.52,
+    "avg_response_time_hours": 40.1,
+    "skill_assessment_scores": {},
+    "connection_count": 102,
+    "endorsements_received": 9,
+    "notice_period_days": 30,
+    "expected_salary_range_inr_lpa": {
+      "min": 17.4,
+      "max": 16.0
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 146,
+    "saved_by_recruiters_30d": 6,
+    "interview_completion_rate": 0.74,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

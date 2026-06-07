@@ -1,0 +1,189 @@
+{
+  "candidate_id": "CAND_0010407",
+  "profile": {
+    "anonymized_name": "Saanvi Mittal",
+    "headline": "Content Writer | Helping teams scale",
+    "summary": "Professional with 15.0+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Indore, Madhya Pradesh",
+    "country": "India",
+    "years_of_experience": 15.0,
+    "current_title": "Content Writer",
+    "current_company": "Infosys",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Infosys",
+      "title": "Content Writer",
+      "start_date": "2024-03-08",
+      "end_date": null,
+      "duration_months": 27,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Project Manager",
+      "start_date": "2020-10-25",
+      "end_date": "2024-01-08",
+      "duration_months": 39,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Hooli",
+      "title": "Project Manager",
+      "start_date": "2017-03-01",
+      "end_date": "2020-10-11",
+      "duration_months": 44,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "TCS",
+      "title": "Sales Executive",
+      "start_date": "2014-02-15",
+      "end_date": "2017-03-01",
+      "duration_months": 37,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "Graphic Designer",
+      "start_date": "2012-02-26",
+      "end_date": "2014-02-15",
+      "duration_months": 24,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Wipro",
+      "title": "Operations Manager",
+      "start_date": "2011-07-31",
+      "end_date": "2012-02-26",
+      "duration_months": 7,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    }
+  ],
+  "education": [
+    {
+      "institution": "COEP Pune",
+      "degree": "M.E.",
+      "field_of_study": "Physics",
+      "start_year": 2005,
+      "end_year": 2009,
+      "grade": "7.94 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "FastAPI",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 13
+    },
+    {
+      "name": "CNN",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 12
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 3
+    },
+    {
+      "name": "GCP",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 32
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 18
+    },
+    {
+      "name": "Flask",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 27
+    },
+    {
+      "name": "Airflow",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 30
+    },
+    {
+      "name": "Agile",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 34
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 3
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 25.6,
+    "signup_date": "2022-09-14",
+    "last_active_date": "2025-12-07",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 1,
+    "applications_submitted_30d": 3,
+    "recruiter_response_rate": 0.4,
+    "avg_response_time_hours": 191.2,
+    "skill_assessment_scores": {},
+    "connection_count": 439,
+    "endorsements_received": 27,
+    "notice_period_days": 150,
+    "expected_salary_range_inr_lpa": {
+      "min": 4.5,
+      "max": 9.7
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 94,
+    "saved_by_recruiters_30d": 7,
+    "interview_completion_rate": 0.48,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "candidate_id": "CAND_0000089",
+  "profile": {
+    "anonymized_name": "Myra Bhatia",
+    "headline": "Mechanical Engineer | Driving business outcomes",
+    "summary": "Professional with 1.1+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Toronto",
+    "country": "Canada",
+    "years_of_experience": 1.1,
+    "current_title": "Mechanical Engineer",
+    "current_company": "Initech",
+    "current_company_size": "51-200",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Initech",
+      "title": "Mechanical Engineer",
+      "start_date": "2025-05-02",
+      "end_date": null,
+      "duration_months": 13,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Amity University",
+      "degree": "M.Sc",
+      "field_of_study": "Information Technology",
+      "start_year": 2019,
+      "end_year": 2022,
+      "grade": "7.87 CGPA",
+      "tier": "tier_3"
+    },
+    {
+      "institution": "KIIT University",
+      "degree": "M.Sc",
+      "field_of_study": "Physics",
+      "start_year": 2010,
+      "end_year": 2013,
+      "grade": "9.01 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Pipelines",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 3
+    },
+    {
+      "name": "Azure",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 12
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "beginner",
+      "endorsements": 11,
+      "duration_months": 14
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 17
+    },
+    {
+      "name": "Terraform",
+      "proficiency": "intermediate",
+      "endorsements": 10,
+      "duration_months": 23
+    },
+    {
+      "name": "AWS",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 4
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 47.9,
+    "signup_date": "2024-10-09",
+    "last_active_date": "2025-10-04",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 78,
+    "applications_submitted_30d": 7,
+    "recruiter_response_rate": 0.69,
+    "avg_response_time_hours": 126.6,
+    "skill_assessment_scores": {},
+    "connection_count": 491,
+    "endorsements_received": 37,
+    "notice_period_days": 150,
+    "expected_salary_range_inr_lpa": {
+      "min": 17.6,
+      "max": 25.4
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 179,
+    "saved_by_recruiters_30d": 8,
+    "interview_completion_rate": 0.47,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

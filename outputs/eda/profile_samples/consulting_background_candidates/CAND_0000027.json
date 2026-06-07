@@ -1,0 +1,200 @@
+{
+  "candidate_id": "CAND_0000027",
+  "profile": {
+    "anonymized_name": "Avni Pandey",
+    "headline": "DevOps Engineer | Cloud & DevOps",
+    "summary": "Software engineer with 3.9 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. I've worked across web frontends, REST APIs, and cloud deployments; comfortable in most parts of a typical SaaS stack. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Kolkata, West Bengal",
+    "country": "India",
+    "years_of_experience": 3.9,
+    "current_title": "DevOps Engineer",
+    "current_company": "Infosys",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Infosys",
+      "title": "DevOps Engineer",
+      "start_date": "2023-06-12",
+      "end_date": null,
+      "duration_months": 36,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Java backend development at a large enterprise — Spring Boot microservices, Kafka for inter-service messaging, Postgres + Redis for storage. Worked on the customer onboarding flow which involved orchestrating multiple downstream services. Solid on the Spring ecosystem, transaction handling, and the operational side of Java services. Looking to either go deeper on distributed systems or expand into modern application stacks."
+    },
+    {
+      "company": "Wipro",
+      "title": "DevOps Engineer",
+      "start_date": "2022-08-02",
+      "end_date": "2023-05-29",
+      "duration_months": 10,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Full-stack web application development at a SaaS company. Built React-based admin interfaces and the Node.js REST API backing them. Worked across the stack: frontend components, REST endpoint design, PostgreSQL schema, deployment via Docker/Kubernetes. Comfortable in most parts of a typical web stack though my comfort zone is the backend and database side. Recent learning has been on the testing and CI/CD discipline."
+    }
+  ],
+  "education": [
+    {
+      "institution": "IIT Bombay",
+      "degree": "Ph.D",
+      "field_of_study": "Information Technology",
+      "start_year": 2006,
+      "end_year": 2010,
+      "grade": "6.55 CGPA",
+      "tier": "tier_1"
+    },
+    {
+      "institution": "VJTI Mumbai",
+      "degree": "B.E.",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2017,
+      "end_year": 2020,
+      "grade": "9.11 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Docker",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 9
+    },
+    {
+      "name": "YOLO",
+      "proficiency": "advanced",
+      "endorsements": 31,
+      "duration_months": 20
+    },
+    {
+      "name": "PEFT",
+      "proficiency": "advanced",
+      "endorsements": 39,
+      "duration_months": 35
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 33
+    },
+    {
+      "name": "Data Science",
+      "proficiency": "advanced",
+      "endorsements": 18,
+      "duration_months": 24
+    },
+    {
+      "name": "AWS",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 16
+    },
+    {
+      "name": "Java",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 15
+    },
+    {
+      "name": "Angular",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 25
+    },
+    {
+      "name": "Databricks",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 31
+    },
+    {
+      "name": "ETL",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 11
+    },
+    {
+      "name": "Marketing",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 14
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 32
+    },
+    {
+      "name": "Weights & Biases",
+      "proficiency": "advanced",
+      "endorsements": 31,
+      "duration_months": 44
+    },
+    {
+      "name": "Terraform",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 19
+    },
+    {
+      "name": "SAP",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 9
+    },
+    {
+      "name": "Illustrator",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 11
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 31.0,
+    "signup_date": "2023-03-07",
+    "last_active_date": "2026-05-07",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 89,
+    "applications_submitted_30d": 5,
+    "recruiter_response_rate": 0.58,
+    "avg_response_time_hours": 112.3,
+    "skill_assessment_scores": {
+      "YOLO": 60.2,
+      "PEFT": 50.5,
+      "Data Science": 35.1
+    },
+    "connection_count": 282,
+    "endorsements_received": 24,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 17.9,
+      "max": 20.2
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": false,
+    "github_activity_score": 38.6,
+    "search_appearance_30d": 136,
+    "saved_by_recruiters_30d": 6,
+    "interview_completion_rate": 0.61,
+    "offer_acceptance_rate": 0.65,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

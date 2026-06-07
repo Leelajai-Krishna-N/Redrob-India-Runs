@@ -1,0 +1,198 @@
+{
+  "candidate_id": "CAND_0000085",
+  "profile": {
+    "anonymized_name": "Rajesh Joshi",
+    "headline": "Mechanical Engineer | Driving business outcomes",
+    "summary": "Professional with 12.9+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Mumbai, Maharashtra",
+    "country": "India",
+    "years_of_experience": 12.9,
+    "current_title": "Mechanical Engineer",
+    "current_company": "Pied Piper",
+    "current_company_size": "11-50",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Pied Piper",
+      "title": "Mechanical Engineer",
+      "start_date": "2023-03-14",
+      "end_date": null,
+      "duration_months": 39,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "TCS",
+      "title": "Content Writer",
+      "start_date": "2020-03-15",
+      "end_date": "2023-02-28",
+      "duration_months": 36,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Mechanical Engineer",
+      "start_date": "2018-01-25",
+      "end_date": "2020-01-15",
+      "duration_months": 24,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Project Manager",
+      "start_date": "2014-10-06",
+      "end_date": "2018-01-18",
+      "duration_months": 40,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Infosys",
+      "title": "Customer Support",
+      "start_date": "2013-08-12",
+      "end_date": "2014-10-06",
+      "duration_months": 14,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Regional Technical Institute",
+      "degree": "M.Sc",
+      "field_of_study": "Computer Engineering",
+      "start_year": 2015,
+      "end_year": 2018,
+      "grade": "89%",
+      "tier": "tier_4"
+    },
+    {
+      "institution": "Chandigarh University",
+      "degree": "M.Sc",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2019,
+      "end_year": 2022,
+      "grade": "8.27 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Image Classification",
+      "proficiency": "advanced",
+      "endorsements": 58,
+      "duration_months": 22
+    },
+    {
+      "name": "REST APIs",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 5
+    },
+    {
+      "name": "SAP",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 21
+    },
+    {
+      "name": "Six Sigma",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 2
+    },
+    {
+      "name": "Figma",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 9
+    },
+    {
+      "name": "SEO",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 14
+    },
+    {
+      "name": "Sales",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 27
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 19
+    },
+    {
+      "name": "Photoshop",
+      "proficiency": "beginner",
+      "endorsements": 13,
+      "duration_months": 12
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2020
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2018
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 73.8,
+    "signup_date": "2023-08-08",
+    "last_active_date": "2025-11-21",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 68,
+    "applications_submitted_30d": 8,
+    "recruiter_response_rate": 0.77,
+    "avg_response_time_hours": 13.4,
+    "skill_assessment_scores": {},
+    "connection_count": 12,
+    "endorsements_received": 42,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 7.6,
+      "max": 20.2
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 176,
+    "saved_by_recruiters_30d": 9,
+    "interview_completion_rate": 0.52,
+    "offer_acceptance_rate": 0.48,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": true
+  }
+}

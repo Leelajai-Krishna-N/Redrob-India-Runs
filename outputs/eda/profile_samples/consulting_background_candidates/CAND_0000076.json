@@ -1,0 +1,143 @@
+{
+  "candidate_id": "CAND_0000076",
+  "profile": {
+    "anonymized_name": "Sanjay Agarwal",
+    "headline": "Project Manager | Helping teams scale",
+    "summary": "Professional with 12.0+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Bangalore, Karnataka",
+    "country": "India",
+    "years_of_experience": 12.0,
+    "current_title": "Project Manager",
+    "current_company": "Acme Corp",
+    "current_company_size": "201-500",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Acme Corp",
+      "title": "Project Manager",
+      "start_date": "2022-05-18",
+      "end_date": null,
+      "duration_months": 49,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "TCS",
+      "title": "Marketing Manager",
+      "start_date": "2021-02-22",
+      "end_date": "2022-05-18",
+      "duration_months": 15,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Content Writer",
+      "start_date": "2018-01-09",
+      "end_date": "2021-02-22",
+      "duration_months": 38,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Wipro",
+      "title": "HR Manager",
+      "start_date": "2014-07-29",
+      "end_date": "2017-11-10",
+      "duration_months": 40,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bharati Vidyapeeth",
+      "degree": "M.Tech",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2014,
+      "end_year": 2018,
+      "grade": "82%",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Project Management",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 9
+    },
+    {
+      "name": "CSS",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 7
+    },
+    {
+      "name": "Figma",
+      "proficiency": "intermediate",
+      "endorsements": 12,
+      "duration_months": 29
+    },
+    {
+      "name": "REST APIs",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 9
+    },
+    {
+      "name": "FastAPI",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 10
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 82.3,
+    "signup_date": "2024-08-04",
+    "last_active_date": "2026-02-23",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 79,
+    "applications_submitted_30d": 7,
+    "recruiter_response_rate": 0.44,
+    "avg_response_time_hours": 129.7,
+    "skill_assessment_scores": {},
+    "connection_count": 456,
+    "endorsements_received": 15,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 16.4,
+      "max": 17.5
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 146,
+    "saved_by_recruiters_30d": 7,
+    "interview_completion_rate": 0.68,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

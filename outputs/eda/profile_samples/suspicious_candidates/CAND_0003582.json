@@ -1,0 +1,152 @@
+{
+  "candidate_id": "CAND_0003582",
+  "profile": {
+    "anonymized_name": "Ishaan Tiwari",
+    "headline": "Mobile Developer | Cloud & DevOps",
+    "summary": "Software engineer with 8.2 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. My background is full-stack, but my comfort zone is the backend and the database. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Kolkata, West Bengal",
+    "country": "India",
+    "years_of_experience": 8.2,
+    "current_title": "Mobile Developer",
+    "current_company": "Mphasis",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Mphasis",
+      "title": "Mobile Developer",
+      "start_date": "2024-11-03",
+      "end_date": null,
+      "duration_months": 19,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team — moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "DevOps Engineer",
+      "start_date": "2022-11-07",
+      "end_date": "2024-10-27",
+      "duration_months": 24,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Frontend engineering at a media company. React, TypeScript, and the typical surrounding tooling (Webpack, Jest, Cypress). Built the company's design system from scratch and led the migration from a legacy AngularJS app. Strong on the frontend craft — accessibility, performance, animations — but limited backend exposure."
+    },
+    {
+      "company": "Initech",
+      "title": ".NET Developer",
+      "start_date": "2018-05-02",
+      "end_date": "2022-11-07",
+      "duration_months": 55,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Cloud infrastructure and DevOps work at an enterprise SaaS company. Owned the AWS account architecture (VPC, IAM, networking), the Terraform modules for our service deployments, and the Kubernetes cluster operations. Designed the CI/CD pipelines (GitLab CI + ArgoCD) and the monitoring stack (Prometheus, Grafana, Loki). Strong on the infra and ops side; haven't done much application development."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Anna University",
+      "degree": "Ph.D",
+      "field_of_study": "MBA",
+      "start_year": 2013,
+      "end_year": 2017,
+      "grade": "9.07 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Docker",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 2
+    },
+    {
+      "name": "Image Classification",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 35
+    },
+    {
+      "name": "MLflow",
+      "proficiency": "expert",
+      "endorsements": 2,
+      "duration_months": 0
+    },
+    {
+      "name": "Photoshop",
+      "proficiency": "expert",
+      "endorsements": 2,
+      "duration_months": 0
+    },
+    {
+      "name": "TTS",
+      "proficiency": "advanced",
+      "endorsements": 16,
+      "duration_months": 51
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 3
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 10
+    },
+    {
+      "name": "Content Writing",
+      "proficiency": "expert",
+      "endorsements": 0,
+      "duration_months": 0
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 65.1,
+    "signup_date": "2023-10-07",
+    "last_active_date": "2026-02-10",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 65,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.29,
+    "avg_response_time_hours": 167.7,
+    "skill_assessment_scores": {
+      "TTS": 37.2
+    },
+    "connection_count": 341,
+    "endorsements_received": 72,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 18.7,
+      "max": 31.1
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 251,
+    "saved_by_recruiters_30d": 2,
+    "interview_completion_rate": 0.86,
+    "offer_acceptance_rate": 0.21,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": true
+  }
+}

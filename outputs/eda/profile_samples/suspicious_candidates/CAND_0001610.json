@@ -1,0 +1,210 @@
+{
+  "candidate_id": "CAND_0001610",
+  "profile": {
+    "anonymized_name": "Aryan Banerjee",
+    "headline": "Machine Learning Engineer | Applied ML | Building intelligent products",
+    "summary": "Machine learning engineer with 5.2 years of experience building ML-powered features in production. Strong background in NLP, recommendation systems, and applied AI; comfortable across the ML stack from feature engineering through deployment. Recently, I built our semantic search infrastructure from scratch — sentence-transformers, FAISS, the works. I've spent enough time debugging production ranking issues to know which signals matter and which are noise. My academic background is in CS/ML but my main learning has come from shipping real systems and seeing what holds up under production load. Open to senior IC roles in applied ML or AI engineering, ideally at product companies where I'd own a meaningful piece of the ML stack.",
+    "location": "Trivandrum, Kerala",
+    "country": "India",
+    "years_of_experience": 3.0,
+    "current_title": "Machine Learning Engineer",
+    "current_company": "Dream11",
+    "current_company_size": "1001-5000",
+    "current_industry": "Gaming"
+  },
+  "career_history": [
+    {
+      "company": "Dream11",
+      "title": "Machine Learning Engineer",
+      "start_date": "2023-11-09",
+      "end_date": null,
+      "duration_months": 31,
+      "is_current": true,
+      "industry": "Gaming",
+      "company_size": "1001-5000",
+      "description": "Developed a semantic search feature for an internal knowledge base of ~500K documents. Used sentence-transformers (all-MiniLM-L6-v2 initially, later upgraded to bge-base) with FAISS for fast nearest-neighbor retrieval. Designed the query expansion module that handles vocabulary mismatch between user queries and document terms. Reported search-relevance improvement of 35% over the prior Elasticsearch BM25 setup, validated through human relevance judgments."
+    },
+    {
+      "company": "Flipkart",
+      "title": "Senior Data Scientist",
+      "start_date": "2022-02-17",
+      "end_date": "2023-11-09",
+      "duration_months": 21,
+      "is_current": false,
+      "industry": "E-commerce",
+      "company_size": "10001+",
+      "description": "Built a content recommendation system serving 10M+ users that combined collaborative filtering with content-based ranking. The system uses item-item similarity (via sentence-transformer embeddings) for cold starts and a gradient-boosted model trained on engagement signals for warm users. Most of my time went into the feature pipeline (~200 features) and the A/B testing infrastructure. The launch improved 7-day retention by 6% and time spent per session by 14%."
+    },
+    {
+      "company": "Zoho",
+      "title": "Machine Learning Engineer",
+      "start_date": "2021-05-23",
+      "end_date": "2022-02-17",
+      "duration_months": 9,
+      "is_current": false,
+      "industry": "SaaS",
+      "company_size": "10001+",
+      "description": "Trained and shipped multiple ranking models for our product's discovery feed using XGBoost and LightGBM. Designed features across three families: content metadata, user behavior signals, and item engagement history. Owned the offline-online correlation analysis that determined which offline metrics actually predicted A/B test outcomes. Worked closely with PMs to define the optimization target (click-through vs. dwell time vs. downstream conversion) — that work was as important as the modeling itself."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Manipal Institute of Technology",
+      "degree": "B.Sc",
+      "field_of_study": "Computer Engineering",
+      "start_year": 2005,
+      "end_year": 2009,
+      "grade": "7.21 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Speech Recognition",
+      "proficiency": "advanced",
+      "endorsements": 51,
+      "duration_months": 50
+    },
+    {
+      "name": "Haystack",
+      "proficiency": "expert",
+      "endorsements": 34,
+      "duration_months": 67
+    },
+    {
+      "name": "Deep Learning",
+      "proficiency": "expert",
+      "endorsements": 3,
+      "duration_months": 84
+    },
+    {
+      "name": "Kubeflow",
+      "proficiency": "advanced",
+      "endorsements": 45,
+      "duration_months": 45
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "expert",
+      "endorsements": 16,
+      "duration_months": 72
+    },
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 11
+    },
+    {
+      "name": "Feature Engineering",
+      "proficiency": "advanced",
+      "endorsements": 36,
+      "duration_months": 53
+    },
+    {
+      "name": "scikit-learn",
+      "proficiency": "expert",
+      "endorsements": 60,
+      "duration_months": 64
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "expert",
+      "endorsements": 18,
+      "duration_months": 92
+    },
+    {
+      "name": "Data Science",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 10
+    },
+    {
+      "name": "Milvus",
+      "proficiency": "expert",
+      "endorsements": 17,
+      "duration_months": 51
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "expert",
+      "endorsements": 7,
+      "duration_months": 59
+    },
+    {
+      "name": "Reinforcement Learning",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 23
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "advanced",
+      "endorsements": 45,
+      "duration_months": 34
+    },
+    {
+      "name": "NLP",
+      "proficiency": "advanced",
+      "endorsements": 50,
+      "duration_months": 29
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "expert",
+      "endorsements": 39,
+      "duration_months": 61
+    },
+    {
+      "name": "Computer Vision",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 28
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "expert",
+      "endorsements": 39,
+      "duration_months": 85
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 98.0,
+    "signup_date": "2025-09-09",
+    "last_active_date": "2026-04-12",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 188,
+    "applications_submitted_30d": 21,
+    "recruiter_response_rate": 0.57,
+    "avg_response_time_hours": 38.6,
+    "skill_assessment_scores": {},
+    "connection_count": 1027,
+    "endorsements_received": 97,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 26.3,
+      "max": 41.7
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": true,
+    "github_activity_score": 40.0,
+    "search_appearance_30d": 306,
+    "saved_by_recruiters_30d": 53,
+    "interview_completion_rate": 0.7,
+    "offer_acceptance_rate": 0.78,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": true
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "candidate_id": "CAND_0000004",
+  "profile": {
+    "anonymized_name": "Anil Bose",
+    "headline": "Marketing Manager | Driving business outcomes",
+    "summary": "Professional with 3.8+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Sydney",
+    "country": "Australia",
+    "years_of_experience": 3.8,
+    "current_title": "Marketing Manager",
+    "current_company": "Dunder Mifflin",
+    "current_company_size": "201-500",
+    "current_industry": "Paper Products"
+  },
+  "career_history": [
+    {
+      "company": "Dunder Mifflin",
+      "title": "Marketing Manager",
+      "start_date": "2025-04-02",
+      "end_date": null,
+      "duration_months": 14,
+      "is_current": true,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Infosys",
+      "title": "Operations Manager",
+      "start_date": "2023-07-28",
+      "end_date": "2025-03-19",
+      "duration_months": 20,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Business Analyst",
+      "start_date": "2022-08-02",
+      "end_date": "2023-05-29",
+      "duration_months": 10,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Local Engineering College",
+      "degree": "B.Tech",
+      "field_of_study": "Machine Learning",
+      "start_year": 2015,
+      "end_year": 2019,
+      "grade": "7.72 CGPA",
+      "tier": "tier_4"
+    },
+    {
+      "institution": "Lovely Professional University",
+      "degree": "Ph.D",
+      "field_of_study": "Electronics",
+      "start_year": 2013,
+      "end_year": 2016,
+      "grade": "7.61 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Node.js",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 20
+    },
+    {
+      "name": "Content Writing",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 3
+    },
+    {
+      "name": "Redux",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 8
+    },
+    {
+      "name": "Airflow",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 27
+    },
+    {
+      "name": "GraphQL",
+      "proficiency": "beginner",
+      "endorsements": 13,
+      "duration_months": 2
+    },
+    {
+      "name": "Object Detection",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 17
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 7
+    },
+    {
+      "name": "Six Sigma",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 12
+    },
+    {
+      "name": "SAP",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 9
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 29
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2025
+    },
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2025
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 28.5,
+    "signup_date": "2025-07-21",
+    "last_active_date": "2026-03-25",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 3,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.26,
+    "avg_response_time_hours": 104.1,
+    "skill_assessment_scores": {},
+    "connection_count": 485,
+    "endorsements_received": 22,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 4.6,
+      "max": 6.7
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 5,
+    "saved_by_recruiters_30d": 8,
+    "interview_completion_rate": 0.35,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

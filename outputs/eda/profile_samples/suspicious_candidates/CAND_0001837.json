@@ -1,0 +1,240 @@
+{
+  "candidate_id": "CAND_0001837",
+  "profile": {
+    "anonymized_name": "Aarav Bose",
+    "headline": "Marketing Manager | Generative AI explorer",
+    "summary": "Marketing Manager with 5.0+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Chennai, Tamil Nadu",
+    "country": "India",
+    "years_of_experience": 5.0,
+    "current_title": "Marketing Manager",
+    "current_company": "Infosys",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Infosys",
+      "title": "Marketing Manager",
+      "start_date": "2024-03-08",
+      "end_date": null,
+      "duration_months": 27,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Business Analyst",
+      "start_date": "2022-07-17",
+      "end_date": "2024-03-08",
+      "duration_months": 20,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "TCS",
+      "title": "Customer Support",
+      "start_date": "2021-06-22",
+      "end_date": "2022-06-17",
+      "duration_months": 12,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chandigarh University",
+      "degree": "B.E.",
+      "field_of_study": "Machine Learning",
+      "start_year": 2008,
+      "end_year": 2013,
+      "grade": "6.77 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Science",
+      "proficiency": "advanced",
+      "endorsements": 31,
+      "duration_months": 57
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "beginner",
+      "endorsements": 13,
+      "duration_months": 8
+    },
+    {
+      "name": "Photoshop",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 24
+    },
+    {
+      "name": "Go",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 29
+    },
+    {
+      "name": "Project Management",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 26
+    },
+    {
+      "name": "Snowflake",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 34
+    },
+    {
+      "name": "Redis",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 35
+    },
+    {
+      "name": "Illustrator",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 9
+    },
+    {
+      "name": "Airflow",
+      "proficiency": "beginner",
+      "endorsements": 7,
+      "duration_months": 11
+    },
+    {
+      "name": "Excel",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 16
+    },
+    {
+      "name": "Apache Beam",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 11
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 9
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 10
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 9
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 12
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 9
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 7
+    },
+    {
+      "name": "Recommendation Systems",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 15
+    },
+    {
+      "name": "RAG",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 9
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 9
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 9
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 10
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 13
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 63.1,
+    "signup_date": "2024-11-17",
+    "last_active_date": "2025-11-25",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 17,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.23,
+    "avg_response_time_hours": 88.9,
+    "skill_assessment_scores": {},
+    "connection_count": 308,
+    "endorsements_received": 12,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 5.0,
+      "max": 24.1
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 17,
+    "saved_by_recruiters_30d": 6,
+    "interview_completion_rate": 0.45,
+    "offer_acceptance_rate": 0.51,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

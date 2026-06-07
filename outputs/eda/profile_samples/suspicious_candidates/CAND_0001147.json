@@ -1,0 +1,268 @@
+{
+  "candidate_id": "CAND_0001147",
+  "profile": {
+    "anonymized_name": "Anika Kapoor",
+    "headline": "Sales Executive | AI enthusiast | Building with LLMs",
+    "summary": "Sales Executive with 11.8+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Delhi, Delhi",
+    "country": "India",
+    "years_of_experience": 11.8,
+    "current_title": "Sales Executive",
+    "current_company": "Hooli",
+    "current_company_size": "1001-5000",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Hooli",
+      "title": "Sales Executive",
+      "start_date": "2025-04-02",
+      "end_date": null,
+      "duration_months": 14,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Civil Engineer",
+      "start_date": "2021-04-09",
+      "end_date": "2025-03-19",
+      "duration_months": 48,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Hooli",
+      "title": "Operations Manager",
+      "start_date": "2019-02-19",
+      "end_date": "2021-04-09",
+      "duration_months": 26,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Hooli",
+      "title": "Accountant",
+      "start_date": "2017-11-26",
+      "end_date": "2018-12-21",
+      "duration_months": 13,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "TCS",
+      "title": "Customer Support",
+      "start_date": "2014-07-15",
+      "end_date": "2017-09-27",
+      "duration_months": 39,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    }
+  ],
+  "education": [
+    {
+      "institution": "KIIT University",
+      "degree": "B.Tech",
+      "field_of_study": "Mathematics",
+      "start_year": 2005,
+      "end_year": 2009,
+      "grade": "7.81 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Tailwind",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 22
+    },
+    {
+      "name": "Sales",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 6
+    },
+    {
+      "name": "PowerPoint",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 18
+    },
+    {
+      "name": "Tally",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 12
+    },
+    {
+      "name": "Docker",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 5
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 5
+    },
+    {
+      "name": "Agile",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 23
+    },
+    {
+      "name": "Data Pipelines",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 32
+    },
+    {
+      "name": "Computer Vision",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 34
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 10
+    },
+    {
+      "name": "BigQuery",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 7
+    },
+    {
+      "name": "Recommendation Systems",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 11
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 6
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 6
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 7
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 16
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 17
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 18
+    },
+    {
+      "name": "RAG",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 15
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 12
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 17
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 11
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 13
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2025
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 82.8,
+    "signup_date": "2022-09-07",
+    "last_active_date": "2026-04-30",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 72,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.68,
+    "avg_response_time_hours": 258.0,
+    "skill_assessment_scores": {},
+    "connection_count": 271,
+    "endorsements_received": 36,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 13.3,
+      "max": 10.6
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 4,
+    "saved_by_recruiters_30d": 3,
+    "interview_completion_rate": 0.43,
+    "offer_acceptance_rate": 0.73,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

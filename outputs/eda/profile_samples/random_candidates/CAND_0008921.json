@@ -1,0 +1,241 @@
+{
+  "candidate_id": "CAND_0008921",
+  "profile": {
+    "anonymized_name": "Sai Tiwari",
+    "headline": "Marketing Manager | Exploring AI & GenAI applications",
+    "summary": "Marketing Manager with 10.3+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Coimbatore, Tamil Nadu",
+    "country": "India",
+    "years_of_experience": 10.3,
+    "current_title": "Marketing Manager",
+    "current_company": "Initech",
+    "current_company_size": "51-200",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Initech",
+      "title": "Marketing Manager",
+      "start_date": "2024-09-04",
+      "end_date": null,
+      "duration_months": 21,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "Sales Executive",
+      "start_date": "2023-02-12",
+      "end_date": "2024-09-04",
+      "duration_months": 19,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Sales Executive",
+      "start_date": "2021-07-22",
+      "end_date": "2023-02-12",
+      "duration_months": 19,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Hooli",
+      "title": "Content Writer",
+      "start_date": "2017-05-14",
+      "end_date": "2021-07-22",
+      "duration_months": 51,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Graphic Designer",
+      "start_date": "2016-05-12",
+      "end_date": "2017-05-07",
+      "duration_months": 12,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tier-3 Engineering College",
+      "degree": "M.E.",
+      "field_of_study": "Electrical Engineering",
+      "start_year": 2011,
+      "end_year": 2014,
+      "grade": "7.66 CGPA",
+      "tier": "tier_4"
+    },
+    {
+      "institution": "VIT Chennai",
+      "degree": "M.S.",
+      "field_of_study": "Mechanical Engineering",
+      "start_year": 2014,
+      "end_year": 2019,
+      "grade": "67%",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "ETL",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 5
+    },
+    {
+      "name": "Reinforcement Learning",
+      "proficiency": "advanced",
+      "endorsements": 52,
+      "duration_months": 48
+    },
+    {
+      "name": "Sales",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 17
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 31
+    },
+    {
+      "name": "React",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 13
+    },
+    {
+      "name": "Scrum",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 4
+    },
+    {
+      "name": "Redux",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 22
+    },
+    {
+      "name": "Docker",
+      "proficiency": "beginner",
+      "endorsements": 5,
+      "duration_months": 16
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 29
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 17
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 20
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 15
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 15
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 5
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 4
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 8
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 18
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 5
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 72.8,
+    "signup_date": "2026-04-29",
+    "last_active_date": "2025-10-15",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 34,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.26,
+    "avg_response_time_hours": 176.1,
+    "skill_assessment_scores": {},
+    "connection_count": 116,
+    "endorsements_received": 34,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 9.1,
+      "max": 9.0
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 128,
+    "saved_by_recruiters_30d": 3,
+    "interview_completion_rate": 0.67,
+    "offer_acceptance_rate": 0.45,
+    "verified_email": false,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

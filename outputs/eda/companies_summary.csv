@@ -1,0 +1,137 @@
+section,item,count,share
+current_company,infosys,7590,0.0759
+current_company,wayne enterprises,7571,0.07571
+current_company,wipro,7566,0.07566
+current_company,initech,7528,0.07528
+current_company,pied piper,7500,0.075
+current_company,globex inc,7492,0.07492
+current_company,acme corp,7490,0.0749
+current_company,dunder mifflin,7467,0.07467
+current_company,tcs,7451,0.07451
+current_company,hooli,7378,0.07378
+current_company,stark industries,7323,0.07323
+current_company,swiggy,1288,0.01288
+current_company,accenture,1274,0.01274
+current_company,capgemini,1265,0.01265
+current_company,cred,1257,0.01257
+current_company,hcl,1250,0.0125
+current_company,razorpay,1246,0.01246
+current_company,zomato,1226,0.01226
+current_company,mindtree,1225,0.01225
+current_company,cognizant,1213,0.01213
+current_company,flipkart,1171,0.01171
+current_company,tech mahindra,1168,0.01168
+current_company,mphasis,1153,0.01153
+current_company,meesho,186,0.00186
+current_company,inmobi,172,0.00172
+current_company,nykaa,172,0.00172
+current_company,zoho,165,0.00165
+current_company,vedantu,163,0.00163
+current_company,freshworks,163,0.00163
+current_company,ola,161,0.00161
+current_company,paytm,161,0.00161
+current_company,byju s,157,0.00157
+current_company,upgrad,155,0.00155
+current_company,policybazaar,155,0.00155
+current_company,dream11,149,0.00149
+current_company,pharmeasy,147,0.00147
+current_company,phonepe,144,0.00144
+current_company,unacademy,135,0.00135
+current_company,genpact ai,42,0.00042
+current_company,sarvam ai,41,0.00041
+current_company,aganitha,37,0.00037
+current_company,rephrase.ai,37,0.00037
+current_company,niramai,36,0.00036
+current_company,glance,33,0.00033
+current_company,krutrim,32,0.00032
+current_company,wysa,32,0.00032
+current_company,haptik,32,0.00032
+current_company,saarthi.ai,31,0.00031
+current_company,verloop.io,30,0.0003
+current_company,mad street den,29,0.00029
+current_company,yellow.ai,25,0.00025
+current_company,locobuzz,23,0.00023
+current_company,observe.ai,21,0.00021
+current_company,meta,7,7e-05
+current_company,netflix,6,6e-05
+current_company,google,6,6e-05
+current_company,microsoft,5,5e-05
+current_company,amazon,5,5e-05
+current_company,linkedin,4,4e-05
+current_company,salesforce,4,4e-05
+current_company,apple,2,2e-05
+current_company,adobe,2,2e-05
+current_company,uber,1,1e-05
+historical_company,infosys,23722,0.07902828720962385
+historical_company,wipro,23682,0.07889502983299519
+historical_company,pied piper,23614,0.07866849229272647
+historical_company,initech,23590,0.07858853786674928
+historical_company,wayne enterprises,23556,0.07847526909661492
+historical_company,acme corp,23546,0.07844195475245777
+historical_company,stark industries,23524,0.07836866319531201
+historical_company,hooli,23509,0.07831869167907626
+historical_company,tcs,23483,0.07823207438426763
+historical_company,globex inc,23471,0.07819209717127903
+historical_company,dunder mifflin,23416,0.07800886827841463
+historical_company,swiggy,3019,0.010057600501047736
+historical_company,razorpay,2926,0.009747777100386113
+historical_company,cred,2908,0.009687811280903218
+historical_company,capgemini,2895,0.009644502633498905
+historical_company,hcl,2894,0.00964117119908319
+historical_company,zomato,2883,0.00960452542051031
+historical_company,flipkart,2882,0.009601193986094592
+historical_company,mindtree,2879,0.009591199682847443
+historical_company,accenture,2871,0.009564548207521712
+historical_company,cognizant,2863,0.009537896732195981
+historical_company,tech mahindra,2837,0.009451279437387355
+historical_company,mphasis,2822,0.009401307921151611
+historical_company,meesho,384,0.001279270815635088
+historical_company,nykaa,378,0.0012592822091407898
+historical_company,inmobi,376,0.001252619340309357
+historical_company,policybazaar,355,0.001182659217579313
+historical_company,byju s,355,0.001182659217579313
+historical_company,ola,353,0.0011759963487478803
+historical_company,zoho,352,0.001172664914332164
+historical_company,vedantu,350,0.0011660020455007312
+historical_company,paytm,343,0.0011426820045907166
+historical_company,unacademy,341,0.0011360191357592839
+historical_company,pharmeasy,339,0.0011293562669278511
+historical_company,upgrad,338,0.0011260248325121347
+historical_company,freshworks,338,0.0011260248325121347
+historical_company,phonepe,336,0.001119361963680702
+historical_company,dream11,329,0.0010960419227706874
+historical_company,genpact ai,81,0.0002698461876730264
+historical_company,glance,79,0.00026318331884159365
+historical_company,rephrase.ai,72,0.000239863277931579
+historical_company,aganitha,69,0.00022986897468442986
+historical_company,niramai,69,0.00022986897468442986
+historical_company,saarthi.ai,68,0.0002265375402687135
+historical_company,sarvam ai,67,0.00022320610585299712
+historical_company,mad street den,65,0.00021654323702156438
+historical_company,krutrim,64,0.000213211802605848
+historical_company,observe.ai,64,0.000213211802605848
+historical_company,wysa,63,0.0002098803681901316
+historical_company,verloop.io,62,0.00020654893377441524
+historical_company,haptik,62,0.00020654893377441524
+historical_company,yellow.ai,59,0.00019655463052726613
+historical_company,locobuzz,58,0.00019322319611154976
+historical_company,google,14,4.664008182002925e-05
+historical_company,amazon,13,4.330864740431288e-05
+historical_company,salesforce,13,4.330864740431288e-05
+historical_company,netflix,13,4.330864740431288e-05
+historical_company,uber,11,3.664577857288012e-05
+historical_company,meta,11,3.664577857288012e-05
+historical_company,microsoft,10,3.331434415716375e-05
+historical_company,adobe,10,3.331434415716375e-05
+historical_company,apple,8,2.6651475325731e-05
+historical_company,linkedin,7,2.3320040910014624e-05
+current_company_size,10001+,40464,0.40464
+current_company_size,1001-5000,18201,0.18201
+current_company_size,201-500,15096,0.15096
+current_company_size,51-200,7727,0.07727
+current_company_size,11-50,7568,0.07568
+current_company_size,501-1000,7525,0.07525
+current_company_size,5001-10000,3419,0.03419
+current_company_category,known_services_or_consulting,30002,0.30002
+current_company_category,uncategorized,64392,0.64392
+current_company_category,known_product,5606,0.05606

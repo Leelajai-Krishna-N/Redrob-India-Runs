@@ -1,0 +1,226 @@
+{
+  "candidate_id": "CAND_0000803",
+  "profile": {
+    "anonymized_name": "Sunil Desai",
+    "headline": "Marketing Manager | Exploring AI & GenAI applications",
+    "summary": "Marketing Manager with 6.7+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Delhi, Delhi",
+    "country": "India",
+    "years_of_experience": 6.7,
+    "current_title": "Marketing Manager",
+    "current_company": "Initech",
+    "current_company_size": "51-200",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Initech",
+      "title": "Marketing Manager",
+      "start_date": "2022-05-18",
+      "end_date": null,
+      "duration_months": 49,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Hooli",
+      "title": "Sales Executive",
+      "start_date": "2019-09-01",
+      "end_date": "2022-03-19",
+      "duration_months": 31,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tier-3 Engineering College",
+      "degree": "B.E.",
+      "field_of_study": "Chemical Engineering",
+      "start_year": 2014,
+      "end_year": 2017,
+      "grade": "8.51 CGPA",
+      "tier": "tier_4"
+    },
+    {
+      "institution": "Generic State University",
+      "degree": "M.Tech",
+      "field_of_study": "Chemical Engineering",
+      "start_year": 2002,
+      "end_year": 2006,
+      "grade": "7.47 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Excel",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 17
+    },
+    {
+      "name": "Next.js",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 32
+    },
+    {
+      "name": "Docker",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 11
+    },
+    {
+      "name": "GCP",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 12
+    },
+    {
+      "name": "Flask",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 17
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 11
+    },
+    {
+      "name": "MLflow",
+      "proficiency": "advanced",
+      "endorsements": 12,
+      "duration_months": 38
+    },
+    {
+      "name": "CSS",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 21
+    },
+    {
+      "name": "Tailwind",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 15
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 17
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 12
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 4
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 15
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 13
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 10
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 11
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 16
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 5
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 15
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 4
+    },
+    {
+      "name": "RAG",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 12
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 46.2,
+    "signup_date": "2025-03-27",
+    "last_active_date": "2026-05-18",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 1,
+    "applications_submitted_30d": 3,
+    "recruiter_response_rate": 0.49,
+    "avg_response_time_hours": 142.3,
+    "skill_assessment_scores": {},
+    "connection_count": 276,
+    "endorsements_received": 0,
+    "notice_period_days": 120,
+    "expected_salary_range_inr_lpa": {
+      "min": 12.1,
+      "max": 9.6
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 121,
+    "saved_by_recruiters_30d": 4,
+    "interview_completion_rate": 0.88,
+    "offer_acceptance_rate": 0.7,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": true
+  }
+}

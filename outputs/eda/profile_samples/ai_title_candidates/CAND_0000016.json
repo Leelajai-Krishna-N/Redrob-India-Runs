@@ -1,0 +1,150 @@
+{
+  "candidate_id": "CAND_0000016",
+  "profile": {
+    "anonymized_name": "Aanya Malhotra",
+    "headline": "Accountant | Helping teams scale",
+    "summary": "Professional with 5.3+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Gurgaon, Haryana",
+    "country": "India",
+    "years_of_experience": 5.3,
+    "current_title": "Accountant",
+    "current_company": "Infosys",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Infosys",
+      "title": "Accountant",
+      "start_date": "2024-12-03",
+      "end_date": null,
+      "duration_months": 18,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "TCS",
+      "title": "Mechanical Engineer",
+      "start_date": "2021-09-06",
+      "end_date": "2024-11-19",
+      "duration_months": 39,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Operations Manager",
+      "start_date": "2021-02-08",
+      "end_date": "2021-08-07",
+      "duration_months": 6,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Christ University",
+      "degree": "B.E.",
+      "field_of_study": "Electronics",
+      "start_year": 2001,
+      "end_year": 2006,
+      "grade": "8.32 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Node.js",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 11
+    },
+    {
+      "name": "Figma",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 6
+    },
+    {
+      "name": "Data Pipelines",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 7
+    },
+    {
+      "name": "Go",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 10
+    },
+    {
+      "name": "Photoshop",
+      "proficiency": "intermediate",
+      "endorsements": 10,
+      "duration_months": 22
+    },
+    {
+      "name": "Kubeflow",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 54
+    },
+    {
+      "name": "Accounting",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 31
+    },
+    {
+      "name": "SQL",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 16
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 69.4,
+    "signup_date": "2022-12-12",
+    "last_active_date": "2025-12-21",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 76,
+    "applications_submitted_30d": 5,
+    "recruiter_response_rate": 0.64,
+    "avg_response_time_hours": 205.6,
+    "skill_assessment_scores": {},
+    "connection_count": 148,
+    "endorsements_received": 2,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 6.1,
+      "max": 8.1
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": false,
+    "github_activity_score": 42.9,
+    "search_appearance_30d": 126,
+    "saved_by_recruiters_30d": 5,
+    "interview_completion_rate": 0.66,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": false,
+    "linkedin_connected": true
+  }
+}

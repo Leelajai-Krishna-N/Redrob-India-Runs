@@ -1,0 +1,156 @@
+{
+  "candidate_id": "CAND_0045038",
+  "profile": {
+    "anonymized_name": "Zara Malhotra",
+    "headline": "Business Analyst | Helping teams scale",
+    "summary": "Professional with 7.1+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Kolkata, West Bengal",
+    "country": "India",
+    "years_of_experience": 7.1,
+    "current_title": "Business Analyst",
+    "current_company": "Pied Piper",
+    "current_company_size": "11-50",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Pied Piper",
+      "title": "Business Analyst",
+      "start_date": "2024-03-08",
+      "end_date": null,
+      "duration_months": 27,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Operations Manager",
+      "start_date": "2020-03-15",
+      "end_date": "2024-02-23",
+      "duration_months": 48,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    },
+    {
+      "company": "Infosys",
+      "title": "Civil Engineer",
+      "start_date": "2019-06-05",
+      "end_date": "2020-03-01",
+      "duration_months": 9,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chandigarh University",
+      "degree": "M.Sc",
+      "field_of_study": "Statistics",
+      "start_year": 2014,
+      "end_year": 2018,
+      "grade": "6.97 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Microservices",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 32
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 35
+    },
+    {
+      "name": "BigQuery",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 23
+    },
+    {
+      "name": "Snowflake",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 12
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 9
+    },
+    {
+      "name": "Object Detection",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 28
+    },
+    {
+      "name": "Go",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 9
+    },
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 10
+    },
+    {
+      "name": "SQL",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 23
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 61.9,
+    "signup_date": "2024-03-03",
+    "last_active_date": "2025-11-27",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 4,
+    "applications_submitted_30d": 2,
+    "recruiter_response_rate": 0.47,
+    "avg_response_time_hours": 53.8,
+    "skill_assessment_scores": {},
+    "connection_count": 161,
+    "endorsements_received": 13,
+    "notice_period_days": 150,
+    "expected_salary_range_inr_lpa": {
+      "min": 6.1,
+      "max": 26.7
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 50,
+    "saved_by_recruiters_30d": 6,
+    "interview_completion_rate": 0.32,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

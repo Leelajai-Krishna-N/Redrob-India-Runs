@@ -1,0 +1,167 @@
+{
+  "candidate_id": "CAND_0000059",
+  "profile": {
+    "anonymized_name": "Suresh Mishra",
+    "headline": "Frontend Engineer | Full-stack development",
+    "summary": "Software engineer with 1.5 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. I've spent most of my career on web and API development — Python/Django and Node.js mostly. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Noida, Uttar Pradesh",
+    "country": "India",
+    "years_of_experience": 1.5,
+    "current_title": "Frontend Engineer",
+    "current_company": "TCS",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "TCS",
+      "title": "Frontend Engineer",
+      "start_date": "2024-12-03",
+      "end_date": null,
+      "duration_months": 18,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Cloud infrastructure and DevOps work at an enterprise SaaS company. Owned the AWS account architecture (VPC, IAM, networking), the Terraform modules for our service deployments, and the Kubernetes cluster operations. Designed the CI/CD pipelines (GitLab CI + ArgoCD) and the monitoring stack (Prometheus, Grafana, Loki). Strong on the infra and ops side; haven't done much application development."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Regional Technical Institute",
+      "degree": "B.E.",
+      "field_of_study": "MBA",
+      "start_year": 2010,
+      "end_year": 2014,
+      "grade": "86%",
+      "tier": "tier_4"
+    },
+    {
+      "institution": "Bharati Vidyapeeth",
+      "degree": "M.Sc",
+      "field_of_study": "Commerce",
+      "start_year": 2010,
+      "end_year": 2014,
+      "grade": "8.46 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Six Sigma",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 15
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 16
+    },
+    {
+      "name": "GANs",
+      "proficiency": "advanced",
+      "endorsements": 47,
+      "duration_months": 26
+    },
+    {
+      "name": "Azure",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 18
+    },
+    {
+      "name": "Statistical Modeling",
+      "proficiency": "advanced",
+      "endorsements": 27,
+      "duration_months": 23
+    },
+    {
+      "name": "HTML",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 26
+    },
+    {
+      "name": "Rust",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 36
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 5
+    },
+    {
+      "name": "Agile",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 14
+    },
+    {
+      "name": "CNN",
+      "proficiency": "advanced",
+      "endorsements": 36,
+      "duration_months": 35
+    },
+    {
+      "name": "Sales",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 15
+    },
+    {
+      "name": "Terraform",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 24
+    },
+    {
+      "name": "CSS",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 10
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 66.3,
+    "signup_date": "2023-05-28",
+    "last_active_date": "2026-04-05",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 74,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.16,
+    "avg_response_time_hours": 207.4,
+    "skill_assessment_scores": {},
+    "connection_count": 199,
+    "endorsements_received": 23,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 17.6,
+      "max": 29.3
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 177,
+    "saved_by_recruiters_30d": 7,
+    "interview_completion_rate": 0.49,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "candidate_id": "CAND_0045352",
+  "profile": {
+    "anonymized_name": "Kiara Krishnan",
+    "headline": "Civil Engineer | Helping teams scale",
+    "summary": "Professional with 15.0+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Sydney",
+    "country": "Australia",
+    "years_of_experience": 15.0,
+    "current_title": "Civil Engineer",
+    "current_company": "Pied Piper",
+    "current_company_size": "11-50",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Pied Piper",
+      "title": "Civil Engineer",
+      "start_date": "2023-04-13",
+      "end_date": null,
+      "duration_months": 38,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "TCS",
+      "title": "Project Manager",
+      "start_date": "2019-02-03",
+      "end_date": "2023-02-12",
+      "duration_months": 49,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "HR Manager",
+      "start_date": "2017-08-12",
+      "end_date": "2019-02-03",
+      "duration_months": 18,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Content Writer",
+      "start_date": "2016-08-03",
+      "end_date": "2017-07-29",
+      "duration_months": 12,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Business Analyst",
+      "start_date": "2015-01-11",
+      "end_date": "2016-08-03",
+      "duration_months": 19,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Mechanical Engineer",
+      "start_date": "2012-09-16",
+      "end_date": "2015-01-04",
+      "duration_months": 28,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "TCS",
+      "title": "Civil Engineer",
+      "start_date": "2011-07-17",
+      "end_date": "2012-09-09",
+      "duration_months": 14,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    }
+  ],
+  "education": [
+    {
+      "institution": "SRM Chennai",
+      "degree": "B.E.",
+      "field_of_study": "Machine Learning",
+      "start_year": 2000,
+      "end_year": 2005,
+      "grade": "74%",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "gRPC",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 32
+    },
+    {
+      "name": "Snowflake",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 16
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "beginner",
+      "endorsements": 11,
+      "duration_months": 17
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 30
+    },
+    {
+      "name": "Data Pipelines",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 2
+    },
+    {
+      "name": "Django",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 2
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 73.9,
+    "signup_date": "2024-01-23",
+    "last_active_date": "2026-05-10",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 26,
+    "applications_submitted_30d": 7,
+    "recruiter_response_rate": 0.06,
+    "avg_response_time_hours": 69.8,
+    "skill_assessment_scores": {},
+    "connection_count": 217,
+    "endorsements_received": 5,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 6.6,
+      "max": 21.9
+    },
+    "preferred_work_mode": "remote",
+    "willing_to_relocate": false,
+    "github_activity_score": 30.0,
+    "search_appearance_30d": 75,
+    "saved_by_recruiters_30d": 1,
+    "interview_completion_rate": 0.58,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

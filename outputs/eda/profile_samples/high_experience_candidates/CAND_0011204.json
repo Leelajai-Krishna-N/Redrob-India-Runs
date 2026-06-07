@@ -1,0 +1,154 @@
+{
+  "candidate_id": "CAND_0011204",
+  "profile": {
+    "anonymized_name": "Tanvi Mukherjee",
+    "headline": "Business Analyst | Helping teams scale",
+    "summary": "Professional with 15.0+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Vizag, Andhra Pradesh",
+    "country": "India",
+    "years_of_experience": 15.0,
+    "current_title": "Business Analyst",
+    "current_company": "Wipro",
+    "current_company_size": "10001+",
+    "current_industry": "IT Services"
+  },
+  "career_history": [
+    {
+      "company": "Wipro",
+      "title": "Business Analyst",
+      "start_date": "2022-08-16",
+      "end_date": null,
+      "duration_months": 46,
+      "is_current": true,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Acme Corp",
+      "title": "Customer Support",
+      "start_date": "2019-07-03",
+      "end_date": "2022-07-17",
+      "duration_months": 37,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "201-500",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Marketing Manager",
+      "start_date": "2016-10-09",
+      "end_date": "2019-06-26",
+      "duration_months": 33,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Hooli",
+      "title": "Customer Support",
+      "start_date": "2014-06-22",
+      "end_date": "2016-10-09",
+      "duration_months": 28,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "HR Manager",
+      "start_date": "2011-09-29",
+      "end_date": "2014-06-15",
+      "duration_months": 33,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Thapar University",
+      "degree": "M.S.",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2016,
+      "end_year": 2021,
+      "grade": "7.50 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Databricks",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 8
+    },
+    {
+      "name": "Agile",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 4
+    },
+    {
+      "name": "ETL",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 13
+    },
+    {
+      "name": "Angular",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 20
+    },
+    {
+      "name": "dbt",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 4
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 73.1,
+    "signup_date": "2023-10-30",
+    "last_active_date": "2025-12-10",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 52,
+    "applications_submitted_30d": 6,
+    "recruiter_response_rate": 0.39,
+    "avg_response_time_hours": 84.5,
+    "skill_assessment_scores": {},
+    "connection_count": 594,
+    "endorsements_received": 22,
+    "notice_period_days": 150,
+    "expected_salary_range_inr_lpa": {
+      "min": 6.0,
+      "max": 24.5
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 176,
+    "saved_by_recruiters_30d": 5,
+    "interview_completion_rate": 0.65,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "candidate_id": "CAND_0069708",
+  "profile": {
+    "anonymized_name": "Yash Agarwal",
+    "headline": "HR Manager | Driving business outcomes",
+    "summary": "Professional with 8.7+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Chennai, Tamil Nadu",
+    "country": "India",
+    "years_of_experience": 8.7,
+    "current_title": "HR Manager",
+    "current_company": "Pied Piper",
+    "current_company_size": "11-50",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Pied Piper",
+      "title": "HR Manager",
+      "start_date": "2024-05-07",
+      "end_date": null,
+      "duration_months": 25,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Sales Executive",
+      "start_date": "2020-11-24",
+      "end_date": "2024-05-07",
+      "duration_months": 42,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "HR Manager",
+      "start_date": "2017-11-10",
+      "end_date": "2020-11-24",
+      "duration_months": 37,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    }
+  ],
+  "education": [
+    {
+      "institution": "SRM University",
+      "degree": "M.E.",
+      "field_of_study": "Mathematics",
+      "start_year": 2002,
+      "end_year": 2006,
+      "grade": "8.67 CGPA",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "GANs",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 26
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "beginner",
+      "endorsements": 2,
+      "duration_months": 18
+    },
+    {
+      "name": "Tailwind",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 28
+    },
+    {
+      "name": "Accounting",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 6
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 9
+    },
+    {
+      "name": "Marketing",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 19
+    },
+    {
+      "name": "Content Writing",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 27
+    },
+    {
+      "name": "Illustrator",
+      "proficiency": "intermediate",
+      "endorsements": 5,
+      "duration_months": 33
+    },
+    {
+      "name": "Angular",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 26
+    },
+    {
+      "name": "Apache Beam",
+      "proficiency": "beginner",
+      "endorsements": 6,
+      "duration_months": 7
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "professional"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 62.7,
+    "signup_date": "2023-03-16",
+    "last_active_date": "2026-04-18",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 31,
+    "applications_submitted_30d": 10,
+    "recruiter_response_rate": 0.35,
+    "avg_response_time_hours": 139.4,
+    "skill_assessment_scores": {},
+    "connection_count": 347,
+    "endorsements_received": 41,
+    "notice_period_days": 150,
+    "expected_salary_range_inr_lpa": {
+      "min": 9.8,
+      "max": 25.3
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 138,
+    "saved_by_recruiters_30d": 12,
+    "interview_completion_rate": 0.39,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

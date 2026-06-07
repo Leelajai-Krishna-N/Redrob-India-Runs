@@ -1,0 +1,438 @@
+section,item,count,share
+skill_frequency,html,12246,0.12246
+skill_frequency,databricks,12244,0.12244
+skill_frequency,redux,12222,0.12222
+skill_frequency,terraform,12187,0.12187
+skill_frequency,angular,12173,0.12173
+skill_frequency,salesforce crm,12157,0.12157
+skill_frequency,figma,12157,0.12157
+skill_frequency,vue.js,12142,0.12142
+skill_frequency,sales,12138,0.12138
+skill_frequency,accounting,12136,0.12136
+skill_frequency,agile,12135,0.12135
+skill_frequency,kafka,12114,0.12114
+skill_frequency,excel,12109,0.12109
+skill_frequency,bigquery,12108,0.12108
+skill_frequency,ci/cd,12108,0.12108
+skill_frequency,project management,12106,0.12106
+skill_frequency,airflow,12105,0.12105
+skill_frequency,flask,12104,0.12104
+skill_frequency,aws,12104,0.12104
+skill_frequency,scrum,12083,0.12083
+skill_frequency,illustrator,12072,0.12072
+skill_frequency,kubernetes,12071,0.12071
+skill_frequency,etl,12068,0.12068
+skill_frequency,css,12065,0.12065
+skill_frequency,docker,12062,0.12062
+skill_frequency,next.js,12058,0.12058
+skill_frequency,apache beam,12054,0.12054
+skill_frequency,go,12049,0.12049
+skill_frequency,java,12049,0.12049
+skill_frequency,typescript,12048,0.12048
+skill_frequency,javascript,12047,0.12047
+skill_frequency,dbt,12046,0.12046
+skill_frequency,rest apis,12040,0.1204
+skill_frequency,spark,12038,0.12038
+skill_frequency,marketing,12037,0.12037
+skill_frequency,tally,12030,0.1203
+skill_frequency,graphql,12027,0.12027
+skill_frequency,snowflake,12027,0.12027
+skill_frequency,webpack,12026,0.12026
+skill_frequency,six sigma,11991,0.11991
+skill_frequency,seo,11990,0.1199
+skill_frequency,sap,11989,0.11989
+skill_frequency,postgresql,11983,0.11983
+skill_frequency,gcp,11983,0.11983
+skill_frequency,rust,11960,0.1196
+skill_frequency,apache flink,11958,0.11958
+skill_frequency,grpc,11957,0.11957
+skill_frequency,content writing,11948,0.11948
+skill_frequency,sql,11935,0.11935
+skill_frequency,hadoop,11931,0.11931
+skill_frequency,redis,11928,0.11928
+skill_frequency,tailwind,11917,0.11917
+skill_frequency,fastapi,11917,0.11917
+skill_frequency,photoshop,11917,0.11917
+skill_frequency,microservices,11909,0.11909
+skill_frequency,powerpoint,11908,0.11908
+skill_frequency,spring boot,11906,0.11906
+skill_frequency,data pipelines,11905,0.11905
+skill_frequency,django,11899,0.11899
+skill_frequency,mongodb,11841,0.11841
+skill_frequency,node.js,11838,0.11838
+skill_frequency,azure,11828,0.11828
+skill_frequency,react,11811,0.11811
+skill_frequency,hugging face transformers,5163,0.05163
+skill_frequency,langchain,5162,0.05162
+skill_frequency,information retrieval,5135,0.05135
+skill_frequency,llms,5094,0.05094
+skill_frequency,recommendation systems,5091,0.05091
+skill_frequency,semantic search,5087,0.05087
+skill_frequency,sentence transformers,5081,0.05081
+skill_frequency,embeddings,5080,0.0508
+skill_frequency,vector search,5065,0.05065
+skill_frequency,prompt engineering,5062,0.05062
+skill_frequency,pinecone,5062,0.05062
+skill_frequency,faiss,5052,0.05052
+skill_frequency,rag,4995,0.04995
+skill_frequency,fine-tuning llms,4920,0.0492
+skill_frequency,yolo,4827,0.04827
+skill_frequency,gans,4815,0.04815
+skill_frequency,feature engineering,4809,0.04809
+skill_frequency,opencv,4803,0.04803
+skill_frequency,asr,4788,0.04788
+skill_frequency,image classification,4761,0.04761
+skill_frequency,computer vision,4755,0.04755
+skill_frequency,speech recognition,4744,0.04744
+skill_frequency,cnn,4740,0.0474
+skill_frequency,kubeflow,4730,0.0473
+skill_frequency,mlops,4727,0.04727
+skill_frequency,bentoml,4726,0.04726
+skill_frequency,data science,4708,0.04708
+skill_frequency,reinforcement learning,4708,0.04708
+skill_frequency,object detection,4705,0.04705
+skill_frequency,diffusion models,4701,0.04701
+skill_frequency,mlflow,4691,0.04691
+skill_frequency,time series,4686,0.04686
+skill_frequency,weights biases,4685,0.04685
+skill_frequency,forecasting,4676,0.04676
+skill_frequency,tts,4669,0.04669
+skill_frequency,statistical modeling,4634,0.04634
+skill_frequency,qlora,1401,0.01401
+skill_frequency,pgvector,1394,0.01394
+skill_frequency,weaviate,1389,0.01389
+skill_frequency,milvus,1384,0.01384
+skill_frequency,learning to rank,1383,0.01383
+skill_frequency,bm25,1382,0.01382
+skill_frequency,tensorflow,1381,0.01381
+skill_frequency,qdrant,1379,0.01379
+skill_frequency,pytorch,1378,0.01378
+skill_frequency,python,1378,0.01378
+skill_frequency,peft,1377,0.01377
+skill_frequency,lora,1371,0.01371
+skill_frequency,nlp,1358,0.01358
+skill_frequency,machine learning,1349,0.01349
+skill_frequency,deep learning,1342,0.01342
+skill_frequency,haystack,1333,0.01333
+skill_frequency,elasticsearch,1311,0.01311
+skill_frequency,llamaindex,1308,0.01308
+skill_frequency,scikit-learn,1288,0.01288
+skill_frequency,opensearch,1286,0.01286
+skill_frequency,information retrieval systems,7,7e-05
+skill_frequency,search backend,5,5e-05
+skill_frequency,text encoders,5,5e-05
+skill_frequency,content matching,4,4e-05
+skill_frequency,model adaptation,4,4e-05
+skill_frequency,vector representations,4,4e-05
+skill_frequency,ranking systems,4,4e-05
+skill_frequency,search discovery,4,4e-05
+skill_frequency,search infrastructure,3,3e-05
+skill_frequency,workflow orchestration,3,3e-05
+skill_frequency,open-source ml libraries,3,3e-05
+skill_frequency,indexing algorithms,3,3e-05
+skill_frequency,natural language processing,2,2e-05
+skill_frequency,document processing,1,1e-05
+proficiency,intermediate,470309,0.48975114078696075
+proficiency,beginner,379097,0.39476852073618507
+proficiency,advanced,109585,0.11411514294461533
+proficiency,expert,1311,0.0013651955322388166
+skill_pair,information retrieval | semantic search,2662,0.02662
+skill_pair,hugging face transformers | llms,2659,0.02659
+skill_pair,information retrieval | llms,2659,0.02659
+skill_pair,langchain | prompt engineering,2657,0.02657
+skill_pair,langchain | sentence transformers,2655,0.02655
+skill_pair,hugging face transformers | vector search,2653,0.02653
+skill_pair,semantic search | vector search,2651,0.02651
+skill_pair,langchain | semantic search,2641,0.02641
+skill_pair,langchain | pinecone,2640,0.0264
+skill_pair,faiss | llms,2640,0.0264
+skill_pair,hugging face transformers | semantic search,2640,0.0264
+skill_pair,llms | sentence transformers,2638,0.02638
+skill_pair,hugging face transformers | langchain,2638,0.02638
+skill_pair,faiss | langchain,2636,0.02636
+skill_pair,llms | vector search,2633,0.02633
+skill_pair,information retrieval | langchain,2633,0.02633
+skill_pair,semantic search | sentence transformers,2633,0.02633
+skill_pair,langchain | vector search,2631,0.02631
+skill_pair,embeddings | hugging face transformers,2630,0.0263
+skill_pair,embeddings | information retrieval,2630,0.0263
+skill_pair,langchain | rag,2629,0.02629
+skill_pair,langchain | recommendation systems,2628,0.02628
+skill_pair,information retrieval | sentence transformers,2625,0.02625
+skill_pair,pinecone | prompt engineering,2623,0.02623
+skill_pair,hugging face transformers | information retrieval,2622,0.02622
+skill_pair,embeddings | langchain,2620,0.0262
+skill_pair,hugging face transformers | rag,2619,0.02619
+skill_pair,llms | semantic search,2619,0.02619
+skill_pair,recommendation systems | semantic search,2618,0.02618
+skill_pair,pinecone | semantic search,2617,0.02617
+skill_pair,embeddings | semantic search,2616,0.02616
+skill_pair,hugging face transformers | sentence transformers,2615,0.02615
+skill_pair,pinecone | sentence transformers,2614,0.02614
+skill_pair,embeddings | llms,2612,0.02612
+skill_pair,embeddings | sentence transformers,2610,0.0261
+skill_pair,hugging face transformers | pinecone,2609,0.02609
+skill_pair,prompt engineering | recommendation systems,2608,0.02608
+skill_pair,information retrieval | pinecone,2608,0.02608
+skill_pair,embeddings | pinecone,2607,0.02607
+skill_pair,langchain | llms,2607,0.02607
+skill_pair,llms | prompt engineering,2607,0.02607
+skill_pair,faiss | prompt engineering,2605,0.02605
+skill_pair,llms | rag,2605,0.02605
+skill_pair,llms | recommendation systems,2605,0.02605
+skill_pair,information retrieval | recommendation systems,2604,0.02604
+skill_pair,llms | pinecone,2604,0.02604
+skill_pair,embeddings | vector search,2603,0.02603
+skill_pair,recommendation systems | vector search,2603,0.02603
+skill_pair,prompt engineering | semantic search,2603,0.02603
+skill_pair,embeddings | faiss,2602,0.02602
+skill_pair,sentence transformers | vector search,2602,0.02602
+skill_pair,recommendation systems | sentence transformers,2601,0.02601
+skill_pair,information retrieval | vector search,2600,0.026
+skill_pair,hugging face transformers | prompt engineering,2597,0.02597
+skill_pair,pinecone | recommendation systems,2596,0.02596
+skill_pair,faiss | vector search,2595,0.02595
+skill_pair,faiss | information retrieval,2595,0.02595
+skill_pair,hugging face transformers | recommendation systems,2594,0.02594
+skill_pair,fine-tuning llms | hugging face transformers,2592,0.02592
+skill_pair,faiss | hugging face transformers,2590,0.0259
+skill_pair,fine-tuning llms | langchain,2588,0.02588
+skill_pair,prompt engineering | sentence transformers,2587,0.02587
+skill_pair,prompt engineering | rag,2586,0.02586
+skill_pair,information retrieval | prompt engineering,2584,0.02584
+skill_pair,rag | semantic search,2583,0.02583
+skill_pair,faiss | pinecone,2578,0.02578
+skill_pair,information retrieval | rag,2578,0.02578
+skill_pair,prompt engineering | vector search,2577,0.02577
+skill_pair,pinecone | vector search,2576,0.02576
+skill_pair,rag | vector search,2576,0.02576
+skill_pair,faiss | rag,2573,0.02573
+skill_pair,embeddings | recommendation systems,2572,0.02572
+skill_pair,faiss | semantic search,2572,0.02572
+skill_pair,faiss | recommendation systems,2570,0.0257
+skill_pair,embeddings | rag,2568,0.02568
+skill_pair,fine-tuning llms | information retrieval,2568,0.02568
+skill_pair,fine-tuning llms | semantic search,2566,0.02566
+skill_pair,fine-tuning llms | pinecone,2564,0.02564
+skill_pair,fine-tuning llms | prompt engineering,2560,0.0256
+skill_pair,fine-tuning llms | llms,2559,0.02559
+skill_pair,faiss | sentence transformers,2557,0.02557
+skill_pair,embeddings | prompt engineering,2553,0.02553
+skill_pair,fine-tuning llms | vector search,2553,0.02553
+skill_pair,pinecone | rag,2553,0.02553
+skill_pair,rag | recommendation systems,2552,0.02552
+skill_pair,fine-tuning llms | sentence transformers,2550,0.0255
+skill_pair,embeddings | fine-tuning llms,2548,0.02548
+skill_pair,faiss | fine-tuning llms,2546,0.02546
+skill_pair,fine-tuning llms | recommendation systems,2545,0.02545
+skill_pair,fine-tuning llms | rag,2536,0.02536
+skill_pair,rag | sentence transformers,2534,0.02534
+skill_pair,angular | css,1498,0.01498
+skill_pair,scrum | snowflake,1495,0.01495
+skill_pair,illustrator | terraform,1491,0.01491
+skill_pair,kafka | project management,1487,0.01487
+skill_pair,kafka | terraform,1487,0.01487
+skill_pair,databricks | figma,1485,0.01485
+skill_pair,angular | grpc,1483,0.01483
+skill_pair,ci/cd | redux,1481,0.01481
+skill_pair,ci/cd | figma,1480,0.0148
+skill_pair,salesforce crm | spring boot,1480,0.0148
+skill_pair,css | terraform,1479,0.01479
+skill_pair,etl | excel,1479,0.01479
+skill_pair,django | sap,1479,0.01479
+skill_pair,html | terraform,1478,0.01478
+skill_pair,databricks | redux,1477,0.01477
+skill_pair,angular | next.js,1476,0.01476
+skill_pair,agile | hadoop,1476,0.01476
+skill_pair,java | kubernetes,1475,0.01475
+skill_pair,databricks | salesforce crm,1475,0.01475
+skill_pair,html | redux,1474,0.01474
+skill_pair,redux | scrum,1473,0.01473
+skill_pair,illustrator | spark,1472,0.01472
+skill_pair,project management | webpack,1472,0.01472
+skill_pair,aws | dbt,1470,0.0147
+skill_pair,aws | go,1470,0.0147
+skill_pair,accounting | salesforce crm,1469,0.01469
+skill_pair,docker | html,1469,0.01469
+skill_pair,figma | salesforce crm,1468,0.01468
+skill_pair,accounting | etl,1467,0.01467
+skill_pair,excel | snowflake,1467,0.01467
+skill_pair,agile | postgresql,1467,0.01467
+skill_pair,css | kafka,1467,0.01467
+skill_pair,html | marketing,1466,0.01466
+skill_pair,apache beam | ci/cd,1464,0.01464
+skill_pair,bigquery | sap,1463,0.01463
+skill_pair,gcp | redis,1463,0.01463
+skill_pair,accounting | gcp,1463,0.01463
+skill_pair,databricks | rust,1463,0.01463
+skill_pair,docker | rest apis,1462,0.01462
+skill_pair,html | sap,1461,0.01461
+skill_pair,accounting | java,1460,0.0146
+skill_pair,databricks | kafka,1460,0.0146
+skill_pair,graphql | webpack,1459,0.01459
+skill_pair,excel | kubernetes,1456,0.01456
+skill_pair,etl | mongodb,1456,0.01456
+skill_pair,bigquery | webpack,1456,0.01456
+skill_pair,illustrator | sales,1455,0.01455
+skill_pair,etl | salesforce crm,1455,0.01455
+skill_pair,ci/cd | databricks,1455,0.01455
+skill_pair,html | sales,1455,0.01455
+skill_pair,postgresql | spark,1455,0.01455
+skill_pair,html | powerpoint,1455,0.01455
+skill_pair,apache beam | sales,1454,0.01454
+skill_pair,etl | kubernetes,1454,0.01454
+skill_pair,etl | gcp,1454,0.01454
+skill_pair,airflow | figma,1453,0.01453
+skill_pair,databricks | rest apis,1453,0.01453
+skill_pair,aws | next.js,1453,0.01453
+skill_pair,angular | six sigma,1453,0.01453
+skill_pair,databricks | spark,1453,0.01453
+skill_pair,agile | azure,1452,0.01452
+skill_pair,content writing | figma,1452,0.01452
+skill_pair,flask | html,1452,0.01452
+skill_pair,graphql | terraform,1452,0.01452
+skill_pair,excel | vue.js,1452,0.01452
+skill_pair,kafka | rust,1452,0.01452
+skill_pair,flask | sql,1452,0.01452
+skill_pair,angular | apache flink,1452,0.01452
+skill_pair,angular | salesforce crm,1452,0.01452
+skill_pair,bigquery | docker,1451,0.01451
+skill_pair,css | excel,1451,0.01451
+skill_pair,kafka | scrum,1451,0.01451
+skill_pair,java | vue.js,1451,0.01451
+skill_pair,agile | terraform,1450,0.0145
+skill_pair,flask | javascript,1450,0.0145
+skill_pair,docker | six sigma,1450,0.0145
+skill_pair,gcp | terraform,1450,0.0145
+skill_pair,html | java,1449,0.01449
+skill_pair,ci/cd | node.js,1449,0.01449
+skill_pair,airflow | go,1449,0.01449
+skill_pair,figma | flask,1449,0.01449
+skill_pair,databricks | vue.js,1449,0.01449
+skill_pair,apache flink | kubernetes,1449,0.01449
+skill_pair,java | salesforce crm,1449,0.01449
+skill_pair,django | terraform,1448,0.01448
+skill_pair,ci/cd | scrum,1448,0.01448
+skill_pair,go | webpack,1448,0.01448
+skill_pair,rust | scrum,1448,0.01448
+skill_pair,kubernetes | terraform,1448,0.01448
+skill_pair,grpc | powerpoint,1447,0.01447
+skill_pair,databricks | flask,1447,0.01447
+skill_pair,figma | redux,1447,0.01447
+skill_pair,salesforce crm | vue.js,1447,0.01447
+skill_pair,graphql | spark,1447,0.01447
+skill_pair,photoshop | redux,1447,0.01447
+skill_pair,angular | docker,1446,0.01446
+skill_pair,ci/cd | hadoop,1446,0.01446
+skill_pair,aws | spark,1446,0.01446
+skill_pair,bigquery | flask,1446,0.01446
+skill_pair,salesforce crm | seo,1446,0.01446
+skill_pair,marketing | project management,1445,0.01445
+skill_pair,redux | six sigma,1445,0.01445
+skill_pair,accounting | redux,1445,0.01445
+skill_pair,excel | kafka,1445,0.01445
+skill_pair,six sigma | typescript,1445,0.01445
+skill_pair,databricks | graphql,1445,0.01445
+skill_pair,airflow | aws,1444,0.01444
+skill_pair,docker | java,1444,0.01444
+skill_pair,databricks | hadoop,1444,0.01444
+skill_triplet,hugging face transformers | llms | vector search,1781,0.01781
+skill_triplet,hugging face transformers | semantic search | vector search,1780,0.0178
+skill_triplet,langchain | pinecone | prompt engineering,1779,0.01779
+skill_triplet,langchain | recommendation systems | sentence transformers,1774,0.01774
+skill_triplet,information retrieval | llms | sentence transformers,1770,0.0177
+skill_triplet,embeddings | hugging face transformers | llms,1768,0.01768
+skill_triplet,langchain | semantic search | sentence transformers,1768,0.01768
+skill_triplet,faiss | information retrieval | llms,1764,0.01764
+skill_triplet,information retrieval | llms | vector search,1764,0.01764
+skill_triplet,langchain | pinecone | sentence transformers,1763,0.01763
+skill_triplet,langchain | pinecone | recommendation systems,1762,0.01762
+skill_triplet,langchain | prompt engineering | recommendation systems,1762,0.01762
+skill_triplet,information retrieval | llms | semantic search,1762,0.01762
+skill_triplet,information retrieval | langchain | semantic search,1758,0.01758
+skill_triplet,hugging face transformers | llms | sentence transformers,1757,0.01757
+skill_triplet,hugging face transformers | llms | semantic search,1757,0.01757
+skill_triplet,llms | semantic search | vector search,1757,0.01757
+skill_triplet,faiss | hugging face transformers | llms,1756,0.01756
+skill_triplet,langchain | semantic search | vector search,1756,0.01756
+skill_triplet,pinecone | prompt engineering | recommendation systems,1755,0.01755
+skill_triplet,langchain | prompt engineering | rag,1755,0.01755
+skill_triplet,embeddings | information retrieval | llms,1754,0.01754
+skill_triplet,hugging face transformers | llms | rag,1754,0.01754
+skill_triplet,llms | sentence transformers | vector search,1754,0.01754
+skill_triplet,information retrieval | semantic search | sentence transformers,1753,0.01753
+skill_triplet,embeddings | langchain | sentence transformers,1753,0.01753
+skill_triplet,langchain | llms | sentence transformers,1753,0.01753
+skill_triplet,information retrieval | semantic search | vector search,1752,0.01752
+skill_triplet,langchain | recommendation systems | semantic search,1752,0.01752
+skill_triplet,information retrieval | langchain | sentence transformers,1752,0.01752
+skill_triplet,langchain | prompt engineering | semantic search,1752,0.01752
+skill_triplet,pinecone | recommendation systems | sentence transformers,1751,0.01751
+skill_triplet,hugging face transformers | pinecone | semantic search,1751,0.01751
+skill_triplet,hugging face transformers | information retrieval | semantic search,1750,0.0175
+skill_triplet,langchain | prompt engineering | sentence transformers,1750,0.0175
+skill_triplet,hugging face transformers | pinecone | sentence transformers,1749,0.01749
+skill_triplet,hugging face transformers | llms | pinecone,1749,0.01749
+skill_triplet,information retrieval | pinecone | semantic search,1749,0.01749
+skill_triplet,information retrieval | pinecone | sentence transformers,1747,0.01747
+skill_triplet,hugging face transformers | information retrieval | llms,1746,0.01746
+skill_triplet,hugging face transformers | langchain | sentence transformers,1746,0.01746
+skill_triplet,faiss | langchain | recommendation systems,1745,0.01745
+skill_triplet,hugging face transformers | langchain | pinecone,1745,0.01745
+skill_triplet,hugging face transformers | langchain | prompt engineering,1745,0.01745
+skill_triplet,embeddings | hugging face transformers | pinecone,1744,0.01744
+skill_triplet,hugging face transformers | langchain | semantic search,1744,0.01744
+skill_triplet,semantic search | sentence transformers | vector search,1744,0.01744
+skill_triplet,embeddings | hugging face transformers | sentence transformers,1743,0.01743
+skill_triplet,embeddings | faiss | llms,1743,0.01743
+skill_triplet,llms | recommendation systems | sentence transformers,1743,0.01743
+skill_triplet,information retrieval | langchain | llms,1743,0.01743
+skill_triplet,hugging face transformers | langchain | llms,1742,0.01742
+skill_triplet,embeddings | hugging face transformers | vector search,1741,0.01741
+skill_triplet,hugging face transformers | sentence transformers | vector search,1741,0.01741
+skill_triplet,information retrieval | llms | recommendation systems,1741,0.01741
+skill_triplet,hugging face transformers | semantic search | sentence transformers,1741,0.01741
+skill_triplet,embeddings | langchain | pinecone,1740,0.0174
+skill_triplet,pinecone | semantic search | sentence transformers,1740,0.0174
+skill_triplet,embeddings | semantic search | sentence transformers,1740,0.0174
+skill_triplet,faiss | langchain | vector search,1739,0.01739
+skill_triplet,langchain | prompt engineering | vector search,1739,0.01739
+skill_triplet,faiss | langchain | llms,1739,0.01739
+skill_triplet,langchain | pinecone | semantic search,1739,0.01739
+skill_triplet,embeddings | faiss | information retrieval,1738,0.01738
+skill_triplet,embeddings | pinecone | sentence transformers,1738,0.01738
+skill_triplet,information retrieval | recommendation systems | sentence transformers,1738,0.01738
+skill_triplet,langchain | recommendation systems | vector search,1737,0.01737
+skill_triplet,faiss | llms | pinecone,1737,0.01737
+skill_triplet,hugging face transformers | pinecone | vector search,1737,0.01737
+skill_triplet,hugging face transformers | pinecone | prompt engineering,1737,0.01737
+skill_triplet,llms | semantic search | sentence transformers,1737,0.01737
+skill_triplet,embeddings | hugging face transformers | semantic search,1737,0.01737
+skill_triplet,hugging face transformers | information retrieval | vector search,1736,0.01736
+skill_triplet,hugging face transformers | langchain | rag,1736,0.01736
+skill_triplet,langchain | sentence transformers | vector search,1736,0.01736
+skill_triplet,faiss | hugging face transformers | vector search,1735,0.01735
+skill_triplet,faiss | llms | vector search,1735,0.01735
+skill_triplet,information retrieval | langchain | recommendation systems,1735,0.01735
+skill_triplet,pinecone | prompt engineering | sentence transformers,1735,0.01735
+skill_triplet,recommendation systems | semantic search | sentence transformers,1735,0.01735
+skill_triplet,information retrieval | recommendation systems | semantic search,1734,0.01734
+skill_triplet,embeddings | information retrieval | langchain,1734,0.01734
+skill_triplet,embeddings | faiss | langchain,1733,0.01733
+skill_triplet,faiss | langchain | prompt engineering,1733,0.01733
+skill_triplet,faiss | langchain | semantic search,1733,0.01733
+skill_triplet,information retrieval | langchain | pinecone,1733,0.01733
+skill_triplet,pinecone | semantic search | vector search,1733,0.01733
+skill_triplet,hugging face transformers | llms | prompt engineering,1733,0.01733
+skill_triplet,information retrieval | pinecone | prompt engineering,1733,0.01733
+skill_triplet,embeddings | information retrieval | semantic search,1733,0.01733
+skill_triplet,embeddings | hugging face transformers | information retrieval,1732,0.01732
+skill_triplet,information retrieval | sentence transformers | vector search,1732,0.01732
+skill_triplet,hugging face transformers | prompt engineering | rag,1732,0.01732
+skill_triplet,langchain | pinecone | vector search,1731,0.01731
+skill_triplet,embeddings | llms | sentence transformers,1731,0.01731
+skill_triplet,hugging face transformers | llms | recommendation systems,1731,0.01731
+skill_triplet,hugging face transformers | rag | vector search,1731,0.01731
+skill_triplet,hugging face transformers | langchain | vector search,1731,0.01731
+skill_triplet,langchain | rag | semantic search,1731,0.01731
+skill_triplet,hugging face transformers | prompt engineering | vector search,1731,0.01731

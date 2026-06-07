@@ -1,0 +1,196 @@
+{
+  "candidate_id": "CAND_0002095",
+  "profile": {
+    "anonymized_name": "Kabir Arora",
+    "headline": "Business Analyst | 15.0+ yrs experience",
+    "summary": "Professional with 15.0+ years of experience. I've spent my career in marketing manager roles, mostly focused on driving outcomes through process, people, and customer relationships. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Indore, Madhya Pradesh",
+    "country": "India",
+    "years_of_experience": 15.0,
+    "current_title": "Business Analyst",
+    "current_company": "Stark Industries",
+    "current_company_size": "1001-5000",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Stark Industries",
+      "title": "Business Analyst",
+      "start_date": "2022-06-17",
+      "end_date": null,
+      "duration_months": 48,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Graphic Designer",
+      "start_date": "2018-12-21",
+      "end_date": "2022-06-03",
+      "duration_months": 42,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Infosys",
+      "title": "Project Manager",
+      "start_date": "2017-04-16",
+      "end_date": "2018-12-07",
+      "duration_months": 20,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Accountant",
+      "start_date": "2016-03-22",
+      "end_date": "2017-04-16",
+      "duration_months": 13,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "HR Manager",
+      "start_date": "2011-07-17",
+      "end_date": "2016-02-21",
+      "duration_months": 56,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    }
+  ],
+  "education": [
+    {
+      "institution": "SRM Chennai",
+      "degree": "B.Tech",
+      "field_of_study": "Statistics",
+      "start_year": 2007,
+      "end_year": 2011,
+      "grade": "7.18 CGPA",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "GraphQL",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 4
+    },
+    {
+      "name": "BigQuery",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 22
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 15
+    },
+    {
+      "name": "SQL",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 20
+    },
+    {
+      "name": "Sales",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 27
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 30
+    },
+    {
+      "name": "Project Management",
+      "proficiency": "beginner",
+      "endorsements": 11,
+      "duration_months": 12
+    },
+    {
+      "name": "Diffusion Models",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 30
+    },
+    {
+      "name": "Terraform",
+      "proficiency": "beginner",
+      "endorsements": 13,
+      "duration_months": 13
+    },
+    {
+      "name": "Go",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 15
+    },
+    {
+      "name": "SEO",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 9
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2025
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 79.9,
+    "signup_date": "2022-09-22",
+    "last_active_date": "2026-04-27",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 74,
+    "applications_submitted_30d": 2,
+    "recruiter_response_rate": 0.6,
+    "avg_response_time_hours": 262.6,
+    "skill_assessment_scores": {},
+    "connection_count": 151,
+    "endorsements_received": 36,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 3.6,
+      "max": 24.3
+    },
+    "preferred_work_mode": "onsite",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 19,
+    "saved_by_recruiters_30d": 9,
+    "interview_completion_rate": 0.59,
+    "offer_acceptance_rate": 0.38,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

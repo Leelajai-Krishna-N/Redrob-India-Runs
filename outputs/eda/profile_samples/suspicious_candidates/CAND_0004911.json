@@ -1,0 +1,293 @@
+{
+  "candidate_id": "CAND_0004911",
+  "profile": {
+    "anonymized_name": "Rahul Kumar",
+    "headline": "Marketing Manager | Exploring AI & GenAI applications",
+    "summary": "Marketing Manager with 13.9+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Hyderabad, Telangana",
+    "country": "India",
+    "years_of_experience": 13.9,
+    "current_title": "Marketing Manager",
+    "current_company": "Globex Inc",
+    "current_company_size": "501-1000",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Globex Inc",
+      "title": "Marketing Manager",
+      "start_date": "2024-02-07",
+      "end_date": null,
+      "duration_months": 28,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Initech",
+      "title": "Accountant",
+      "start_date": "2021-06-22",
+      "end_date": "2024-02-07",
+      "duration_months": 32,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Content writing and SEO strategy for a tech-focused publication. Wrote longform articles on developer tools, cloud platforms, and AI/ML topics — including some that ranked on the first page of search for high-competition keywords. Managed a freelance writer pool and the editorial calendar. Recent work has been on AI-assisted content production, using LLM tools for research, drafting, and editing while maintaining editorial quality."
+    },
+    {
+      "company": "TCS",
+      "title": "Civil Engineer",
+      "start_date": "2020-03-22",
+      "end_date": "2021-06-15",
+      "duration_months": 15,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Wipro",
+      "title": "Content Writer",
+      "start_date": "2016-03-13",
+      "end_date": "2020-03-22",
+      "duration_months": 49,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "Wayne Enterprises",
+      "title": "Civil Engineer",
+      "start_date": "2014-04-23",
+      "end_date": "2016-02-12",
+      "duration_months": 22,
+      "is_current": false,
+      "industry": "Conglomerate",
+      "company_size": "10001+",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Business Analyst",
+      "start_date": "2012-10-30",
+      "end_date": "2014-04-23",
+      "duration_months": 18,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    }
+  ],
+  "education": [
+    {
+      "institution": "VIT Vellore",
+      "degree": "B.Tech",
+      "field_of_study": "Artificial Intelligence",
+      "start_year": 2008,
+      "end_year": 2013,
+      "grade": "7.06 CGPA",
+      "tier": "tier_2"
+    },
+    {
+      "institution": "IIT Madras",
+      "degree": "M.S.",
+      "field_of_study": "Machine Learning",
+      "start_year": 2018,
+      "end_year": 2021,
+      "grade": "6.72 CGPA",
+      "tier": "tier_1"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Spark",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 21
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 21
+    },
+    {
+      "name": "Terraform",
+      "proficiency": "intermediate",
+      "endorsements": 11,
+      "duration_months": 35
+    },
+    {
+      "name": "Accounting",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 10
+    },
+    {
+      "name": "Databricks",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 2
+    },
+    {
+      "name": "Illustrator",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 16
+    },
+    {
+      "name": "Snowflake",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 25
+    },
+    {
+      "name": "Angular",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 7
+    },
+    {
+      "name": "Redis",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 4
+    },
+    {
+      "name": "Feature Engineering",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 25
+    },
+    {
+      "name": "Data Pipelines",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 12
+    },
+    {
+      "name": "Information Retrieval",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 6
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 9
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 14
+    },
+    {
+      "name": "Vector Search",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 5
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 9
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 15
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 14
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "advanced",
+      "endorsements": 4,
+      "duration_months": 16
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 13
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 2,
+      "duration_months": 11
+    },
+    {
+      "name": "Recommendation Systems",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 15
+    },
+    {
+      "name": "Embeddings",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 18
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2022
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "year": 2025
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 50.6,
+    "signup_date": "2024-10-27",
+    "last_active_date": "2025-11-15",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 66,
+    "applications_submitted_30d": 4,
+    "recruiter_response_rate": 0.17,
+    "avg_response_time_hours": 216.5,
+    "skill_assessment_scores": {},
+    "connection_count": 396,
+    "endorsements_received": 0,
+    "notice_period_days": 30,
+    "expected_salary_range_inr_lpa": {
+      "min": 5.9,
+      "max": 24.1
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 114,
+    "saved_by_recruiters_30d": 6,
+    "interview_completion_rate": 0.69,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "candidate_id": "CAND_0000073",
+  "profile": {
+    "anonymized_name": "Pari Rao",
+    "headline": "Project Manager | 12.1+ yrs experience",
+    "summary": "Professional with 12.1+ years of experience. I'm a marketing manager with substantial experience in cross-functional collaboration, stakeholder management, and execution. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Chandigarh, Chandigarh",
+    "country": "India",
+    "years_of_experience": 12.1,
+    "current_title": "Project Manager",
+    "current_company": "Stark Industries",
+    "current_company_size": "1001-5000",
+    "current_industry": "Manufacturing"
+  },
+  "career_history": [
+    {
+      "company": "Stark Industries",
+      "title": "Project Manager",
+      "start_date": "2022-03-19",
+      "end_date": null,
+      "duration_months": 51,
+      "is_current": true,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "Operations Manager",
+      "start_date": "2018-06-08",
+      "end_date": "2022-03-19",
+      "duration_months": 46,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Infosys",
+      "title": "Accountant",
+      "start_date": "2015-10-22",
+      "end_date": "2018-06-08",
+      "duration_months": 32,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Infosys",
+      "title": "Business Analyst",
+      "start_date": "2014-06-29",
+      "end_date": "2015-08-23",
+      "duration_months": 14,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets; owned the escalation process to engineering and the customer-feedback loop to product. Built out the support knowledge base and the agent training program. Strong on the people-management side and the process side; lighter on technical depth beyond product expertise."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tier-3 Engineering College",
+      "degree": "M.E.",
+      "field_of_study": "Electrical Engineering",
+      "start_year": 2002,
+      "end_year": 2007,
+      "grade": "73%",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "AWS",
+      "proficiency": "intermediate",
+      "endorsements": 15,
+      "duration_months": 8
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 3
+    },
+    {
+      "name": "Kubeflow",
+      "proficiency": "advanced",
+      "endorsements": 10,
+      "duration_months": 43
+    },
+    {
+      "name": "dbt",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 28
+    },
+    {
+      "name": "Next.js",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 14
+    },
+    {
+      "name": "Go",
+      "proficiency": "beginner",
+      "endorsements": 3,
+      "duration_months": 11
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "native"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 65.8,
+    "signup_date": "2026-04-27",
+    "last_active_date": "2026-02-06",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 70,
+    "applications_submitted_30d": 2,
+    "recruiter_response_rate": 0.72,
+    "avg_response_time_hours": 151.9,
+    "skill_assessment_scores": {
+      "Kubeflow": 57.6
+    },
+    "connection_count": 270,
+    "endorsements_received": 26,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 8.8,
+      "max": 16.7
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 62,
+    "saved_by_recruiters_30d": 8,
+    "interview_completion_rate": 0.53,
+    "offer_acceptance_rate": 0.48,
+    "verified_email": false,
+    "verified_phone": true,
+    "linkedin_connected": false
+  }
+}

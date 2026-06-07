@@ -1,0 +1,193 @@
+{
+  "candidate_id": "CAND_0045026",
+  "profile": {
+    "anonymized_name": "Aarohi Chowdary",
+    "headline": "DevOps Engineer | Cloud & DevOps",
+    "summary": "Software engineer with 7.7 years of experience across web, backend, and cloud systems. Strong fundamentals in software development and system design. My background is full-stack, but my comfort zone is the backend and the database. I've been keeping up with AI/ML at a self-learner level — taken some online courses, played with the OpenAI and Anthropic APIs, built a small RAG side project — but I haven't done it in a professional capacity yet. Open to roles where I can either deepen my software engineering work or, if the team is open to it, start contributing to ML-adjacent systems.",
+    "location": "Mumbai, Maharashtra",
+    "country": "India",
+    "years_of_experience": 7.7,
+    "current_title": "DevOps Engineer",
+    "current_company": "Zomato",
+    "current_company_size": "5001-10000",
+    "current_industry": "Food Delivery"
+  },
+  "career_history": [
+    {
+      "company": "Zomato",
+      "title": "DevOps Engineer",
+      "start_date": "2023-11-09",
+      "end_date": null,
+      "duration_months": 31,
+      "is_current": true,
+      "industry": "Food Delivery",
+      "company_size": "5001-10000",
+      "description": "Android mobile development using Java and (more recently) Kotlin at a consumer-app company. Built and maintained multiple production features including the main shopping flow, push notification system, and the offline-first sync layer. Comfortable with the Android framework, Jetpack components, and the typical patterns (MVVM, Hilt, Coroutines). My career has been entirely on mobile so far; interested in expanding into broader backend or platform engineering."
+    },
+    {
+      "company": "Cognizant",
+      "title": "Cloud Engineer",
+      "start_date": "2020-08-26",
+      "end_date": "2023-10-10",
+      "duration_months": 38,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Cloud infrastructure and DevOps work at an enterprise SaaS company. Owned the AWS account architecture (VPC, IAM, networking), the Terraform modules for our service deployments, and the Kubernetes cluster operations. Designed the CI/CD pipelines (GitLab CI + ArgoCD) and the monitoring stack (Prometheus, Grafana, Loki). Strong on the infra and ops side; haven't done much application development."
+    },
+    {
+      "company": "Wipro",
+      "title": "Software Engineer",
+      "start_date": "2019-08-02",
+      "end_date": "2020-08-26",
+      "duration_months": 13,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Test automation and QA engineering for a fintech product. Built and maintained the end-to-end test suite using Selenium and pytest, plus the load-testing setup using Locust. Worked closely with developers on testability patterns and with product on acceptance criteria. Recent work has been on shifting test responsibility into the dev team — moving from QA-as-gate to QA-as-coach. Career has been entirely in QA/test engineering."
+    },
+    {
+      "company": "Flipkart",
+      "title": ".NET Developer",
+      "start_date": "2018-10-06",
+      "end_date": "2019-07-03",
+      "duration_months": 9,
+      "is_current": false,
+      "industry": "E-commerce",
+      "company_size": "10001+",
+      "description": "Full-stack web application development at a SaaS company. Built React-based admin interfaces and the Node.js REST API backing them. Worked across the stack: frontend components, REST endpoint design, PostgreSQL schema, deployment via Docker/Kubernetes. Comfortable in most parts of a typical web stack though my comfort zone is the backend and database side. Recent learning has been on the testing and CI/CD discipline."
+    }
+  ],
+  "education": [
+    {
+      "institution": "VIT Chennai",
+      "degree": "B.E.",
+      "field_of_study": "MBA",
+      "start_year": 2015,
+      "end_year": 2018,
+      "grade": "75%",
+      "tier": "tier_3"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Project Management",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 9
+    },
+    {
+      "name": "HTML",
+      "proficiency": "beginner",
+      "endorsements": 12,
+      "duration_months": 18
+    },
+    {
+      "name": "Figma",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 35
+    },
+    {
+      "name": "Content Writing",
+      "proficiency": "beginner",
+      "endorsements": 9,
+      "duration_months": 11
+    },
+    {
+      "name": "Salesforce CRM",
+      "proficiency": "intermediate",
+      "endorsements": 10,
+      "duration_months": 12
+    },
+    {
+      "name": "Apache Beam",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 8
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 25
+    },
+    {
+      "name": "YOLO",
+      "proficiency": "advanced",
+      "endorsements": 18,
+      "duration_months": 19
+    },
+    {
+      "name": "Airflow",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 14
+    },
+    {
+      "name": "Angular",
+      "proficiency": "beginner",
+      "endorsements": 1,
+      "duration_months": 16
+    },
+    {
+      "name": "Snowflake",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 9
+    },
+    {
+      "name": "Agile",
+      "proficiency": "intermediate",
+      "endorsements": 14,
+      "duration_months": 27
+    },
+    {
+      "name": "Data Pipelines",
+      "proficiency": "beginner",
+      "endorsements": 11,
+      "duration_months": 14
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "native"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 33.7,
+    "signup_date": "2024-12-03",
+    "last_active_date": "2026-02-27",
+    "open_to_work_flag": false,
+    "profile_views_received_30d": 75,
+    "applications_submitted_30d": 9,
+    "recruiter_response_rate": 0.22,
+    "avg_response_time_hours": 47.0,
+    "skill_assessment_scores": {
+      "YOLO": 46.1
+    },
+    "connection_count": 551,
+    "endorsements_received": 28,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 20.5,
+      "max": 14.3
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 87,
+    "saved_by_recruiters_30d": 12,
+    "interview_completion_rate": 0.41,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": true,
+    "linkedin_connected": true
+  }
+}

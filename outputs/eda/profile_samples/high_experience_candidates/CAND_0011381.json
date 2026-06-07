@@ -1,0 +1,195 @@
+{
+  "candidate_id": "CAND_0011381",
+  "profile": {
+    "anonymized_name": "Dhruv Chopra",
+    "headline": "Mechanical Engineer | Helping teams scale",
+    "summary": "Professional with 15.0+ years of experience. My professional background is in marketing manager — I've built and led teams, owned KPIs, and driven business outcomes in this domain. Lately I've been curious about how AI tools could augment my work — I've experimented with ChatGPT and a few other tools for productivity and content creation, and I think the space is exciting. Open to roles where I can apply my domain expertise alongside emerging AI capabilities.",
+    "location": "Chandigarh, Chandigarh",
+    "country": "India",
+    "years_of_experience": 15.0,
+    "current_title": "Mechanical Engineer",
+    "current_company": "Initech",
+    "current_company_size": "51-200",
+    "current_industry": "Software"
+  },
+  "career_history": [
+    {
+      "company": "Initech",
+      "title": "Mechanical Engineer",
+      "start_date": "2024-08-05",
+      "end_date": null,
+      "duration_months": 22,
+      "is_current": true,
+      "industry": "Software",
+      "company_size": "51-200",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Graphic Designer",
+      "start_date": "2021-04-23",
+      "end_date": "2024-06-06",
+      "duration_months": 38,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Senior accounting role at a mid-sized company — month-end close, financial reporting, statutory compliance (GAAP / Ind-AS), and tax filings. Owned the GL, fixed-asset register, and the audit-readiness function. Managed a team of 3 staff accountants. Built strong process discipline around the close cycle, reducing close time from 12 days to 7 over the last two years."
+    },
+    {
+      "company": "Pied Piper",
+      "title": "Sales Executive",
+      "start_date": "2018-10-06",
+      "end_date": "2021-04-23",
+      "duration_months": 31,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "11-50",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Project Manager",
+      "start_date": "2016-10-16",
+      "end_date": "2018-10-06",
+      "duration_months": 24,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Dunder Mifflin",
+      "title": "Accountant",
+      "start_date": "2014-10-27",
+      "end_date": "2016-10-16",
+      "duration_months": 24,
+      "is_current": false,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    },
+    {
+      "company": "Globex Inc",
+      "title": "Marketing Manager",
+      "start_date": "2011-08-14",
+      "end_date": "2014-10-27",
+      "duration_months": 39,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "501-1000",
+      "description": "Enterprise sales of cloud software solutions into the mid-market segment. Carried a $1.8M ARR quota and consistently delivered against it across the last three years. Owned the full sales cycle: prospecting, discovery, technical evaluation (with SE support), commercial negotiation, and close. Strong on consultative selling for technical buyers; comfortable engaging with both engineering and finance stakeholders."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Generic State University",
+      "degree": "M.Sc",
+      "field_of_study": "Computer Science",
+      "start_year": 2004,
+      "end_year": 2007,
+      "grade": "8.53 CGPA",
+      "tier": "tier_4"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Feature Engineering",
+      "proficiency": "advanced",
+      "endorsements": 33,
+      "duration_months": 38
+    },
+    {
+      "name": "Scrum",
+      "proficiency": "beginner",
+      "endorsements": 10,
+      "duration_months": 12
+    },
+    {
+      "name": "Docker",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 4
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "intermediate",
+      "endorsements": 6,
+      "duration_months": 23
+    },
+    {
+      "name": "Project Management",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 14
+    },
+    {
+      "name": "CSS",
+      "proficiency": "intermediate",
+      "endorsements": 8,
+      "duration_months": 22
+    },
+    {
+      "name": "Apache Beam",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 34
+    },
+    {
+      "name": "FastAPI",
+      "proficiency": "beginner",
+      "endorsements": 0,
+      "duration_months": 2
+    },
+    {
+      "name": "SQL",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 24
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 19
+    }
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 25.5,
+    "signup_date": "2024-01-12",
+    "last_active_date": "2026-02-14",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 52,
+    "applications_submitted_30d": 7,
+    "recruiter_response_rate": 0.55,
+    "avg_response_time_hours": 11.4,
+    "skill_assessment_scores": {},
+    "connection_count": 252,
+    "endorsements_received": 27,
+    "notice_period_days": 90,
+    "expected_salary_range_inr_lpa": {
+      "min": 11.6,
+      "max": 12.9
+    },
+    "preferred_work_mode": "hybrid",
+    "willing_to_relocate": false,
+    "github_activity_score": -1,
+    "search_appearance_30d": 120,
+    "saved_by_recruiters_30d": 11,
+    "interview_completion_rate": 0.47,
+    "offer_acceptance_rate": -1,
+    "verified_email": true,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}

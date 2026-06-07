@@ -1,0 +1,256 @@
+{
+  "candidate_id": "CAND_0001871",
+  "profile": {
+    "anonymized_name": "Vivaan Reddy",
+    "headline": "Marketing Manager | Generative AI explorer",
+    "summary": "Marketing Manager with 14.7+ years of experience driving outcomes in my domain. I have built strong functional expertise in the typical responsibilities of the role, including team management, stakeholder communication, and project delivery. Recently I've been excited about how AI and GenAI tools can augment my work. I've been taking online courses on RAG and vector databases, experimenting with LangChain and the OpenAI API for side projects, and exploring how LLMs can streamline workflows in my current function. Open to roles that combine my existing domain experience with emerging AI technologies — I think the most interesting opportunities are at this intersection. Looking for positions where I can contribute both my functional expertise and grow my AI capabilities.",
+    "location": "Pune, Maharashtra",
+    "country": "India",
+    "years_of_experience": 14.7,
+    "current_title": "Marketing Manager",
+    "current_company": "Dunder Mifflin",
+    "current_company_size": "201-500",
+    "current_industry": "Paper Products"
+  },
+  "career_history": [
+    {
+      "company": "Dunder Mifflin",
+      "title": "Marketing Manager",
+      "start_date": "2022-08-16",
+      "end_date": null,
+      "duration_months": 46,
+      "is_current": true,
+      "industry": "Paper Products",
+      "company_size": "201-500",
+      "description": "Marketing leadership role at a B2B SaaS company. Owned the demand-generation function — content marketing, paid acquisition, SEO, email nurture. Built and managed a team of 5 across content, performance marketing, and marketing operations. Worked closely with sales on lead-quality definitions and the SDR-handoff process. Recent focus has been on account-based marketing for our enterprise segment."
+    },
+    {
+      "company": "TCS",
+      "title": "Marketing Manager",
+      "start_date": "2018-06-08",
+      "end_date": "2022-08-16",
+      "duration_months": 51,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Operations management role at a logistics company. Owned daily fulfillment operations across 3 warehouses, managing a team of 80 across receiving, picking, packing, and outbound. Built and tracked the operational KPIs (on-time fulfillment, accuracy, cost per order) and led the continuous improvement initiatives that drove a 22% productivity gain over 18 months."
+    },
+    {
+      "company": "TCS",
+      "title": "Business Analyst",
+      "start_date": "2015-08-23",
+      "end_date": "2018-06-08",
+      "duration_months": 34,
+      "is_current": false,
+      "industry": "IT Services",
+      "company_size": "10001+",
+      "description": "Brand design and creative direction at a consumer-products company. Owned brand identity (logo, visual system, typography), packaging design, and digital creative across web and social. Led the recent rebrand and managed a small external agency for production work. Comfortable across the Adobe suite, Figma, and the production side of brand and packaging design."
+    },
+    {
+      "company": "Hooli",
+      "title": "Sales Executive",
+      "start_date": "2013-09-02",
+      "end_date": "2015-08-23",
+      "duration_months": 24,
+      "is_current": false,
+      "industry": "Software",
+      "company_size": "1001-5000",
+      "description": "Mechanical engineering design role at a hardware-product company. Led the design of two product subsystems through full lifecycle: concept, DFM/DFMA review, prototype, production tooling. Comfortable with CAD (SolidWorks, Creo), FEA (ANSYS), and the typical hardware-development cadence. Worked closely with manufacturing partners on production scale-up."
+    },
+    {
+      "company": "Stark Industries",
+      "title": "Mechanical Engineer",
+      "start_date": "2012-01-27",
+      "end_date": "2013-08-19",
+      "duration_months": 19,
+      "is_current": false,
+      "industry": "Manufacturing",
+      "company_size": "1001-5000",
+      "description": "Business analyst at a consulting firm, working primarily with retail and CPG clients. Conducted business diagnostics, process re-engineering work, and digital transformation strategy projects. Strong on stakeholder management, structured problem-solving, and the typical consulting toolkit (slide-craft, Excel modeling, executive communication). Recent project work involved AI-strategy advisory but my own technical depth in AI is limited."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Delhi College of Engineering",
+      "degree": "M.Sc",
+      "field_of_study": "Machine Learning",
+      "start_year": 2011,
+      "end_year": 2016,
+      "grade": "92%",
+      "tier": "tier_2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "dbt",
+      "proficiency": "beginner",
+      "endorsements": 14,
+      "duration_months": 4
+    },
+    {
+      "name": "Scrum",
+      "proficiency": "intermediate",
+      "endorsements": 2,
+      "duration_months": 17
+    },
+    {
+      "name": "Rust",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 20
+    },
+    {
+      "name": "FastAPI",
+      "proficiency": "beginner",
+      "endorsements": 4,
+      "duration_months": 6
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "intermediate",
+      "endorsements": 13,
+      "duration_months": 20
+    },
+    {
+      "name": "SEO",
+      "proficiency": "intermediate",
+      "endorsements": 10,
+      "duration_months": 8
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "beginner",
+      "endorsements": 8,
+      "duration_months": 16
+    },
+    {
+      "name": "React",
+      "proficiency": "beginner",
+      "endorsements": 15,
+      "duration_months": 8
+    },
+    {
+      "name": "Spark",
+      "proficiency": "intermediate",
+      "endorsements": 7,
+      "duration_months": 29
+    },
+    {
+      "name": "Redux",
+      "proficiency": "intermediate",
+      "endorsements": 9,
+      "duration_months": 11
+    },
+    {
+      "name": "Recommendation Systems",
+      "proficiency": "intermediate",
+      "endorsements": 3,
+      "duration_months": 7
+    },
+    {
+      "name": "Hugging Face Transformers",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 13
+    },
+    {
+      "name": "Pinecone",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 7
+    },
+    {
+      "name": "Semantic Search",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 10
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "advanced",
+      "endorsements": 0,
+      "duration_months": 6
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 18
+    },
+    {
+      "name": "RAG",
+      "proficiency": "intermediate",
+      "endorsements": 1,
+      "duration_months": 9
+    },
+    {
+      "name": "FAISS",
+      "proficiency": "advanced",
+      "endorsements": 1,
+      "duration_months": 5
+    },
+    {
+      "name": "LLMs",
+      "proficiency": "intermediate",
+      "endorsements": 4,
+      "duration_months": 16
+    },
+    {
+      "name": "Sentence Transformers",
+      "proficiency": "advanced",
+      "endorsements": 3,
+      "duration_months": 5
+    },
+    {
+      "name": "Fine-tuning LLMs",
+      "proficiency": "intermediate",
+      "endorsements": 0,
+      "duration_months": 10
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Scrum Master Certified",
+      "issuer": "Scrum Alliance",
+      "year": 2024
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "professional"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "conversational"
+    }
+  ],
+  "redrob_signals": {
+    "profile_completeness_score": 50.3,
+    "signup_date": "2025-04-14",
+    "last_active_date": "2026-04-03",
+    "open_to_work_flag": true,
+    "profile_views_received_30d": 64,
+    "applications_submitted_30d": 4,
+    "recruiter_response_rate": 0.75,
+    "avg_response_time_hours": 177.1,
+    "skill_assessment_scores": {},
+    "connection_count": 558,
+    "endorsements_received": 18,
+    "notice_period_days": 60,
+    "expected_salary_range_inr_lpa": {
+      "min": 5.7,
+      "max": 27.2
+    },
+    "preferred_work_mode": "flexible",
+    "willing_to_relocate": true,
+    "github_activity_score": -1,
+    "search_appearance_30d": 151,
+    "saved_by_recruiters_30d": 11,
+    "interview_completion_rate": 0.46,
+    "offer_acceptance_rate": -1,
+    "verified_email": false,
+    "verified_phone": false,
+    "linkedin_connected": false
+  }
+}
